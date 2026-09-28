@@ -1,0 +1,84 @@
+{
+  "evaluated_at_utc": "2026-09-12T05:15:57.151123+00:00",
+  "n_expected": 1187,
+  "n_valid": 1187,
+  "n_invalid_or_missing": 0,
+  "complete_for_final_reporting": true,
+  "accuracy": 0.9376579612468408,
+  "precision_class1": 0.9927849927849928,
+  "recall_class1": 0.9088507265521797,
+  "f1_class1": 0.9489655172413793,
+  "macro_f1": 0.9344394685773996,
+  "confusion_matrix_labels_0_1": [
+    [
+      425,
+      5
+    ],
+    [
+      69,
+      688
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.8603238866396761,
+      "recall": 0.9883720930232558,
+      "f1-score": 0.9199134199134199,
+      "support": 430.0
+    },
+    "1": {
+      "precision": 0.9927849927849928,
+      "recall": 0.9088507265521797,
+      "f1-score": 0.9489655172413793,
+      "support": 757.0
+    },
+    "accuracy": 0.9376579612468408,
+    "macro avg": {
+      "precision": 0.9265544397123344,
+      "recall": 0.9486114097877177,
+      "f1-score": 0.9344394685773996,
+      "support": 1187.0
+    },
+    "weighted avg": {
+      "precision": 0.9447999248469251,
+      "recall": 0.9376579612468408,
+      "f1-score": 0.9384411685884539,
+      "support": 1187.0
+    }
+  },
+  "bootstrap_95pct_ci": {
+    "accuracy": [
+      0.9241786015164279,
+      0.9502948609941028
+    ],
+    "f1_class1": [
+      0.9376798432517806,
+      0.9595714503086687
+    ],
+    "macro_f1": [
+      0.9201752459139049,
+      0.9477047324141543
+    ]
+  },
+  "topic_summary": {
+    "framework": "12 literature-grounded substantive topics + T00 fallback",
+    "n_valid_topic_annotations": 1187,
+    "t00_count": 84,
+    "t00_rate": 0.07076663858466722,
+    "secondary_topic_present_count": 754,
+    "secondary_topic_present_rate": 0.6352148272957034
+  },
+  "usage": {
+    "input_tokens": 1043498,
+    "output_tokens": 33990,
+    "cached_input_tokens_reported": 7947,
+    "cache_write_tokens_reported": 274708,
+    "conservative_uncached_equivalent_batch_cost_usd": 2.426896,
+    "rates_from_run_config": {
+      "input_per_mtok": 2.0,
+      "output_per_mtok": 10.0
+    },
+    "note": "Conservative local accounting treats all input as uncached; actual billing may be lower if caching applies."
+  },
+  "public_snapshot_note": "Batch identifier omitted; all scientific metrics and usage accounting retained."
+}

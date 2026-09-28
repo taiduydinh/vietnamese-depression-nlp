@@ -1,0 +1,54 @@
+{
+  "type": "object",
+  "properties": {
+    "predicted_label": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    },
+    "primary_topic": {
+      "type": "string",
+      "enum": [
+        "T00",
+        "T01",
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08",
+        "T09",
+        "T10",
+        "T11",
+        "T12"
+      ]
+    },
+    "secondary_topic": {
+      "type": "string",
+      "enum": [
+        "NONE",
+        "T01",
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08",
+        "T09",
+        "T10",
+        "T11",
+        "T12"
+      ]
+    }
+  },
+  "required": [
+    "predicted_label",
+    "primary_topic",
+    "secondary_topic"
+  ],
+  "additionalProperties": false
+}

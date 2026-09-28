@@ -1,0 +1,1188 @@
+dataset,source_row_id,text_sha256,gold_label,predicted_label,primary_topic,secondary_topic,primary_topic_name,secondary_topic_name
+1,1,d6c11f76c9f40ea176db25125d449b841a53bf0417c1b081593fa6bba626fcc3,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,8,a29f4600a8a4e0cd79a8a47d9ec7c28851a91b0dd8832aa58ea0b68c86590e7e,0,0,T00,NONE,Other/unclear,NONE
+1,11,64c8c56eb010cdeb612cc8ca1e323cb658c3dfa7136c8078ff4a386f457c0735,1,1,T06,T03,"Work, study, and financial/livelihood pressures","Motivation, hope/hopelessness, and purpose"
+1,14,d475855ccddf8bfb6081e6691084e1e984e5c317e18695907cd51e89e776a9dd,1,1,T10,T08,Alcohol and substance use,"Treatment, therapy, and medication"
+1,19,ef54130d04eb9ed4452b560e57b9077182d2330101b8941199d49a6ea54b5705,1,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,28,3c0942479d379b7f64db40baa502cf20f89746f57d9d6668b7e1f19d7cbd343d,1,1,T09,T03,"Help-seeking, coping, social support, and recovery","Motivation, hope/hopelessness, and purpose"
+1,38,2fe12ddafe7afa9f60e2e5d76813f9d223782c69d81e057f7d3ffc476276e868,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,47,d4400f851d84c6dcfe40716146810b7ec35c44d68b8241383340c9833c77edd6,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,52,61471854210f8b96dec0fb3f92d43ed4de39a7b30d2b1d5a117985d6c6b868d5,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,56,e248a2365b975812068108133209837faccded977f5ff44447d5323abbeed434,1,1,T01,NONE,Emotions and feelings,NONE
+1,57,0be0c8049d366befd8040a071a80b3b002c78d762eef6641866d92a23cb0e321,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,65,60d7ddd474f2f44417f1edbebe16adbb2ff0e72ad6b03a6c635c6a6ed971dce6,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,66,ffc5d6e3797a33722c36479618a42466bbca3795727d36bf4e050aace3d62c18,0,0,T00,NONE,Other/unclear,NONE
+1,67,59fc44974818ec07075cc852a3930048dfa41fb69e8eb6d45eb709dae2300adf,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,73,61877bb6736a0a867e96a29bd356b25bb3f1e9750c657c2b4e6f6925fa053bfb,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,78,4c97cce1369c96f433368cd5c01873fb722e0d3a24e6e249f577bb7f9231f20b,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,80,97e60eefe6fa42171ea3c37f4887b7116848c7ae1f10b09abaa063121430794d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,81,57a2728cb7346db8dc6dfaea7e4027084ca3f67ce4cc56ce3f1b7ad419683da9,1,1,T09,T07,"Help-seeking, coping, social support, and recovery","Daily functioning, sleep, and physical/vegetative state"
+1,90,3f81fc8d51d220dd4d188663a9fb1cfc0af5b7b5e8ed6488f73307740f2dd64c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,97,7d36673831a8150fc00e429f61c1b0a686eb16fad188013d7eba8fe8025b48dd,1,1,T02,T06,Self-perception and cognitive patterns,"Work, study, and financial/livelihood pressures"
+1,102,a44d9c421dad71cc44e124adbed9b6f16d413006228e2ec12189cfe1b0f1c879,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,105,761f986d507b6ae28a2ee507fb94bc71546558b13332da59f8a0082ab518900a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,109,3afb71619bf81805a2467448bb707a5052d11bf1302e282b6e49ae576efee7e6,1,1,T01,NONE,Emotions and feelings,NONE
+1,111,be7fda144b39e545ee7685ca181050ae868b3ef89b59a9abbed4507d8cb08c69,1,1,T01,NONE,Emotions and feelings,NONE
+1,115,2395a19f509e6240a74fd29f7f4237ee5026047af9f28304b24a0612f35a9606,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,116,72a8dd69e5e0bf8ec8b873ca8f37e610a81e440a258e5b33b82eb1d980e29676,1,1,T03,T02,"Motivation, hope/hopelessness, and purpose",Self-perception and cognitive patterns
+1,130,cbd9ab19e364654aba3268a609e33275a001483d5185178e5a369f8a8d3b9f60,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,134,047c8fa310f58e7176b74cf0d5b38482ca9932d5e6b3b5b5b70a431ed0e35c00,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,140,6c37fe1ec88aab4eb1a3dae1efaa67c710eaffc10e64289f9d637a887391e701,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,143,4e649777aaa9fd1a939425bc4a53bb8f087549a7b2e5277636b4bd2177a8a797,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,147,dcea881cdab70264ff6ca9440552a1e80e9ebc1206e7bc02da71dfa4bc475d3e,0,0,T04,NONE,Relationships and social connection,NONE
+1,148,6311b037fa0bbc7c202f2c373296446aeaf5af92cb75d84675714c3a7d0d1f18,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,165,2dfde28381abecbb1b65b235012b116ece5ed2d074c0cd639a954157949c5d3e,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,166,6c6737048d711ab66ef97a9a8e7ce720a298da611f8511d52442806ee85711e8,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,174,87fa3c8f95bd0eaeb918a2e1468e17a6e17d201ee65c27b449689efaaea4f2cd,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,182,6ae7f7dd2fa67a827199c0d443bbd4552f4d264cafb52cefba2826a371ca598b,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,186,5df434289515a327946816ac219044dc0673e9f7ed8a9c6fbd29bc6c4b92166a,1,1,T01,NONE,Emotions and feelings,NONE
+1,194,a03b6a9924a02401970709c9c71924b720d7008fd0d5e1c464063d889433de1c,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,199,fe231051bd14d03fffe7f4ec7c94e272055668fa180ff4e8023d342171fedfe3,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,203,d657e46e10fc70818f556839bbbd8fcc3468b66e702bdd9cd2f73066aac642e8,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,208,2a8033b2876a622811dbd6735e976ac54eafc3b5e390fd33a5e395fb2fb88761,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,213,4336fc00746a9373f86b643548809a10ea969cceac57d5523e190f699ecbdcdf,1,0,T07,T06,"Daily functioning, sleep, and physical/vegetative state","Work, study, and financial/livelihood pressures"
+1,216,c8123813b1172af1e1c7ef9172e4a4fec537f634771a62cc2db9e5aee39971c9,1,1,T06,T03,"Work, study, and financial/livelihood pressures","Motivation, hope/hopelessness, and purpose"
+1,222,b5991850a3630a0fc1b241cf1e05de818d94d7f19fa38d5c7de6255956b5f909,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,224,c96a976733fccbacbce3a5cb28bf0d26971c6a7d747e31da7a860fbf8683dc2d,1,1,T03,T04,"Motivation, hope/hopelessness, and purpose",Relationships and social connection
+1,225,59f077f3fd680f64005307d5636573f59f549f8c5f014e0034fac59110119b6d,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,239,0120042c20907675e8f5242f887408a75d9c5d624cd4750d29ac23c53899c8a2,1,1,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,240,55b26472ff56a72cd21d562ad590a369dd9803858593a6cf6d16f361824ff668,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,241,7be618d5aef40f093ea4b0a2188a43f08c434e42788e50fbb73e011f7a9469ed,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,243,6413aef844651acc2f53a9da53a2c14761b047dbc8380e04686e8aaaaab54b76,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,262,163c92d037dbc55127bb66dd53311115302fff577beda4ca926a6b649823f373,1,1,T07,T03,"Daily functioning, sleep, and physical/vegetative state","Motivation, hope/hopelessness, and purpose"
+1,275,dad107a1eb056a1b70c234c28ea6d7b1deba559790e8542a387bce0534cdde72,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,282,fdb5dfab11d8633d3ace770495d1e8467fd82d4cddd602c94bbf4b53d0ac5ad7,1,1,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,284,d8265baa70de4d7cea52381a907cc5b3426e73853e4aa5a1c3df69df65112cd1,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,285,e0b3a47c97b7c0eee9aa9e218b2bcf3f190db4383d2fb48bf0c14de4c448c900,1,1,T00,NONE,Other/unclear,NONE
+1,290,e3b0f254b15b092114ce63657049eaaaab166096f31588d2d6f7c82f3d84a386,0,0,T07,NONE,"Daily functioning, sleep, and physical/vegetative state",NONE
+1,298,f6cef95ef6bfff33cfd904b8caf1783f96cf3a7cc7f8e9ea46b12c3e7ec5d8e8,1,0,T07,T06,"Daily functioning, sleep, and physical/vegetative state","Work, study, and financial/livelihood pressures"
+1,302,b6f26ce33cf09ea72551915c01157558b7e4b11d295a2f59a95125fe194f7726,0,0,T00,NONE,Other/unclear,NONE
+1,314,36fbcc11c5f4c1259a93b6cabd64424169a6ac1032387b7529ccffea584f1c98,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,324,1d1cba89d8d17cb745df00c8927334edfea7046b60e083158ee9227c11e58b3a,0,0,T01,NONE,Emotions and feelings,NONE
+1,325,01da5c461b3ad24ae4ffb870ddf82ba81b2a88bb3929709624d5a98a8c1bd396,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,330,f51a3dc9f890db8636d8cf25ff62c2d608bc0da4b2a26b88d21c1cd4eae49927,1,1,T03,T01,"Motivation, hope/hopelessness, and purpose",Emotions and feelings
+1,345,3c8140a83c3e12e099d5759035709d8e5bd8e2ed657e0a760342c2e414357621,1,0,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,352,f14b250eb6ccf9adacfa01511c8fc292c3c00859fcbdf1c931f1619a41405531,1,1,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,356,101175222f863ec0972fd443b181ccb56fdae7ce9c49e46ef101632bd3b555e0,0,0,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,357,3ce8aee0d70709f389d63305bfb7e7e581e1cae5404747b4e2522496291b669c,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,360,28d10442c6c1c821915c77a40f328d0c38048c72d79533160ab1733485583a37,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,361,10032c2f8a33fa1d674c7a74699f3626ea4c50aaaa37df7fdd9cbe7524ff1cda,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,366,097afacf4a2a326e108403f2e5df42e3741d567003a8c988bcd150d48f020733,1,1,T02,T05,Self-perception and cognitive patterns,Family and parenting
+1,368,08d331bf982c0218bf5861f3eb4f861261af15133dbee3d86db518ef53266592,1,0,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,378,ff3e08e9b17abc8f9e2543c740090d74ddf54fabb5956605c8339c346d9280a6,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,382,4f28693ed0c3bd6d2941e57bcd1fcbb8c6f23087b41c0847fd18d3d066ab96b5,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,385,4d3c1aa6ff4c4fa1c8427bd0b71e03ce9aea940f6c53ebc8577a41e514dbd139,1,1,T10,T07,Alcohol and substance use,"Daily functioning, sleep, and physical/vegetative state"
+1,388,229501446785e8d1470857b70612c52ed848eb0abc3169de76835f3a9cd94f4c,0,1,T02,T06,Self-perception and cognitive patterns,"Work, study, and financial/livelihood pressures"
+1,393,6171adfc30df39b7ec6f7fe3e927c2b74f594b2d312bbdf4d8360c1c3e525081,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,396,beb515f3499b6f951e6b7cafb5d7eb7db6ad0751a480719554dcac0721d93310,1,1,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,400,9cc449fd46268c01af91bf239422ec18d158c2ea085df80dce8e8ac24a5759f9,1,0,T05,T01,Family and parenting,Emotions and feelings
+1,421,c015181e98768d9b709269d14a3f0e61abae1cc17a04b03a74e0ba0a1734ecee,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,428,39dc7830a2a9c92c317a15a086bfc0853d6c2b4a05d97c55113fbb0e4f6a3f3b,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,429,ab8a01d249ad3bd3a137f0c7f58bc089b00aee718172126fedf2d78b5fad732a,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,432,cae4ffc8c41288c3f97d8eb63b8c674c1aa2df5f2ec9a0d291cbcad803595d1f,1,1,T07,T06,"Daily functioning, sleep, and physical/vegetative state","Work, study, and financial/livelihood pressures"
+1,441,b12e2eb757a0fc6f4e1bb336051660519e57598af74da1103bb722796c424060,0,0,T00,NONE,Other/unclear,NONE
+1,444,f6d30cee5af3044cd4addad4538b093b08fa175b5d096d7eb6ccd887d01468f9,0,0,T05,NONE,Family and parenting,NONE
+1,445,28df7ac4f4e6175e11a0d3afa12bb572a9b38847c11b0f7c55fcac88d4144d12,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,453,308fdeb8e7a57b7b5425db339f6a929894a877a39bf6092d7bf1eb361ce5f90b,0,0,T00,NONE,Other/unclear,NONE
+1,458,2019540ff1ca2249d40f616dcae2ba0a5d7d948009ddbb27384b4dddc7fe1a0a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,459,2d114de449c9e127959514cbec0fbca3ffdd9fc4e51972aea9d39cc277619070,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,469,c10c1bb22e2f14d5d1d5a4196e99bc40e53915b371414ac302d778738237bf89,0,0,T12,T07,"General conversation, community, and leisure","Daily functioning, sleep, and physical/vegetative state"
+1,470,7d1edbeb994bc1992cca5f13b4620757928a20d0b8506b4c0f886fa83418612d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,474,e44fd3cf19cfb5bb7b38cbbf2d9931c17ca47a1efa7d7ae62a5f4ff4443cebbb,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,477,e9a85f1d8575b690f8f449ba5bb5c0a4e0fc9bfba0410492b0f515241299274b,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,495,697dab59e62d457a8e806434e92038fabebd7c6d39b6ca6f45d288ee60c2aef8,1,1,T12,T01,"General conversation, community, and leisure",Emotions and feelings
+1,515,5a33981c8b890eef15595f7b501ae8f7ce4e17f98e215dc9462f59342e03f818,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,516,7af458fb623a47784ee30740487128c4c68c83c622f5096a1398cfe622cfe2e1,1,1,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,521,726db891bb7fd0765d11103b629907b2ab342ce1cf4131dbfbe0b3900322b7c3,1,1,T03,T09,"Motivation, hope/hopelessness, and purpose","Help-seeking, coping, social support, and recovery"
+1,524,ee736fa7701e4934cda8a1bd4bcb5d22bcc690e421f4c8ad5a5f0f762233f60d,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,533,69d112d88a9eeafbab060260334f4a0abf55d8743092c132a1808e6affd09cfc,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,534,202f87a406e7e35a9d23eece371e27f93a977abde0d5680391c9ae58d57d6c28,0,0,T04,NONE,Relationships and social connection,NONE
+1,538,e8fe6885d7cdb35abbc9aa7bab9664e4462e9172a9607714522ac7ea92e2544d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,539,b2a3795d292fe53d958b859fc8c7967a2a818d5cee0ea0bfdf8e9124fa38fd47,0,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,546,c23b7a79afadbb08dc955c4d0d1bf4ef660167e2cacd01eb30a3da11e30fa942,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,548,52653c13ec937f31a14d4b97fe498a3a4949c4f36611cb82575c5ea1feeac211,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,551,5e9622cf1921a4967021c56d0bfdee6edf1388321b8a601a767213a335f534e9,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,558,43c0673c057cf00afc7f6ee7ef339b8939a4e95d08ae0e8d96cea644a925f947,0,0,T08,NONE,"Treatment, therapy, and medication",NONE
+1,560,ec06705ea4aad916af09d66d89217d4a6c453dd2b2f54394e9293281d53a31c9,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,561,5926aeee2995f47f6b508174acae79b84ba5723c74454a13008b30a91c46c133,1,1,T01,NONE,Emotions and feelings,NONE
+1,563,18bbed9cb6f8192280847b363c4c58a2fcc77d3b0d47c9d6c4ee4fc01fdacf26,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,564,9acd886e14ff95ecd824b24b5fd79ea1118037f20945329fea0f7575f83005ce,0,0,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,566,a3d8e96b2cc326f76cf6a566b06b9ad1a65fb6a3a8305e14eb47650c1183ae95,1,0,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,568,11824f2cbd52b5b98d4917da7fc0700c7e572aa60251b10461c8c19eb8ffbc3e,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,572,fcf74d345d9f215911599518eb02512774b9d8bb666e7eba4218b779bc3340a5,1,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,575,499d225e2bde39b5808d73fd359122b783daf4830074f6e0a64857b240f82b5b,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,581,31d94c834e484c7d01cf0d905567aa7b5f01484e80a3d3f35a317aa937130606,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,589,6a09aa093a714f90ca1330f3370a7c20cf46bf1f9203f52b88abf938b0304571,0,0,T00,NONE,Other/unclear,NONE
+1,591,1acdd70db4399751808777703099398a7872e6fc39152ce842f10cc7ce903a9f,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,596,a4fe4ff023135a959a483a16c661ddd2598b90da2bd9db52564937c8139bdcac,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,602,939acf9849ded7de4da15baaa132393ff7a01d3cbb8bc70c83fe106bfa932fe9,1,1,T01,T03,Emotions and feelings,"Motivation, hope/hopelessness, and purpose"
+1,606,531bb4a699fed5975c939667549279cfb5198f499c9fb21bde9152b6b109b7c0,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,616,25175d4146b965ffc440ac5db10a21e05178932860454c6095e4c82d4184dd0b,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,618,ec6975dd39ad9dd7b7c26264e852bcd46351955736e6d531681015979fff7468,1,1,T02,NONE,Self-perception and cognitive patterns,NONE
+1,622,af96e6e59e967b33dbdccd89c940ab20a3352ca27c154fcb2b7276168b328c40,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,629,db8dbb45df37812a580024b64cf34efe3a45eed1a16e32348f6bf3ef843325a9,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,631,f113fdce9aa0a9a1c048ca88431792343057de0d7f582c3286f61d4bfa2cccc5,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,637,dbc1100ac84d24627c1e41754f4e2bc7875125ddf42918c0626ddacb7ec90c1a,0,0,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,646,f68d87cb28b943c82d8ac59c4c33e03d502a28fa9feb160a626951a59d8eb7b6,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,648,5129e819ecce88c8704016d57eac2043b2fe181fa4122cee56bcc23671a5ccf0,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,653,e9b3ac64379d5fec752b85ba0f13102804001e8700d20d3ce03715ab52ad5077,0,0,T12,T06,"General conversation, community, and leisure","Work, study, and financial/livelihood pressures"
+1,654,1672f2bfa8c6d3696a03444d998e57767d7fa3812ff39cdf3fb0e33c1fa89351,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,655,dca45fce8937228a99a4524a8273237e79cbab02ea5bef0556e639090a00799f,1,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,663,8aa7c2e78b207f73dbd909abfd6bce8916a8d6d408abe906bdc30d599d5a83bc,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,668,2aa8d1a803e43585c8addbdf66e3ab28f676ee9f6e99c4da21c10898783ede84,1,1,T09,T12,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+1,677,f5c91e6c1b4d155318f81158b1c8fcd66e108b436e5287df27265270d9147167,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,685,56030797e9df795f79791f82e87b4d79935bbe6e763ce1a6ca3f312afd974736,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,686,5bb514b3db3780ec9f3502b737a58b3902e508d47c83180bcad237dee73303b9,0,0,T00,NONE,Other/unclear,NONE
+1,692,57f7a2c03a029d3fdd754b9a969466363fac554e8d6a46a6f563c970a9a95b93,1,1,T00,NONE,Other/unclear,NONE
+1,694,955fc5cc5d64f24983116ace7b551998ce204182f68a47cc7ce918bc11cfa619,0,0,T09,NONE,"Help-seeking, coping, social support, and recovery",NONE
+1,695,356cec55393bded1165ed1cc3378f5c3828f051e1119e6ee062283898d827fe7,0,0,T04,T09,Relationships and social connection,"Help-seeking, coping, social support, and recovery"
+1,703,f5c3cbde204ab7f0ad08e32c19abc4804a44ff5e526ef2cf05f1a29561bbfd2d,1,1,T05,T08,Family and parenting,"Treatment, therapy, and medication"
+1,708,4502693c6a91671eac9d280ea62652c1a03f2fc3654ced6fe8306c7b3060b2bd,0,1,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,709,0a5f3338af9c07fde207a9cd597dc3b216bc4056a8cffb9ea200692e667dd0d8,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,713,702591c4a95c4119e2e425613f32c9015d2b69b33cc6fca5c0eda0de9848ecc2,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,715,6b00cc98b99e40642ce477342bec5d43f332b2de6276b07d6b9dfe65a208d90f,1,0,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,717,814ec79dab64f9382f9fbdae4e692d28eac26f40cecc343edba071938150deb6,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,719,0ef567ff55c1e2e754475112d8a47eb82be5251a9af5507b8b27e6881c968052,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,726,501dff9c4cd275c451a8658d1328772fac37c2ce41f7a59f9f234d6200573996,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,732,84159493a91a9c7a8a170ead2405522bdb36ca698779923bbf912466e3a3c8b8,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,737,4efd6bea61eb4b0cc961eb3b9e27ebecf98706f790ab39bbe3e00548e3f06064,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,739,9fc1a21e3caeb9b818c78423392eea5b3f985d63b4d664a5440ef41412a2d7f8,1,1,T12,T01,"General conversation, community, and leisure",Emotions and feelings
+1,747,faaec473325f20a0cf4c6141d00731e0a5a311aa87709df1ada3188304be11eb,1,1,T10,T01,Alcohol and substance use,Emotions and feelings
+1,749,4be610706af4248097eda7aacc2477359124c8cdeaec91f507a7601e15ecb56a,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,758,d6951b39a1fdc3d197888e0f4efe4e3133275c92afb6a341b5f610e00f6fd6b5,1,1,T01,NONE,Emotions and feelings,NONE
+1,761,a72f508e8a31310b2d9135be183fb444d92f09738f222096581b69c08d5f2c37,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,762,9c738fe1c855363e87aa9f92c97ffccdd042628e707306ea7066157e3459f048,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,774,853551692e2a2dd8dbb8b9245e20d4f7f762fe68ef8bf715a4eb18ec7437e018,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,783,169bb4a610e4c433ad2987158ca308a322301ab4831c9a41e669ab73154122fe,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,792,2f1019fd020536803252ff8f89fded92ca35eff629a9ee766f7660b353823620,1,0,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,793,cf0148cf8734b36c1b2322433accd5f63c65d876f6e0f966def1e8ad530c32b5,1,1,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,796,38ba622a2f3e488f4886c67d49e6e40307e8c81c068b4d0be020d0711ad823d1,1,1,T04,T03,Relationships and social connection,"Motivation, hope/hopelessness, and purpose"
+1,800,36863845e0beb6af16a11ad75a776666d7636b7017a45700883fcaae7a0e07f6,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,811,0b30df92258e68b45ce4d6783d5231efbc8ffb26bd6dc782ff0542997898b345,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,819,949b999744cc1e9e4e866c136c16bbbe6750ba950a634ab6d173b093ad69c5a3,1,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,824,78700dff84e10a0f828d38d2b3b096c681358dc441096ece779c9f52b9423929,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,825,65c1a85f4979ac7bf19ff6de2cfa7071c41959d23e34972f0b78d9dc136c824b,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,828,27213052652720d585693445bc696334484a4afecbd3a5a8d1384765da8941de,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,831,82189074895626f23d11d42207e21636ce70e7632a384d09b50ed6d6974f1afd,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,851,8e931d7ca7a07084ae35a35579c50db1b3dc1e913821dcdce7c5bfe0d6f932f8,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,855,09f9287fb1bde42b8ba1b88c625e74ea8e856953ab3a3eef1d00bf88ea0da78b,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,859,3789ddc58b43b397307e98c99f5a593bbd16480b85ed211bcd336a2a033ca970,1,1,T02,T12,Self-perception and cognitive patterns,"General conversation, community, and leisure"
+1,870,c71330ce3e9c876ee159106e4d3b0087ceea2ec7db5ea5dec61ae241161d9e99,1,1,T01,NONE,Emotions and feelings,NONE
+1,874,e946f7500f46e203be70b35bf5b2adda18fed373db445c42df4b138fb4378243,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,887,490cf33ff2003dd43278d6a16f890cec58519bd7c3996f99d1ce3406f269bede,1,0,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,910,4fe1cbfcf6b2feea23e42cc2777fb21976aa1f03d7646433fbf81d0eb798f07b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,911,cc3eeb6ddfe08811464df039fb0eb3ea38fbd94789e9471092b58121a3936b29,1,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,917,ab52b6ca65a9a99fb7753b9024714d7c269d3db6a4edb70fd54a5f2712be100c,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,920,6552522b59e2100c3af25420b535650e379fe63b095d5e63339543d306608d85,0,0,T12,T07,"General conversation, community, and leisure","Daily functioning, sleep, and physical/vegetative state"
+1,922,87eb690c9b2bc4860b59d6aa502b98cc3f2cc81e64cf7e767688ad86cb3dd220,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,933,2293d94f1a9535562e6e0505c38cd7195ddd2e70afdcc22e4afd38f1fedb9e03,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,952,ce51bf2325c74654f331a7e3220739d02aefe908f829cc69f432681a5559da6e,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,954,d32f32989ff2baa25d0981ea0b7cfe1f47664cc509916e3805540cc1a63e90a5,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,963,5d6e57c7cbaf0af2eade99bdf11bb76dd22aa0a583bcb7907abc42a57f963ae1,1,1,T03,T02,"Motivation, hope/hopelessness, and purpose",Self-perception and cognitive patterns
+1,964,fa15bb48a77fedfb015d2525597dcddfde63dfac8c7ede8a906c95ab3552b325,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,965,3dfe9ea2afebb8ed2db2f64392b63a8735b0bf03a1f0131281282f3c30179489,1,1,T08,T10,"Treatment, therapy, and medication",Alcohol and substance use
+1,967,cae7c068d5579c1d294170b58e470cd253e37b4d7cfcf14fc4c063c7f32e8130,1,1,T10,T01,Alcohol and substance use,Emotions and feelings
+1,972,400d06964e72b31ce4abc9108bb58c0b27d8529946ed79d3b13f164c7b59faef,0,0,T02,NONE,Self-perception and cognitive patterns,NONE
+1,979,11cf7a2ac26ac9af26b6e4cbef6bb1a96c5264cc814f02a52cc8e27c75c5b5b1,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,987,085e0da8ad6ffc38288deafaa44720f0fbeb6656fce4ac231c14e0174fa0c721,1,1,T09,T03,"Help-seeking, coping, social support, and recovery","Motivation, hope/hopelessness, and purpose"
+1,994,1814b691f44c7e5c869d182d1e4ced4971db52d984e996becac7e3f11bdcb0ce,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,996,96b90e88bc379f6e708195e907303d1ad3a2152754a90f3ab331289080110d18,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,997,7fbf98461f021139a7b004d66b948d87ebd5c1bbe28a2f66fa8c9c178b6fd8e1,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,1007,33103cc446df7aa13e90a8566818a52942b865838acac9ee0e9b4454f8f974a1,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,1012,0fe751ec0ef6d5d2bf0517fe1166ff22077f4c78c7d2b57ade1179542949e961,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,1015,0deea49d1b6c0e90054cf490b2a5e0ebdafd054b061ab500d5db9562add842f4,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,1016,50b65a6be8910be25e98af60a576d2d6b4d7d758f2112265dc45d06d8e51ec62,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1017,29ae9529556e1ec6c293c875970e60de3e462544ca256fa950d99488ce6e7191,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,1031,6c820cba5521bf673eb33ad8e1f5cb8c75ab4baf81cd5235a0f7fa38f32ba60d,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,1032,6cd9e9e8bbf9e8a34e76e7014d3d009b6cde13eef46c87f080c1a1489f3ef687,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,1052,d82c306ddcad28feef23410a1928a808e937bf88075d18263ac68cb0ae39eb7b,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,1058,f5d805e0284c97b66ad5248d3b850ba6dcdc1798f1b369b6e79cd66187f4b693,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,1072,6c9d8c9f419ef00c6b2fed9f6b4aa08aff22a7e5e543e21e0cf560ae20f19ec9,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,1074,c571044ddf70757517b5108ef37b33441cb28108e26b878582b9a98533e44276,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,1080,84c504c35020759fa0f8f23011a101d596b158786da13628e812ce2a9db0bfd7,0,0,T00,NONE,Other/unclear,NONE
+1,1081,02af7bf8b5ec215729ef34d92b26fbb00486dee1dbc1c3b8f2e5097bcc8ee923,1,1,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,1082,3502a0c24dd768fa6c1e3c7134bf6302bc1db3a46bf1a3da0e1eea5ce324d324,0,0,T00,NONE,Other/unclear,NONE
+1,1089,016342f738d6ddfa0c05e1bcf945b7012ae1ecffb7ed509b631ba7fe40abe0ad,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,1097,cee27a96d4fc721aedc5bba9e6b2c961cb5d33b3c47c1040842dc5eed4979ece,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1099,5106ceffb0ae19a0e035bbb10d7d26d201bef6a06bd6241191c9820f5b3ace64,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1108,63536e5f4224de2b731783a2a32ea7f05bea52e211f5144a83e40ba8139c79b2,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,1119,559c21ae0b5ec3d557ca018ffbe8b2d2c43f644f20e0a10705dd87de67ec21a8,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1120,28e42b8fce54a017ee6b1d904f2608dcf970e6ee195b35a0bb69c69b22a03afb,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1130,d2079fa46ae49707067530dc671dca01029bddc86805c3e591be46c6244ea4b1,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1138,1243c09912b2ac01ca06c5aab70ef93f8f0ce7167dc6aa00e93bf83b161f049f,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1139,88028f3dc2c3c26fdd214e22bb7c28014b4a0c1d2fbd2cdd7bf286fc29386d37,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1141,0442082e939a5160fb2479b62340b9c099d40630d404711c13c7090ff17b268a,0,0,T00,NONE,Other/unclear,NONE
+1,1142,7943fc3723655f6dc676d01e3f1cbb3e77eadd9e41488e73160b04c5880d98bc,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1143,896b1b041ca5a0911952640696dac7b75cb738001b08d89626467bffaaa95bae,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,1145,3ea64cf110bf74a040f823d645b6be3d35bff43aa3925dc72fa1fd569b17c575,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1149,ac8bd19176a5cd2f13d99ef96f3e990fc75643d1edc778c1f73562f870150545,1,0,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,1151,e768e91de8b4ef1afb8b842b6553fbfb9ffff46de2fc2c3bc25d9ef26d78ab00,0,0,T04,NONE,Relationships and social connection,NONE
+1,1175,fce05915848970efde11c05acac35a96939c979777d3fb7dac0cda0bc5ea552d,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,1180,96f7ac36444fa267332acdf525604dc1293058eea4b12ba946da5cf116d7e2c5,0,0,T00,NONE,Other/unclear,NONE
+1,1189,5e67b5a9b9405f6948edb8bcdd1e8dd173dcc834029702162f2cba7572882367,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,1193,42e1811046732e49acb1b72cb9a335de3fce360bbb05d17eec04b948aa15a3bc,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1196,c500c95f2bb455c5feea7a995ebaf8b96c41183fdf0f6bb9dc62b5602d1fb7cf,1,0,T04,T01,Relationships and social connection,Emotions and feelings
+1,1199,047c81c478d12f2e096542f62fca2d53c231cc9e88496e87825120362e9fa353,1,0,T00,NONE,Other/unclear,NONE
+1,1205,5879746d1eb1d852dbc195743a6eda2dcc6c83a6cf5697685186070c0fd58882,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1210,11ce63805b717382485a2f3993398ecb98301f30923680d38ef0a45848dca5bd,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,1212,fbfdb99d76b985f0b099578cd59e4d776594c7f4b15b66a6e465752e55289c0a,1,1,T01,T06,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+1,1223,e5b97aca24fb01934a9516baf6b9e74287626efa29986ac7d581da7c631df427,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,1224,00983324e8f892d872cd8d42a16f3050efe284cc290db9150b509805ed039075,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1227,d09ee5b3861a0c458da6e92e1f67232ff9ae34f919856804342a935586d15436,1,1,T09,T02,"Help-seeking, coping, social support, and recovery",Self-perception and cognitive patterns
+1,1232,72bcbecf974325addcbf8f4593b6d2e64f7c2f482110ad4a7092071376c32391,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1238,fc57931ed659cecfb838ce9b908ae7642dabc5f0f0e0141ae38f33c9af17be27,0,0,T06,T03,"Work, study, and financial/livelihood pressures","Motivation, hope/hopelessness, and purpose"
+1,1244,efb368f652cbb09965af806035e4b3f31bc0117ea2c88e3ea07eec9e8f3cd75c,1,1,T05,T02,Family and parenting,Self-perception and cognitive patterns
+1,1268,28a3c9caba9b00c2e14638deb3179adb68d4949b0acea4038c78b3a8dcf3d2d2,0,0,T00,NONE,Other/unclear,NONE
+1,1273,1d866d310594112f7ff7d04088c52d118e39f02755be6d633bed471d40716a55,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,1275,a56c21d6eb2abdfacd345b51bfc4fb10a8c84692668c21774dec08e5a7177603,1,1,T09,T12,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+1,1280,f6dc2ad4000850ad86f5441eedabaca3ccf7ecc377182ee613308d1375ddc3ea,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1288,44c23e4a67606dbe7ab8e12190a7375540c03ea887613a15b29ecf764012181e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1290,6ad2c3dae425596a626ed76653e42dd86f29c139b2bfeac300d6c7a86b6f9b1f,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,1297,421678edd64573940f9dfbbf347e5ecc79d8ca9e712a1fc6eb3dc6cbf764a643,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1298,b3b3de468aef03f9993f3bffa4bd8873743d8625983ed8c72d430c1312f0aac9,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1300,485ec39678e24b1a565c50ef9cd5eb01b4ccd22b2534f350468d4a00ae3edd51,1,1,T04,T08,Relationships and social connection,"Treatment, therapy, and medication"
+1,1305,e9d4df647a6c24cb0e76c084b5a8ddba849fe29b9bbc76424a51198289080634,0,0,T09,T04,"Help-seeking, coping, social support, and recovery",Relationships and social connection
+1,1313,7fc48246c3e83ecd55cf5b1b63bb58d1a520fd9508b23cb4b13ac2570ac1211b,0,0,T12,T06,"General conversation, community, and leisure","Work, study, and financial/livelihood pressures"
+1,1314,b7ac87efcda931912df5cc533cdd54936f1523828c3a68ea25ce9d31bff32762,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,1315,b150fccd05f0e9685342f0a5a810a91010d3b74482fe9cf65692f7e092815b6b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1316,aaaadfb42d81bb00272c8d5d0e1b06625da84d20468bef6f5f00b3aaa05097c5,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,1319,d5055bf085df784de2b6259e32995550beeaa7765158c28dcc9e370c493712ee,0,0,T12,T09,"General conversation, community, and leisure","Help-seeking, coping, social support, and recovery"
+1,1325,782dd457df7c767f05adce6ef37c17b7b870dad04f124d07f79d5e7a81e11fe8,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1327,7c1a2d525f8c4f1e48946956ac6de860f2a6b8363c3fb57eae724c44b504899d,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1338,0d62ed9c8d3b9e702374ef88e3a04c778c1b14f3d6f572e7e9f971d913f6e443,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,1341,5c86031a85f075a6accbf3538191d326f0ded2e5071cab040c20fb20a58ff188,0,0,T10,NONE,Alcohol and substance use,NONE
+1,1343,936ba99ab6760807b590667f2627d1d7dbc21dd64c65a5030d72cd0522076b84,1,1,T05,T09,Family and parenting,"Help-seeking, coping, social support, and recovery"
+1,1351,bb527e7427f75c8f620cd61accf04c8eefef4c7b971947f008e309077756aedd,0,0,T00,NONE,Other/unclear,NONE
+1,1354,349ef882ff845d51567a9212e8583685e84da6313e536430d50cc31a86fc717b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1357,364cc90340f914b76802d48f517c5c74693b78aae5dffcba3791e975592005e2,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,1362,159350f5e9cd4321c506c39c57f2bc4173b65493f3601e80bc09982672e2ae6f,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,1364,68bcd6dce0e8a437187fa765985b8305baab6d17629705d0e312efcf8fad2f05,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1368,b4e5e73ba9587c5db8decac4c3edf9bd42c6949e83f27ce953b7bbe92f3cf908,1,1,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,1373,af46a92d65d752b136faef17b811c26bed27ce9263a790db24e1f82b18f5aef6,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,1382,6a539b888da57aa77183280d827cc544a89be65b2be292579379dfa5059962da,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,1390,ec4f2d071fc001b216187fdac6e6baa2ec35dbaca44db6c1c2bbb9f7e64b7afa,0,0,T00,NONE,Other/unclear,NONE
+1,1405,9bbdcf8538d7503ff82f6b4d2a02588cd85afb1bb860d06b5858406a3e5de315,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,1420,5c1125ec7106b1dd6134ab639893c797578d7372c99dfab28bc9c3261da276b2,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1425,5a56c3d3da4bca0d7f97c1a9ed89b44113b72698d0404a998a2fa7031cb0fef6,1,1,T11,T10,Self-harm and suicidality,Alcohol and substance use
+1,1427,87e408d57189175133a6f279f4bd1953e53ad893a6b3cd48cf6deab16ea5e2a4,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1432,c921cf0baeab11ba131b72c1fca5b9c31bfb9765b44ec20849eb6c2efe7a9191,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,1434,a76205544f046df8c416a3b20ca93078bc3b008670dd0281430f1aee00250ff2,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,1446,7803741698577e07281cb18cd21c7ab3c1e92c3c3b81d14adaf491bcd357f523,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1458,14374bd6cfc6fa7e993e36965f2c8d8fff18ae85f5e835cec8c33a2757ccb4d5,1,0,T00,NONE,Other/unclear,NONE
+1,1463,20b2bde16a07693f499004c1038d805c82c25b6562c5485ad6acee75154ac9b8,1,1,T09,T03,"Help-seeking, coping, social support, and recovery","Motivation, hope/hopelessness, and purpose"
+1,1466,4091e59b34f37d12ffc09567db071c626fd089bc760653c756457147abee79c7,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1477,a90b7e63d9968565c20081f41f3a85e2a08873c1b8b7c02070f14d3aee846903,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,1484,65cc6e5125fc41f06eb7bbae7da11584ceb9b1cc196b33cb2acf449685bc08db,1,0,T09,NONE,"Help-seeking, coping, social support, and recovery",NONE
+1,1490,f2afae08ab2a866a2e2135dd378b55068a9b4dd982acf2139fafcd7dcfcbc7e1,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,1499,17789982db935390691b288d78289404810ad41cebeb59e63f08ee69ac87942f,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,1500,69f17b481e965648f3d3ff6d44df363db695cb412559b133aa1a5b782bceef0e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1502,19cf84606a92daa3439b9e3536bce19d46abb3983fdb8e4768385b9649362da6,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,1508,21dcfccff945f1600d6d87c15890e30b3fd39aacce31384b02e00cff2f53e494,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1509,76d80725a66af80b77e5dd490c2d1b570cf2a38ab9f94e6a5926459807ad28ce,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,1511,6f5d29a35b25dc42458cb8809df218be5b16958bf44631a362d9e4aa42e7d0b5,1,1,T00,NONE,Other/unclear,NONE
+1,1514,87df5b406548e7f986170def778612665ded0b3a5f23008373a03c34338cf73e,1,1,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,1524,f756279ce0d46a8c050e500540068022a67f368fb4fe445c5d83232b8a9b4b73,1,1,T12,NONE,"General conversation, community, and leisure",NONE
+1,1525,4b98e058282834810f3c4b608b8726807e9d4f5237762f090abd350cc21958da,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1532,392f89f769eb2c8086a4c0aed5648d9e7fecf164f4af7e5660837e8b45e76893,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,1536,64ed81370a9ff6b9392f1bdbf9a26d84cb27369309826312f356742d962f5748,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1541,faf852a681631761afaf5f94c772369fa38ef38d560d76a50f04b946567e2f3f,1,1,T01,NONE,Emotions and feelings,NONE
+1,1542,db5b710fc63c4c7db493d96af76910766dc759d171f131a81f061ef1346c3003,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1549,21148f9de494bfbcb80995e60e441535c9a1c9803b19c5efa2a547fa764ab79b,1,0,T07,T08,"Daily functioning, sleep, and physical/vegetative state","Treatment, therapy, and medication"
+1,1550,5b704f3ce9943183330d3d3979308bd6c1bc2b5d65feb97b24102720d70cb54d,1,0,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1560,f6a053e0b4af33d50f1060a78226823e96d53a1a02b5ef37f3399b3223a00e44,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,1568,05cbc838ae21a940ea477a266e0ac3df03e1fe8c458a24008a7cbf2b9c0eb761,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1571,b18feac3250591d437fd25d079590eff1a8d2a64b7222e60278d40de8950ddff,1,1,T07,T04,"Daily functioning, sleep, and physical/vegetative state",Relationships and social connection
+1,1572,98f47c5bd32f5254bfaad185d08decd2851bb5ddb9722d48b66ec592bb8f819d,1,1,T07,T02,"Daily functioning, sleep, and physical/vegetative state",Self-perception and cognitive patterns
+1,1575,a4c63c457a22780923f4b9312d4f81aed8b136ebebd47b67da2f2ef5a568fa34,1,1,T01,T10,Emotions and feelings,Alcohol and substance use
+1,1577,db6b5f675bceac4abd0d876e996729882324f2474f384c8b7353ae6f85016418,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1580,6466bf2c1236cceda8eb61b3100f82fba909bd7c812f1cc7838485c6e6195278,1,1,T01,NONE,Emotions and feelings,NONE
+1,1585,dbc0ae364a653cbcb1800b67be5a5fa75de3a5e7febd8289212b807c6fa4bc4c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1586,9c3e1f81506ff64d03b8f2bf613f4c5ee48f05543f5dbdc0d1de65b3f7d7d8af,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1589,5b4abb558a5fe1994c50e09d45a2afd01f26d0a61d3ec6f648646bf119fafb78,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1595,e03acc82bd6037af66b13fa6fd8a1aefd23c557cb781082cbab88b7e3e846102,0,0,T08,T06,"Treatment, therapy, and medication","Work, study, and financial/livelihood pressures"
+1,1605,4bc2573065e40a4c45372d3ab5937fa25c059b702c549583dcd5712418828b1a,1,0,T00,NONE,Other/unclear,NONE
+1,1606,bb8514e44a20ae180c31e2af2915104f1a8bc015deebd7f58a5d174b9a1f91a4,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,1612,cba9c733f4d961f7d139a703ff8e658a0afcc68386fffce404442e44fccb45c1,0,0,T00,NONE,Other/unclear,NONE
+1,1615,fac9995986f9f1fde841e001e4e90d8a548ad991a94da6c026284cbcb72eea6c,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,1616,49249866e2dc1ecabc144b84194ab1add171199aabdfb9bf0869070ba969a282,1,1,T03,T06,"Motivation, hope/hopelessness, and purpose","Work, study, and financial/livelihood pressures"
+1,1624,7bef53066c3e3da4ed89f603e41234c817e23f95bfe22813c616ae927b8505b7,1,1,T00,NONE,Other/unclear,NONE
+1,1630,b6d4a22afdcf41960b165c7f3e209f46af01da585cf8bf59a24e17251516245e,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1635,f68a950c1defc0723949155f25fc44fb1d54511625e7c2588944d0b68132aa48,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1647,e2aaa852f7db3595c4df2dae8d87b7515239732f80fb34de9b0442fa777905ac,1,1,T09,T03,"Help-seeking, coping, social support, and recovery","Motivation, hope/hopelessness, and purpose"
+1,1652,24f5daf034a3f68c0225ac83625ff0202d25f639281759c0f17547ac73e42ecc,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1656,0d3d0b039ca438b6a637ed2ba57868e808dbab7ced13b06f30afe9144c78182a,1,1,T02,T03,Self-perception and cognitive patterns,"Motivation, hope/hopelessness, and purpose"
+1,1661,d3223d3eed2186b54d8135f32a98b73b869e9675c7c5882953d745317aa65872,1,0,T07,T08,"Daily functioning, sleep, and physical/vegetative state","Treatment, therapy, and medication"
+1,1663,dc73c1fcb18f0d6e195859f704a32ca76063a0fd3581446dcb43e645b5ab0d1c,1,1,T12,T01,"General conversation, community, and leisure",Emotions and feelings
+1,1673,d9ea4c941fb0a69ba676ef933aad6218d45dcdb6a237bf74acb284b33d3d17f1,1,1,T09,T04,"Help-seeking, coping, social support, and recovery",Relationships and social connection
+1,1674,c7a07595d1c15c4487ee1c15844a24d8588c344f8e1772d461962206339cafff,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,1676,085d9bdd7664e3aa9398ffdc0affef745b9db7538d631780f03b57cecce553e2,1,1,T01,NONE,Emotions and feelings,NONE
+1,1681,f814e780f7c6f9de9941b32f55def7027b364a8374f5962c1cff7cefdb504ef7,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,1685,f2c518ee7c350554e7b7053ad9cd55e4489e08b55e721f03ff23c0c88c381e5b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1696,c89ec741369e47294a121693a8af63a305ee28c37267a5d5ba925b08d6b78877,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,1701,d5967b67256c3337e9602b956374798dde32526b58f1d1e2a672153e92502eef,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1706,ad655548508914b10db6e9ff832f867f351bf63a243f4e68ee05c74b6cc5e742,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,1708,45497548322da2892bb973ebb5b58a63c51faca5e035fa5c0aa3858c32f8c59b,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,1710,772eb428ef5f47c7a097eff32e808536f5630d755d03ba58d1ad09b818bc6e5e,0,0,T00,NONE,Other/unclear,NONE
+1,1719,0a0da1e012420e0b9ddc9528f36f6a4d6ad14c822c6ba08a0ebb178391ce5f5f,1,1,T09,T05,"Help-seeking, coping, social support, and recovery",Family and parenting
+1,1740,203c2151c05fdbe8fc24f8c681426616346a5375f9f83e53f7552596e681fc8e,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,1743,79b2db90e7af4acffbed70d976d78df67d43c482b0b37ec36a0fcdcd560185f3,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1745,4d0262b25f123d2ad532eeec5b73e998b116953a255cca444f7e09008eef74b4,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,1747,c3e1f88233d2fda40ba2aff45889d5f0bb36e93a4ad4f351885a0ab40aa600b9,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,1752,29d8208d4374e83714fcc9d70bf100a81f718ed3bfee6c45e023918dce02f485,0,0,T00,NONE,Other/unclear,NONE
+1,1757,9a3d31c499f52c4272b01ff52faf24bbc625204dcb86ab1cf83375ff64c125e8,1,1,T02,T03,Self-perception and cognitive patterns,"Motivation, hope/hopelessness, and purpose"
+1,1758,54d8a7222e60e3705b5473b80af7f57d6ede29cde39b59d902a83eb054a8ce53,0,0,T01,NONE,Emotions and feelings,NONE
+1,1759,33e2d4af2da89c919c6ab7064f422b57acabf2df1f79a244e58ae05765c8baa2,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,1760,06cc6008aeb5df07916a8896403a04625c219aca8a7499258cc34e783617e661,1,1,T12,NONE,"General conversation, community, and leisure",NONE
+1,1763,be30234bd13ea8ee437b72a689c4fbd0b5fc3be92de4d010a62bbb05f6b70cac,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,1765,c5bace3b92754fdc81932d4c5ff8b1dfbb4ffda686c91c32f9a4c3534687c9d3,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,1772,72fd7c8ee7ba8e266da24a6b6b2cc54ce90beefb5dc2100994fdedd407bbee5f,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,1773,316f447d678b5680cfb29f1d8e161a7b0c6f87a5ba1d9c77388e3a2a3a53b05d,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,1776,deec2412be6ade00c49400ed051d0736f034a1272c329cf2037b534fcb0bef7d,0,0,T00,NONE,Other/unclear,NONE
+1,1789,5204471ad68611f74f76e64aa8ad4ff960db9da794335709771f1138c07a27ec,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1793,9e968a9143a65bdc46e2924d836165d0a47c4fb5d14bd341baf8f692e8327583,0,0,T00,NONE,Other/unclear,NONE
+1,1794,c1364f4e4e9bcdf75846f35b5ff69fbc33208fe228120be3dee5501f6d05fdc0,1,1,T08,NONE,"Treatment, therapy, and medication",NONE
+1,1796,8549dea518c18d7f0359a2685c1b4d49561767375057c6dbf76d5682a25bb0dc,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,1802,49261b4f9245eb62071e413ebff87419461c83b7bc1c4a9bc1048b4a33710eb3,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1814,24ba5c7942e2c64bcb4fb682be5e22c12c222e0deba368bf04da7c8c99a12810,1,1,T00,NONE,Other/unclear,NONE
+1,1816,47967afa861553b1ccaba9412ea516caf111e620d39c34260770da1a8146cf76,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1820,17b327230b5f67e8a9eb270e266d65f43d6d5e3810135b9bd75e92b059ea30bb,0,0,T00,NONE,Other/unclear,NONE
+1,1827,b25dcea1a18bbd58d7e8c32a5c7d335aa046ef70c76379f40d96002bdb5107c6,0,0,T01,T06,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+1,1828,5105ccd9037fb52f48e928608afa2960631eee038a2cf13f669c20b66cd1e2ac,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,1834,a99bc39d742bb4483b158a31d9f038065817502c47051838a44457912e8e8949,1,1,T09,T11,"Help-seeking, coping, social support, and recovery",Self-harm and suicidality
+1,1842,84adb33cf7a197887c44b923f53c56e55588df3edfe0c6368caa6d33784cd5e4,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,1844,5457b442d39a00331e5f2b624acf45aebe87798cfcfddfad2d3657457724615d,0,0,T00,NONE,Other/unclear,NONE
+1,1853,9d0e7401f35f4551634a20b53f2444bafb1d7a0a4b07a87c685f01852a596012,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,1860,655d695199e5d778bc6bc85958f434c070b73182b1229393f9bb45920e5fa875,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1862,52a6291d7605fb9a180b8be45314bab92860a66663fbd9f48ffbdb0f8921592d,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1863,8656f002a4f2a7177f5013102fdfde2c354e36b9ffe8e7281cc1acd43db83808,0,0,T04,T09,Relationships and social connection,"Help-seeking, coping, social support, and recovery"
+1,1869,5a9373b5b5de467e0598013617db489148a5d5afc548af508cc9cbf6532e5880,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,1872,e49b97ffc8c04b7a0e78cd54091698e11eecb2afc246548770c84fe0bf8ee52f,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1909,f37bd8c7be80918676564d5063596cdbc35bcbb46875994667b066eacb51e309,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,1914,f6c1f411886e6f2bf96416ca15e63fbf2a2de73c2358b70a0e7b6ab899ca1c32,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,1917,aa02481957680df9af3689da1df75e8768e8f46110f8ca8d92af532936380aff,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1922,7f42346291d75cec9815d0c6861cc6969dd3cd871eb1ca3518683b37bc44813a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1924,fb146948dec94ab205d9f18333607f5affe020792291e2d0b0df55f99692a285,0,0,T00,NONE,Other/unclear,NONE
+1,1925,6ce60df2ad134ba94111409d95467794f28c7ca6ec4e744b4e9ead9f319e8b38,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1928,76e79f597b36aeaddef9ab5712cea7de6122de15a8fdd3c7275b126c40adeeb3,0,0,T09,T02,"Help-seeking, coping, social support, and recovery",Self-perception and cognitive patterns
+1,1929,73cd395542e90e8c8fd5e183297d1f24f33390d2c5a6ec2f4ef198572638a6e1,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,1934,9f8bdc9be61e69229fa69c0f18a5215deda92c0719f227852df097190d262fea,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,1937,749b48745c7fe1ec449e20a278069db39cf2cd174778f61bd5a78a15709e44ae,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,1939,3a4d97ad20efb161b315fd92b2c00795c37564b13e7b6130eeabb7f3b46b7efe,1,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1941,59fa4205d2b2eb29086aa83d4274d9665e72061172cfe1210b2c41f97cf86431,1,0,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,1944,67ff55da725e10d6d2e00f37f4a233138016de5b79b82ce60c668057ce4b5eff,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,1953,1d0553d645f352fe29237091d0fc6cb49830315b520ca57c2a53b7348dc04857,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,1955,211dc86cb496572dcf4bddc8114721f1036d8496286b4178ea63135c08e63417,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,1956,57b7d0812928d615f145ff6411062c1d36819b6099607270de358a92b12955ce,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1962,e6158264aa86fe413dc7e6c834b85b06fd9d5e6b252fafea2c8d3846e99835aa,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1979,f341855a3498e919f94c21c70b70d54889f44fcb49592986cfe023762f5cfcbf,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,1983,f8e200fb5af592c3e29c068cf6c01dff349c193561936de2820cfff69e8e9d96,1,1,T04,T03,Relationships and social connection,"Motivation, hope/hopelessness, and purpose"
+1,1991,a88d454fc90e6c94e96c7fdb95ad62fd9d40dccc59a0670b2a0fd66b59b79c32,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2001,2e3616ffa62d0fb4b968dc5bb443d97fc2eaf1294ae079b90da015b0a78f0656,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2003,8fc7f689d8a4ef3a700dc4d0e5bc5b0a4e0cec9046ef71f2cb78a95434e4d73f,1,0,T01,T06,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+1,2007,8cdf002a4a7fb11c86e26530b704111c1db2ae526d47e9abd8c905b7c8ac2f1a,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2025,75a8220782d10fc6650de3a01dcc73f9e9c6da32f8e402db417dd982bea5a0a9,1,1,T07,T03,"Daily functioning, sleep, and physical/vegetative state","Motivation, hope/hopelessness, and purpose"
+1,2030,bd163a8480342b8cb0c4c63fc6c26e534256e7c07f47a987b42ea258cc4147ad,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,2032,a26c28b2ca8a7eb7099565f491b09893565476e43b09aa6bb040a00be26b4604,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2038,c65b90dbb037336fcba3664f155b9702870a36fc31e1e15ad355a7cb7ebe1439,1,1,T08,T05,"Treatment, therapy, and medication",Family and parenting
+1,2039,7a1e45af2cac4284a29ea7f7ffffd3bc4d6634e744f52b326241295581dc71fc,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2044,8e4c155d40a98c87ad31505046a93cd5600dec81b14826842e6439e8d0a20107,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,2055,f438506e1f8aeab57b5814fb25a81e112f68f812ca635f2ceda9a149503a9c92,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2059,04166b2f8184ec4c4633387787bda80220c9ae3f1c2dedcc6d5d37813e8aeb49,0,0,T00,NONE,Other/unclear,NONE
+1,2071,070b077dd87a4cf12c774cd4d02cbaadc9a12466fb3f748b30e7d63c47de8bda,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,2075,48e3fb883270be1235b9e3e43641166899f8c2b109d8d1d82fa426b93f3b94ae,1,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2083,031f13d77ba46ab21ea7081179e98fe415a6b5638823d331f262e13bb86e0e1b,1,1,T03,T01,"Motivation, hope/hopelessness, and purpose",Emotions and feelings
+1,2095,61904d14fd6a49e54247ea046b4b15d819dc95402a30816dae34a0dabcd0fb12,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,2102,c73f0ae8beaec2499e2e36b14067d5881f770b6e16ea7f9175f3639c0389c1cc,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,2109,4f321eace4b2ef6daedf3d38e292ed8fe4e75a006d8143b88fdd36fea3634c70,0,0,T06,T09,"Work, study, and financial/livelihood pressures","Help-seeking, coping, social support, and recovery"
+1,2112,f40ace2765cc559f6889630527d971e7bef21307367a0330845abb80bd17f1f6,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2114,51b676ec86d5687e5592076ebb06fa2121da76cbe31a3e8dfa6897afc056f600,0,0,T00,NONE,Other/unclear,NONE
+1,2117,f2b7ccece87ba2cf8f370ab3a2bf7db379bebe81710c75ac529fc86e5c6c0d4a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2123,be6d699c7acbc14cfc429c6cf40764e68311a0fe3e18aa290c8e4bf123110663,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2129,2dbbdad9fbdb578cac23b3f0cedcdd6be38ac20eb139a50798d2683b2088f651,0,0,T04,T05,Relationships and social connection,Family and parenting
+1,2132,e7872bc04c190d5c431ed7b52be00971d4ca3635a1dcd6e1e74f1c3acc452d23,1,0,T03,T05,"Motivation, hope/hopelessness, and purpose",Family and parenting
+1,2135,4b10ed96e7ab91773c1639f42b96e6cc10421f5fce56be068e46dd24c31256a3,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,2143,09bfe799439730f39f389e0ba9fe8bc87cc3df61f92b85bd14390ba598bc548f,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,2148,af8e031c9c90683c07cfd83ad92f319b1d03b9a7f214d8dfb616df89d7528002,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,2149,6050db994c8ea89bfa4ba338e1577392e6857b36a5caae468406e70fe62d90a5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2157,d5ac6adc8dd00223dad1e4826f93d0bc81107bef45af6b5aaced41264c274c6a,0,0,T04,T09,Relationships and social connection,"Help-seeking, coping, social support, and recovery"
+1,2163,1610b5dd28b78db788d4cb8e9b5425db071f9dff9eb0954ec076b90c6152b337,0,0,T01,T05,Emotions and feelings,Family and parenting
+1,2172,f6998e4e01fed6fa67169cf1498aa8cb18f6bbca37e93b3bdec32454c18badf3,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2176,a8e92c8acafa92a9bc0fa5347d371534709bdad044668d16acefdc0e4691b4fb,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,2179,4ea65b659b39fb6befe040e2444293561ae6fb0d903154aaddc26bb83542cb55,0,0,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,2181,e793f8604f6f1ef611fd022d25b8adf7e2fee5f1731092a4120d675b6fdc73a2,1,0,T08,NONE,"Treatment, therapy, and medication",NONE
+1,2187,64b1753e3f353607c88f988f54314ae4ddd2f3883768f60405da76f896f6fb7a,0,0,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,2190,b48632925c157319b5497709a090c0605a9fb6023de40ce2d02ca4e2da962b90,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2197,0319d1cb8df28b5d8479b7904c038546b93ffe5374577513a346c33e7b73835a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2199,527b9e797953dfa9f91c2b26f46d74081095d91a040581125bbff64f2662ae1b,1,1,T02,T08,Self-perception and cognitive patterns,"Treatment, therapy, and medication"
+1,2204,eb292c69a25fe89bfde37d243dceb329c6ae49ae4eab7e82be71898766aa4a8b,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,2213,145c4fe06e00ecf011750cffa274f67e03e1b2b4ea130b3796f8162574f243b5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2215,0dc9f4560806eb7955e0c19fce0a5a02c333d058d4d8e795c4f5cbfe082a415e,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,2223,040bde59b04ad95298a767ef58a39c6740d2fb5e2fecde0c7756daba39eecb04,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2224,be24c8e0f3192f103c84f5cd8b5ff95e0da486fd15b3a94a65205a5f7cd3a644,1,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,2227,fa7a121e6d446278718ce5b16240684369d2ebcdf2736398767988c3924f6d96,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2228,6515d40e1c6cfb00466eb8f0ef9b3c49030c125f4b1b19a56dac0de535c310c5,1,1,T07,T03,"Daily functioning, sleep, and physical/vegetative state","Motivation, hope/hopelessness, and purpose"
+1,2233,6de85c38631d80d61c99cbb43b7295c5d175c1f3db36ade5866f98c3fd05e2dd,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,2243,67de1b3014623e96f305fc96e468c45291e15bad536cafc25f7392170ad47a4e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2244,9edda7a06d12bdfec9eeb10ea8f00118ba8cebe906d3d0800d4760116a798e31,1,1,T12,T01,"General conversation, community, and leisure",Emotions and feelings
+1,2249,5a0a799c003ddd73c7a3d07602579819a83e611930b2a2f8fb901d45eb98d709,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2252,f82308fa95e130dcbe5fbbd03ea0370c2f42b2550e0ffdea650ce5d8749de527,1,1,T11,T10,Self-harm and suicidality,Alcohol and substance use
+1,2256,3a898b132a08bed7908ceed110d1da3a553478daeada8ad0e0e75d8b0581a99f,1,1,T03,T01,"Motivation, hope/hopelessness, and purpose",Emotions and feelings
+1,2267,79071b1b0ddbb2358000652cc7fdec3e62c2684bad963aa8d6ba97f23b044d64,1,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,2271,c04e116f9ca645f9b0f40826561082bfe8eb240083967bf72459f8a4fd011efb,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2276,5d48de3f0ac675d62f24872425eaecb8eee19d3f9277289f836fc44acb489fe3,1,1,T09,T03,"Help-seeking, coping, social support, and recovery","Motivation, hope/hopelessness, and purpose"
+1,2279,b60820e9356974048d987d8256c46536055abb0948cff96e86496af5783dcf7d,1,1,T02,T05,Self-perception and cognitive patterns,Family and parenting
+1,2284,9ea7538ae8218c27c35d76027cde94aacf4145a1271935c0881b414e7cfe094f,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,2296,428cf5002f27dd301d6cd61c182812df2e5bed0cf9e1fe90783d831530868cfe,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,2304,1f1b06922a019a879476655a403002ef92eea34b7897f195f06a7a841661d975,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2311,92e714c5399161f6867c4ed1521624dd40d17add8206dd12293c374133c6fb43,1,1,T01,T06,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+1,2318,58f84ff15b759f48632e394945c972dde2f525ea0dee6f0b8f0a6a71102c9056,0,0,T00,NONE,Other/unclear,NONE
+1,2320,02b98e3aaf57c7c57be6fba9f89bf8a41c2cacd81f80a5f4bd9660f9ee8767c5,1,0,T00,NONE,Other/unclear,NONE
+1,2323,25c92f4c7c9f0ede02029d240ec7724f979d37b243a6850cb04a04bbe52e35cb,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,2335,1bf9265dff17a7c2c0bf4f3cf88a61a6b9eab5b7e8acd137840499a29d789cf1,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2337,47e92a30b56b28dc51cf100986bc2e1f799fafa391e3c13708385f3758cb7d87,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2347,6ffa5a7c6a6d99a203530c6343819979ebcbcec925d44ffd574c5ed4e227d858,1,0,T07,T08,"Daily functioning, sleep, and physical/vegetative state","Treatment, therapy, and medication"
+1,2349,3f172622a395898bc4edad6bbac84095326ae9beebc463cda28e925f52e814d2,1,1,T07,T03,"Daily functioning, sleep, and physical/vegetative state","Motivation, hope/hopelessness, and purpose"
+1,2353,813d3b0e9e076d207ee4983144613ebf98a3ec1fc62abc7b4067da6a40733556,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,2369,7bedb66039ae42312a515cb269a7fb31a3cdcace967ccd971d9a600ba77a8fa9,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2379,02d195da57dbdd37c5fcc8e370ed46d60a71154fa1701a4b349d182f5e5cf4cc,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,2383,378cb21c23868bbd763a2bfb4b845fd584c63a17183f6026ed8746a10169220d,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,2387,cb35f1d0b5c81e4f57acc85bd064cb0eca63f2455bc93cf887d1ee3807efb8d5,0,0,T02,T05,Self-perception and cognitive patterns,Family and parenting
+1,2397,03b4341407a0c3bf6fe93d43b06292acfdfc54935537ecebed320287203be2c8,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2402,f53a37be25a2387af5adfc73349fb3592018cdfbf48ecf752adc9d38b147088b,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2404,a24fc9d15249692bf2e2866fef9849f0ca65bc36c99e0288641a7b3d88621465,0,0,T07,NONE,"Daily functioning, sleep, and physical/vegetative state",NONE
+1,2411,7be324b260c3f210787b38a30c279bc909cfacef0efb2c643bb2d4cdab188a7c,1,1,T06,T07,"Work, study, and financial/livelihood pressures","Daily functioning, sleep, and physical/vegetative state"
+1,2416,38b8f7d60846e2969f388e5090a5ae8bc11f7f5ecabeb3893acc2de2a98de387,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,2427,313ee18d238d9d1e37b347b2c51b6532c4ddfc0c9e5f4a1c36a28351ded92a6e,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2437,43ced48a5b96859e00c1b7cbe6656dcfab7b2d971a3dc668fee3fa58498faff6,1,1,T03,T01,"Motivation, hope/hopelessness, and purpose",Emotions and feelings
+1,2442,2266f93a828623e4594a349432ee5789bf34d9c72c3c9cea07b1b87bc5cfeebb,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,2444,63d8130a83b1811cee986a0500a2fc3de93b514228839014f1ff74bb4e096094,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,2446,f01a0ce65ef95b115f70bf1aa134e8dd94ae898f187817e55f016cffcfb4989d,0,0,T00,NONE,Other/unclear,NONE
+1,2447,b5f937b047019abaf9147a5b5ded0cd0ad0dce38386796fa4067fed6305e5aa1,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2449,8a2fc160cf74bcb3ea1c4a41fc0628e1fd6b41ccdb8c1217a3685eaeee072bb8,1,1,T03,NONE,"Motivation, hope/hopelessness, and purpose",NONE
+1,2455,1fd1bed716beef6df06b9515984f63091744ae989e29c50e3d0d1fa6413255c7,1,1,T09,T12,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+1,2457,0da67c2c480d9516f36bafdf0a802cafe39bf3c7f8affb9179b94b8af8b2bf89,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2458,a6c7ab3c5592b6f8484105d55fb590f666a42f53a5db3dab2f92bfe363ab1f14,1,1,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2461,7c82dba0d4c2814ee05ad1964ebe7baba393f53b7b31f12a8496ab2d0699eb18,1,1,T00,NONE,Other/unclear,NONE
+1,2472,15f2c240c41de601fd77ff1a1342066071988fbfaaf58e444f4051554fd7d40d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2474,f7b9b6bb2778847b12ae540e945e767d017fff71b1a39757563975f1b1c076e4,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2475,48c63d6b7ebffc90867447547b2a6f859b3fad8f8700c6b1b59a5740d6de229c,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,2476,cb03f29e469ce70640fef6d5939344edfaa051acec1686856bcd3760861a7eb5,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,2478,870efacb1496ba7f436d71e4e95e6516268e9ddeb953a0ac3d819ea46b995f89,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2484,588a877dea78270ba2f13815ac91d4f88cc500ad3115c1b713f16639ba7c6018,1,0,T00,NONE,Other/unclear,NONE
+1,2485,69fdd542bf7ea9b0386d9966f15a0f066de2fe6715257333e700d9876bff35ee,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2488,b3733005944220c7577b1bf5c16dcd83b3162b7ba74a356dc9464bb7fa84d66d,1,0,T05,T09,Family and parenting,"Help-seeking, coping, social support, and recovery"
+1,2505,5b1a610d1ccc5beada8cd08dc12f81aca5ddbc6d1674520dbead3fbf477a8c47,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,2514,cd14eb88190e6f54778e661c27a2ea2653f011e655aaa2b697fe2b9a236c62d8,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2525,21aff745abced38c33dbd3fe01856c0fc83b8a40498f2a0f4f8c0fdb71b21efd,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2544,2ee0c135e75feccc653aec970fb2599a5f54dd9b77f9a33ee826b26a862050ed,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2552,55387d93bf2ae392d6bf87e083face622b3a7a1fe4a482eee1a9e608d3e6fcab,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,2554,6e1f38916b3a88e2ecef4c5574c2e74a82f34253c2fda4baf0af3234b4b6ff56,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,2556,97374d71b1a160f82e92b675c63f4d1bf9562110062b06e009db6920b4864a46,0,0,T00,NONE,Other/unclear,NONE
+1,2568,8d103d39cc060b408c55352e347dc6e76b129b28f905407d991ba282c132fc84,1,1,T01,NONE,Emotions and feelings,NONE
+1,2570,9ac6497258af812785286cd1673d588466e3504829dc13b3f13051fcfe131ef7,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,2574,78824b9a3fa6634cd19ab7c22c26631dba27d4b2f0f611f8ffbd4bf2809a81b1,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,2579,d8c502db96f60d768c5697827affefd96dfa1d5c3701ce368d0ba099ae5a2177,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,2583,6fc7160d9caf4b83ad542c9d9b35388bbd58541b453aea0e595301319a56525a,0,0,T00,NONE,Other/unclear,NONE
+1,2594,31ab4b02bd4f412ea26968aa7a12f528a2eae9893b7d255a4938a1e9f6298b54,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2596,e8cbe0ff1f8642247041bdce7a9b6ffde5bc845828d12749763170062beb6966,0,0,T04,NONE,Relationships and social connection,NONE
+1,2599,c58ec3c5b311b1b631f96729961767af206fc39f80c131655e0f0ec581e0dc05,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2600,3e30e77cde2475c23fc9b28553e177496ec432b9416e23961535292e178b32ca,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,2604,bfbb104aa9c8329c512ba3524ed512ac7a5713fbb61584faaadb98d875e974b1,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,2607,98ed34e0459729355acf00e00dbb1747e79e5a8a1d0bfe6a0d729a1cda3d205b,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2616,54449fdc27e45c2f1ac663f63e42e87b02d31b8dcf6915282d8f45ceaa3c6516,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2618,c9cca34fddb5ad64ed172f7b1b9cf5577af1213585a0be721b0c5efecc80fabd,1,1,T01,NONE,Emotions and feelings,NONE
+1,2627,e82834935afd0a4519391a2bd9cb0606ad5d1b8f15dff49fbb841fdd098b62c7,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2630,d53f723321d64d0de98b4c75a9f1c116ffa942199d82322cb0387ee2c5e9f88f,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,2631,320583662d9d530fb8b570840935c37250b617f2525cb405cf7577ad051afcd8,1,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,2637,c286fa9f53a26c5c80a701984185db18ca82371346df2d19624bd091771e51de,1,1,T07,T06,"Daily functioning, sleep, and physical/vegetative state","Work, study, and financial/livelihood pressures"
+1,2638,506fa07b4c7be72655747b526ac76550a3e18f31c8bf3eb98f0565f89b927789,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,2650,2e6867637423501578a7419b97a3aa65f8c7cd918ce35703aae9bff3aa75db2e,0,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,2662,8c495d2dcceb9f8c0cb6002c6c77ef34afca5109a3637a35626bf056401b05d5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2663,8d96170efa8492d0300387f2c55fa3142ceb833cfbe7455b43d50836002dd673,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2664,823c6e9701d2cac25ccc8fcc52bcf5337c2a200d4c04d38dbde7ad16d9babb31,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,2665,9ebe13dfddd74798054bbc0e92fa0896192469ed18a796298cb91321d6bbd421,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2673,a8f2ddad776ff1ce71248452e9a02aa8618c3104c2f23e620d1ffe8d482b0685,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2676,9348f52cacec2868aa6e871a13d0eae91464e11d76aa71e4ca3c3c6dfa264a78,1,1,T08,T06,"Treatment, therapy, and medication","Work, study, and financial/livelihood pressures"
+1,2680,d75cfe43207903ed053a0e906726b72360a99d224b2b55111fca0713fdf49488,0,0,T04,T06,Relationships and social connection,"Work, study, and financial/livelihood pressures"
+1,2684,273c5c4481570a2ca24b61b7f4495ed7152265a5fa4271159889bfcf45b99c6f,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2686,d4af62c45f9e16b083b1fb0b0945c323680c8b7702f70fafa240321e68217ed5,1,1,T02,T11,Self-perception and cognitive patterns,Self-harm and suicidality
+1,2687,7cb39a40de32748abeb8bfc65f33473571a2ee97562809a16e7e3e4000e4bec0,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2696,ab797561296da9d27281eb768ad5cfa56cb6d7906665841e457799e0e56e52aa,1,1,T01,T11,Emotions and feelings,Self-harm and suicidality
+1,2701,8805596c995c22ee430b7329c2abffd0dd347820e3b8d85badd5d6472028b24b,1,0,T07,NONE,"Daily functioning, sleep, and physical/vegetative state",NONE
+1,2703,6b106e2911d253fed2876a2436e6c03d1fe267ed87ef55a28135d0588960e1f1,1,1,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,2712,7f91bd955d2ae16fa8d75ebe01251f8ee1dbd908c0ef7a3eb14c3fff660a6084,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2714,1367bc184da8c8fe0a670df6b84a717b29d629e6ff9a90755021fb9204b57431,0,0,T09,T02,"Help-seeking, coping, social support, and recovery",Self-perception and cognitive patterns
+1,2723,7bd6de37ce90bc7b6faf4c37feff1210c1c64ff109e6c62fa1c1fc42bf0fa85a,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2724,0f06b3281458ea7132556912e4f4ecae649d7740992bf1662281b70c874ab42e,1,0,T04,T01,Relationships and social connection,Emotions and feelings
+1,2732,d8e83f82492e5dc9118cd8c8b9b565a943d7c186d33eed630ea3bdf18bf40d61,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2733,083b83c0746505a88e5ab54786a1d2f73a2c853edaebe7278e4f0e4e2e41c00b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2739,30b202090d5573287c576bd15a386a710ffeb40b5c2d23b1afb0d31b7bb0cca1,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,2747,9822488f74279ac5b6dc0097ed4c4c2455d8638a5cc1467b10f48e762b83c9ca,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2755,7c6b1605587fc2b133c182545e957b4111b24c4ac57a6ee56148e45aeb2de2bc,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,2757,dc9957000dfbb98007537d472e518b0fe7adb08602290e14321edf0342da8326,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2760,9d041a69ea0fd01d18c257251a8669bf054c7fddfa543a3c4b180f375160f869,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,2763,3daede64b2223a0b0478d5fdd441fa60abf2811f3dd5b197f6e4b5edf30df2d9,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,2765,5dae4525fbf583290e0ac8b0aef3dc21e6ba2e2954855e4c60559dee2860db40,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2773,fd6397a5757c84e18a6ec68fe1f7a62704605c0e62105ddd57677acb32caa2c3,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,2776,de1faf42a5173e949389e5650ca7174edcb0e63dc4106d13c9e7ae9ed3b00cf7,1,1,T02,T06,Self-perception and cognitive patterns,"Work, study, and financial/livelihood pressures"
+1,2794,dd21eda61ba5d328ac12b3cddcbd8ff61196af81f80a9aff84bdea50690fa769,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2800,6ca3be212dcc0e84b5116b47132ca2983fb7110e085d9b9ea8bd528a81c41a76,1,1,T05,T10,Family and parenting,Alcohol and substance use
+1,2801,ba518f98bfb544f2f6e2d0006efa70570ce2afc09ed369f1aca861d1c3487e31,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2804,4c4d744314744a12e98f32dc4785f47cf2ae3cf8bd7435b768375b81f7c04811,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,2809,e3a7d076db363c372f294dfd9f7e64abc30626de072b876396f3d52f9e895dc1,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,2816,c7721376c5b143122ccf8ffb20aedca3fb1714976617543c4436238310a1efce,1,1,T06,T09,"Work, study, and financial/livelihood pressures","Help-seeking, coping, social support, and recovery"
+1,2817,d8c65ff3bf6d81e73317cf59cf516abeba24108e90e1e2ae09c8d8949212cc5b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2819,1dc3881716a86c97cbcbd7da153f5d57c9406fe0bb99d7c8a46191c8a69302bc,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,2820,c5f95c0e55d6aaea4eecf6e015672bcf4e8634330f1eee00c0506a10c75f0a17,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2822,3df9671b6d2eeb553ab0f41595731fe35e5108463b02ef3538f5a4689f5e7703,1,1,T00,NONE,Other/unclear,NONE
+1,2823,87d3758e2c9cef181832a158bbf30d0bd1bf96ecf9f8122400f1754797831d25,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2829,f98e248a7743fad6066dad423763b6cda8ce2eff3615a0064fac0d88bcab99b7,0,0,T09,T03,"Help-seeking, coping, social support, and recovery","Motivation, hope/hopelessness, and purpose"
+1,2831,8a17b4374518a6ff5d6d173460c702bfdc9bde5d355e1a06771cd9c95751fb1a,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,2832,20919c76422cf51a5871ccb1bf7f6ae63a65b243eddd2bcb97f76dcf2dc3b32b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2833,6a0a2b01884c84859cfbdaec71e43d6509dabf3713c28beb774ac2cc17b0bfff,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2849,91f991091b0fb0df2b0c1c0f58a05b450ec60d16d38fa7f8c9fc6f428bb53c02,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2850,5edb629e1583149696628c1dfe334410f2d4accb9aef5d953b45724d77cbcb8c,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,2859,1d4503f5600a9b5db08801632fc75e3788a536eb02fbc79bf3043524f527392b,1,1,T10,T08,Alcohol and substance use,"Treatment, therapy, and medication"
+1,2861,148d5fd740e84be9f51a4cf4137357b1bea2a3c523ce338a72d536a340060e3b,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,2862,e09be8e766b8515c1e38624a169ce285ea590a8982fd88a820d673c7ffafd671,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,2863,f137510441dcce09870a971815fd35c447d27fa5c0c29b8e3d5493118e87bdc0,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,2866,a63186d448bec9c5ba93d9dfe2589c795384a9ef3eef0acc40b7e436877e596b,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,2870,a23edf3df4d3f4e7d3fa7fbd79449548a776c77cfea065c7578bed7c40e3f7a2,0,0,T02,T06,Self-perception and cognitive patterns,"Work, study, and financial/livelihood pressures"
+1,2879,532c79b1971ed47b3739ed11ad3a1bbfcf8c220ce7f79b8e784319b25b83afb1,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2889,8bfcd4255a7fed410c95982c8c8c44b4c4aca6fef8353c749776632fcf909ea8,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2892,7c1e0cbbf73ee7ad94f53f8cc687d64b037b1e71508e4cc704817019ad22f6fa,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,2897,c16f6b003b647f71da40c5299b70487a8aa041c98bf71a92b826591171dfe9cf,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,2898,2aead3a04c394d0363616b47ff49514bf6f4cba620746d3d75f17865d3f67ce8,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,2902,e0af9fced382a07684587ad9d4dd2e3e153a7db77297a02275b37f91f046cd7c,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,2914,56afad46ba182eeffdb056319e88a5de090a649a6d6c632b5ddc352551eea59f,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2919,8cac46f213fba7764920c922a531e5a1e0f8a877e63ddf12889ed66fcca92fd6,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,2924,580931fe6e00b2578ac82a5cae38201c7d059454206f5ef0630c3b4fa7bbabf4,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,2926,d0e12c2b28b8365e8368918b080c976b7f4d57e66cc8ce6b881b7400205fc257,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2935,e58d1794f74aa55f2ae26e3b7b9b682598c1907634069aea30690b3608dc58be,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,2937,c2ca175c5b295c713a4d7e8107cd380fb03b35e9f245e13070b94d164ca7ac23,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2939,1c469d8d8ab537fb81ca24ff5f5c8a751a1f01cf188e660cd09a16aececb39ce,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,2950,74d86b2915c1f02bbe935f7031070b55b6e5ceb7aa2bc9a3641fb3185aeca5e2,0,0,T07,NONE,"Daily functioning, sleep, and physical/vegetative state",NONE
+1,2954,e92fc2d74dbc65b52d1efc61a5f3bbc1411525d11bae985004df5e8ff31fe3b3,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,2955,02918da11ac67cf83d423c10dd38fe75f6c5463ba68adf6d3d754a364329cb4b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2959,c9c36d18ac26d4e0b1781e43ed29d18c3ee483b44dded82e3b99db329b12c8ac,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,2960,f8eac79e8e5f46900e8db65dbafcaafea2886e0a5534f7540f94d1d5a2eb5391,1,1,T01,NONE,Emotions and feelings,NONE
+1,2962,11e99e255c3e128b6932c12e0a5849b678a3fc6192b9bdf5b9cd8159ae84aa55,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2976,31ff4ba417afdbd94ed4ffd6f1a3929679631482fe7729cbab7a51efec3a3692,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,2983,48c270d35ee0bcd93833a1ab817579b35a870eb87fcba129bf5de9d750b39de2,1,1,T01,T06,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+1,2987,43535a2c24932919e2efa453f5d7bc22c2f1af05a1230169ddad7518859e34ec,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,3003,1f41ae5413d8666d105f8023358f4e94f08f36394a7268f4a9a71da74726fa45,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,3007,b25926429b19866ec81fc176298f7c23bb3e562602bebf5de7babf5a2d791723,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,3011,08319be4ce887f47b7c7c2e57018c3e6c27dc4b061e7abc3616de95239748c8b,1,1,T03,T06,"Motivation, hope/hopelessness, and purpose","Work, study, and financial/livelihood pressures"
+1,3015,7cac990bd813125bc83b81caf5794b1ecc939b43882795c4b2135aa601fe0d21,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3018,990a89c6d0bf9be74a9c9417f3e0b86f25457943eae254fce8f82ead395533c6,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3019,103b3ad9ce11d1ca7b2e809eb7c707349a3102c6406366d1a1871a050499c134,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,3026,dbe356b32fcb89997999243ef7bcb67a6f16f985ce29fd750b99b347b6cbebf5,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,3028,6e458bcbf11bd799552da2bced846591a817076c3aacea3a760d54870120fae9,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3030,67f6cb00d8b82e20b9b1f5557372a38ce4ccd8714da6493ed85cade493d55848,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,3037,d6eb7a8ec28d270fccae362201a33ce6337cd23e18ff22b26599f5182e538299,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,3043,e1b382806901e765dc10f41973129f99ffe4e368ce903b69ef631543df6c7d07,1,0,T04,NONE,Relationships and social connection,NONE
+1,3051,7e8edc0f242f22a8fce5221bde32c11c539afaec0b904531e42800aa2e329f97,1,0,T07,NONE,"Daily functioning, sleep, and physical/vegetative state",NONE
+1,3054,8e91053da8bb369afc678bd8f541899e721521357d803b847eb5d9f77e2b93e4,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3057,466844475c1fc858350dd1bf00da37ccd8f5ade69e3ecbd88190e7e69d4eb1e5,0,0,T06,T04,"Work, study, and financial/livelihood pressures",Relationships and social connection
+1,3058,0c4e512c66722436e50f86891d9be3f3f5a62e7570168484acda521d6aa689b0,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3067,06cc8efcba08f4a19363db4377968c5756a749ba357c6863c8d345586d100264,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,3074,3492f811aa98cb9eceb5dd0e870144687fdf9c7b28ad9142da0f42d527eae2c8,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3083,0f0b89d3eb1ac39e64934df1435d8620f554053b62d08e24a95868c7cd549e8c,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3097,bd8cc86a7e60be55c71092b48fcba33c36208e65183cd6e4ea5582987f08c66b,1,1,T08,NONE,"Treatment, therapy, and medication",NONE
+1,3107,5c8709946471741dc0ed1adc14129ccafa3f9f0abfa7860f45ec4c9746d0b62d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3108,632b62ee56fad6d9bb9f1fcd410480591085930896cce327a4de78e906dccaa1,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,3123,5c406fc53d99de4280788f32337a763b254941798b84f5a65e79e5d9b9734ec1,0,0,T04,T05,Relationships and social connection,Family and parenting
+1,3125,e0479de4aac11fe51e5c44a27e8811ac20b3154f3acc53d34a0ed3de006d96b1,0,0,T00,NONE,Other/unclear,NONE
+1,3127,8808ab2161d0b33c5d7e174c457d324e325946507b3c7b7736969c4eb6e6145c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3128,287370fc34786d9da711e9ba5d208a3c15d9fed3057f199c608237d78301dbb0,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3133,f07093f6532e503575722813b4d80143c4d0a70bf56e121fd4267d8a4ddece04,1,1,T03,T04,"Motivation, hope/hopelessness, and purpose",Relationships and social connection
+1,3138,bdb6cdf7bf490242ed7604417c22734e3cb08c3ed06b337351ae6a6f417e5793,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,3141,2d7e39582f1bfb0a02696da1339561dec8f5022384848106c2accb0debbb6065,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3144,cd0710f4acf6a6a571397a27fee59834dbda17ecf8937a03756e36df3fe265d7,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3147,f0c6a40231d4c089994111e8f62cafc721da8687489a5289307242f13a070f87,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,3149,6a9d4f370f45aa0a0abe1901a7a064c121b73d59e93e2512895c78bbf72ce910,0,0,T12,T06,"General conversation, community, and leisure","Work, study, and financial/livelihood pressures"
+1,3150,ecd358150675f0af54efbcee1ca77ef2047203ea2bf1f34d5634b7e1e02eb6c7,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,3157,57d5dd810dc1ba53b4e9aa5b64f2e685d1b7b77b3976e10dfc283a7ecca03a74,0,0,T05,NONE,Family and parenting,NONE
+1,3166,0a5ba6e7b928ea37bf4669f8cf3870b9b67b3994759aae08e45898238b2d6124,1,1,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,3170,9e8e15ba4f76b2c7e288b154b3b20d263784056f91c5254112d464d4bac750bc,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,3175,f05ab839904be5eada6fb92025c3a414fdf2d492a32061d872544fa566c1ffbe,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3188,63141d22aa8817396b919f51d9071f9ddd9273438290826cf62bfb20adf909db,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3189,d534d4b5875121505dd9267a39a56c8de2e38dced36d090408f527d2951e030d,0,0,T04,T09,Relationships and social connection,"Help-seeking, coping, social support, and recovery"
+1,3190,97e7baac7ff5e2305fa41aaaedf1dc92c0cec46e4b53f3cd316568d282d3f9e1,0,0,T00,NONE,Other/unclear,NONE
+1,3193,9e9c62541d53380ab6cfff8257701274de4c942c7f4af0ee4a255c5d1869e59d,1,1,T01,T11,Emotions and feelings,Self-harm and suicidality
+1,3202,eee136f16a765d5b0dfad91c0a5c209e0c33596b6c09ab804c0b1f58d223fefd,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3203,4bc03088e8a52e4d8725605ce5da18a4216bee31c14dfbcf451131ee254cf941,1,1,T04,T08,Relationships and social connection,"Treatment, therapy, and medication"
+1,3211,85bc66d3f8be6bcac50c9adf16ac92a7cd33bd2441990d399ac25727f19da309,0,0,T00,NONE,Other/unclear,NONE
+1,3230,98d2b3ae565d36b178ddd78a43585b3c8f0f4148500347eb9c1fa16ab022d21a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3235,88f33574d0308333e19814c41c979aabbe39294646c8b4cb4534622a8252b91c,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,3238,a0dc1dd8d75f3fc90628d176fedcefca1cd803bdac76efebf8a85623c676482b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3241,4cf5b01a99978c074d179a222efeab080882ce1b6ca3e24f265d0da83b5cc6aa,1,1,T01,NONE,Emotions and feelings,NONE
+1,3254,c1ee3b1533724f60d38a580a7344452eab1348e1bb5a30addd736830a40845a2,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,3260,48b95494eadc6f250fb32a4e491cea282837b02d0f9839fa0c4130f3967dc9b8,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3268,0a78a35c7f18346f76937e278f8b3743f927cce751fe74c1b37a4bf02abc1c27,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3269,45281e41b3a769fd7f620deda53897139f8bdb3d455ba5da8b97b4ccd8b581ed,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3270,fa5274faabebfd421c3ea53c597a11758ecd7801b5e4d4717980fc6d2c051243,1,1,T03,T10,"Motivation, hope/hopelessness, and purpose",Alcohol and substance use
+1,3275,b24b1f4eae9273b5fd1532e137becb172f98c1efad5a3c1ebda5ed4da754f021,1,1,T03,T02,"Motivation, hope/hopelessness, and purpose",Self-perception and cognitive patterns
+1,3281,702e334feaed9432f5c6fd2b57a3c2db1072a2b1302436a86c48d348ae3fb2c3,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3284,1fb7a8979116fb971f0b84b4ec6fa10f843ad14f1bd7750e458b8fc12879371a,1,1,T02,T03,Self-perception and cognitive patterns,"Motivation, hope/hopelessness, and purpose"
+1,3296,8b7d69640be083f9771b48e70570e57cbc99cf870b6189e02033dd98132d6d97,0,0,T00,NONE,Other/unclear,NONE
+1,3297,8992c50050bc6d4bff6835f903a6f77bf5acf3a0584095a3b6dabe46521382a7,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,3298,38fbe301eda4a6c2dae723b2fd640c7264bb599fb8e0d9824e32f4e4caa300b5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3311,1554de652941ce3c9bc1f2b2c2dd81d6748588987ce92ea929baca1bd00af276,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3312,4e890b30a602ab9c43e110fa8e3803ce014422e6b844ad7182b2ca93b919ff3b,1,1,T01,NONE,Emotions and feelings,NONE
+1,3331,0997b99f8390b46a7a6f2c6a61fb7fc828dc0ceea723747d9136fe5b7f9cec40,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3335,e1079d02b82fed4efa279f60a9e2ceb5cb9c2beb212b1a126c5b2e8676f8a033,0,0,T00,NONE,Other/unclear,NONE
+1,3339,4549944189c3af26a45097aba1f10a22021f8947bc07b17c406d36567feda81a,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3344,1c345aa0fbd50dc9eab8cffdc1c38b6e2321ee76e6472fcf1958bbf8ee3bea9d,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3347,baa18edb220496e958e58a87a828075d1f2457be4611ac644dc20dc8621a4d48,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,3349,4841055fd7e41ba078c57166008d487df869b27b9fb1532352437b25a338a53c,1,1,T08,NONE,"Treatment, therapy, and medication",NONE
+1,3354,2c43ce3917b805ebea74981700adc7d08d7b0fd0639318b8283be29c5f790603,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3359,74680d8dd3973f643bf3b1a067b6b582c7c2d7b01cacc9b8ac58595ec0dd749e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3365,8d7a5030e334b3e1db94c6725e2f0234e9042eaab346a66a3d275bc3510493c9,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,3367,3ca21fd980f5f105f00ad1ae1190e7320d65ad50d88567cf603fe72fcf9bbfcf,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3376,84b31ca9634161f070fe73c5c24d1112d6268744fbdb99dae41c243dc1c01355,1,0,T07,T08,"Daily functioning, sleep, and physical/vegetative state","Treatment, therapy, and medication"
+1,3380,d56f65c65ef509e49527e3e7e67864410ef8508275684d16d5aa1b4bad1ed373,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,3381,13277e0add71aa1d6c8a7ba366748107acacddd80a33ed0568dc1fc3e954cfd5,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,3384,b9031421b1b2f526471302c2e16e7a206efc69dee5accc0725e98a3cce2697f5,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3386,8240688db328d4d2b6d3bf0e1b435649602688895e916c7b4c9c5a6fd5ce3aa7,0,0,T05,NONE,Family and parenting,NONE
+1,3394,8d78bc89621b1e0bc59b117b044a2662f81955609000c7c35498d8405a87041f,1,1,T03,T02,"Motivation, hope/hopelessness, and purpose",Self-perception and cognitive patterns
+1,3396,014776423add1fc023a97e13ecdf5fc55d3f6aaae327919cac21a1250901cb36,1,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,3401,ec8c2aee181f0e33fe60e0539a1ad56c6cb6f1c2cf3a394306b81a697aaee0b6,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3405,b45e4a777aee2112f383cd1505b1de2c0af67d810672fb8660294c7ad9bba20d,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,3412,cec517c6bafa11432a1777ff0a8c75fc3aef3e6a566834ed8b30a03a7a0b93be,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,3417,f00a29285d8a237bcaca171bf2a21beb1dbe4d468fd9cfef5375664ad50ca257,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,3418,5c48fff432670858ee7891a7ee0d8337e097c876309bc20652be567526023070,1,1,T12,NONE,"General conversation, community, and leisure",NONE
+1,3426,cce39f839cdc3e25fee9fadc4d53dbc163dc86e4a02e11ba52a9c983f812d647,0,0,T04,T12,Relationships and social connection,"General conversation, community, and leisure"
+1,3428,d975075b647e50634873944f7f18f3ffd7179d205bbe4dbcbe50b2d327b2ffc4,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,3431,a477aa4c4b03ced6667bd837e8dceaff81bc1585e495de69b8028397c7e7ace5,1,0,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,3437,cee57da862f77898cdedc9c70295ed0f61db6cc7ca6a678d0cba386b4770bc72,0,0,T05,T06,Family and parenting,"Work, study, and financial/livelihood pressures"
+1,3440,e591a5ed048eb95e496e6dca61ba3c02df44eeef5cd068c40774f994b2743344,1,1,T04,T03,Relationships and social connection,"Motivation, hope/hopelessness, and purpose"
+1,3444,6fb4e82e1f30c48ba9e154381c32f60b262c8844ffa432fdf9bfab21ca41c8e1,1,1,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,3448,d51c7deb9ce67324b86b6feac4eab888d5e2aa3a0382cc17e4d6310484f798bc,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3453,3c7e46c8b903363e979c955898b0e682a2ed037c1a6b1ed8c7b592520cf2215a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3456,4aa1ddf712c920c66c46a7f16db511ac7b0051cdc8b7a96d658c386a4364a8bf,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3457,a25c9e006064e0a13ba4543a497cbdf386ed79ed355d3bcd1032c69c6ece45fd,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,3458,10531a409daf92983fa53a49f04d392a61b3d59fcc8d0733ff20fa9dfef14c4c,1,1,T02,T06,Self-perception and cognitive patterns,"Work, study, and financial/livelihood pressures"
+1,3469,850148a274972e33e2d46bcd2ab6f82d79a308d42e7daeaafb6401fea4d5ca39,0,0,T00,NONE,Other/unclear,NONE
+1,3471,c74f043dd8a44a93d6586739f5e697ad35f40ac68075347c0bbcad6da0f464fb,1,1,T06,T04,"Work, study, and financial/livelihood pressures",Relationships and social connection
+1,3473,ff0d1460d33d4b778821c70b9d4847d0d4badfc5256cf555f3bd187815a28648,0,0,T05,T01,Family and parenting,Emotions and feelings
+1,3475,8073fb489fb1582867373dba1f8a597e92d7e00331dcd0134275e9418adce016,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3495,ff72d2dc99c9d96b0d9c6c8e24e740333f5f55fa2878a41afd13a6ae2392a747,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3496,5c09e4335a0cd77af59077abb51e464fdc4b1c60a68b89a53531ace76e20b9f1,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3499,72e5fbc575eaf93951cf27a9076e9c1bfe1edf79df869c60183ab71f0eb42d8a,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,3511,582484fdc9e865e7b94d86b977f7e2ef2fca907ac5e4a617d7f426fcea151659,1,1,T01,NONE,Emotions and feelings,NONE
+1,3521,3018f8e8e41c33400c6210a32cae22953535d5cd99a77133c1d2696f40fe9183,1,1,T09,T10,"Help-seeking, coping, social support, and recovery",Alcohol and substance use
+1,3524,ccdc0613ce0efea8db02aa8397efcf65f3273af2ba6c73710e772ef024234f87,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,3525,9603b30c8318f4c489d33d5d87bd62cd8ba638ac4a4a17affe7fd72a6e3e1ddc,0,0,T04,NONE,Relationships and social connection,NONE
+1,3526,07025a72fad888e287a7327a970f81968c2f300acfbfccafe488686d8349a548,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3532,8633375e4bd12af138e1b973ae65b007dccd7def5d635f94cb6467953962fcf7,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,3537,c81af105fa70921bccb79d9445e478efaacfba0664b1684183f06735ee98f614,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3538,7670980564c18413e7876e203c15006cef3dac6deecf73ba22503cb34318ba4b,0,0,T00,NONE,Other/unclear,NONE
+1,3541,a59f4af0faf0e66d375fa3c99805d0c9175cb76256d43883873b7036f2697313,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3544,29871eb1292ca18310161cb94f1afe3f9e036c1b0c158a953d16c695fd559b87,0,0,T00,NONE,Other/unclear,NONE
+1,3567,c380cd6742881866a0f09280e5c901d2b1292df845ad8042ab05bee011715ab4,0,0,T06,T09,"Work, study, and financial/livelihood pressures","Help-seeking, coping, social support, and recovery"
+1,3572,92f1d49e66640c16ade431a2bb49baa27b032d3d4d05e4784d623391f8b67c92,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3573,e6f75a4305ca64669cc6bfb79039b85380f6cd9af1871ec02d989e2d6c5b92bb,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3574,0d5e1ecf68369f6a1e631dd7090e36910990e122f6f490dd8eab581a3284da5a,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,3576,88b381fcdbabb36245011935daf5a2a04e3018daec10ddc221e077609e249c16,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,3578,74dbaa5a86f6bb29c0830a4d68d2059de702b7c657caddd4bcd6833f23f16bc8,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3582,018b53013da62e0cd07670800bdba2a23d0bb3ed3c4302f2e70f8d99ea7b3323,1,1,T04,T11,Relationships and social connection,Self-harm and suicidality
+1,3583,c5705f25c813475380f7126946d72f1bcd0896e533078a4807d4770ae4b11c25,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3588,c87cae17acf0be3ccfde37958145b4f8f518f46e85e897c8e2d66f690e9a042d,0,0,T04,T09,Relationships and social connection,"Help-seeking, coping, social support, and recovery"
+1,3592,5b9751c271cbf1ff8065e0d67235cbf49f7e568c2689f1700e44fbbaf8bf10e2,1,1,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,3596,6c1ef2b4dfad2ed9283cc01b19b89b0f012e00bce898c2e72ce5e629bb30007b,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,3604,94cdba03ed2c916df723d0df738748eef411767b4e1826d6d4ec50db7a1261ba,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,3606,c58f789ffa468e474231577ab112718e65da6976d1079798f6b0f91ec9845e03,1,1,T06,T07,"Work, study, and financial/livelihood pressures","Daily functioning, sleep, and physical/vegetative state"
+1,3610,aad3c0b1ca769462521f0120f1726f273e972f4dd06af68dcd6b56196ac4a98e,0,0,T00,NONE,Other/unclear,NONE
+1,3621,33583ad506e65981c97311d11b61dd8d7f23bb179f2ab04a46b92eaaba209d1b,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,3623,99df61774022607336656fdbffe4e2043e824db9267402cc573e2194f32fe184,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3636,58d61212b1a000cb0cfc6f0434923c063e0841da242f66ec09e1b3a6c193dd25,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,3642,9d10867d67937bc0af5d1cf0d48426d913807622cd3976b94828ef6349185fb6,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3643,7d5493cd20e2a1ff4db888bd924b972b4ada5cc0b07311df858626dea7ffa58e,1,1,T02,T07,Self-perception and cognitive patterns,"Daily functioning, sleep, and physical/vegetative state"
+1,3649,34cab8027aefd3aca44eb8de13f413a85dfd8cc913429d4adfceae2696a0fa7e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3657,455548122577fb5d97acfd8891e4b6052cb7f0a80b4350298d0362eb1324e09d,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,3658,15da48a1b77153054557c1a904aa2fb498e7dabd489730a6b23b8e27dc62ccd8,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,3661,824649e05ea28ed8ded26fe54e468fe63819550ffb1d0ee2bf10b735e6c7bbec,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3671,7081eb483c8c5de8922e4b25f28b1b4e256403dfa4a4c0eded42f23231b984f6,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3675,193067258f9817056a72aadad36a8f64629c667c641263a8a3a0199b9a09fa55,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,3680,83d42a76e3021463e0f4249c08322fef9bac0b34f8961bc74c3c6a1aafe4b462,1,1,T00,NONE,Other/unclear,NONE
+1,3688,632de743d9dac4a606fd1286311625a5ce439ff54ccd392bd3a71747f242e817,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,3696,a3daa08d63c2f59277cc09c71e6e841c097b79ffe1da16feadb6c183bdab6178,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,3711,c5604af1a7921e63b5a204820db67c26513e50789f498ffbc66ddb9570e16665,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,3716,414df00f1de4a1f873031a38c768a1072e81a97ce5553256572ceb42cac68853,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3719,34bb186fccc7765178ac336ab84f824b9514b5aa062e97009ef9e9c30dd0f2a9,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,3727,95f373540adb074bd9ef1239c7955bc72aaeac9981b3bada282b5a1df53de0f2,1,1,T00,NONE,Other/unclear,NONE
+1,3736,b86de2a7da199a5c00f450e7a72628f615cfff7a8202bb8fb86ebad148ec4e43,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3742,9a1786351cb056ad35a890966dd392e956c33121d4f663145359d93767399eec,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,3744,93125a1c83669dda439d48d8b95bf42fa104bc55d4e1054fcf7a3ad513959c7d,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,3755,a474f2a18864a60670b1e6f0fc91c456b0787053e5ef3739da6bbc2618328f87,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,3758,bc36a6bd7dde683384930412ade11aabd4ca5127b719702d8bc7c03fef006467,0,0,T00,NONE,Other/unclear,NONE
+1,3762,2b919a1b229a4cb1395bfcc202b4f9ba71b9b7400b21b19402c2f0a9dfec4d8f,1,0,T05,T12,Family and parenting,"General conversation, community, and leisure"
+1,3763,2da38c3f4e5e6355c4d8971d02c7c208a0f5b547df94d134f793b9988fda70c7,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,3766,adaab7a11311684d38f512c373d8dfa368f70e4ef3d90f2b00740413d5cc67a2,1,0,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,3773,0d4066f0b8bc58fa09af74dc6c881c1a79bfe419c5579b38da28b06f542e5b7a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3777,8d85f3a33e99bc6b495b571d01791e4cb5d5775ab6a1245347e782126bee6a7b,0,0,T02,NONE,Self-perception and cognitive patterns,NONE
+1,3778,69009c70c47d329b33289a223e0620b2659315d847d24b9b3d2cde1ad06a3db5,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,3784,74201a345910f4b982a90cbe89b1b186dc4e76fd6bd6c8497912716d3db90ff1,0,0,T00,NONE,Other/unclear,NONE
+1,3785,9d3715b37e31631269c888adb8a2487d818ea0d49456ebd37d9173151648507b,0,0,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,3791,9924e10eef7248d3bf458e7585d85eb6df6cb083fe5fdae91bbe572f479bed04,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,3794,0854fb6091809f8aeedeb1929055c17a2f12efd2bacb200161951d36fad83b6d,0,0,T00,NONE,Other/unclear,NONE
+1,3803,2591803c718ca1995796bc456c1238ef57dec601ef4fce66ee21b061dff23d97,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3805,89ed9137b777107df06b9ff2263f9fa2e90c57c945fcea476810fe01d0df8ee0,1,1,T01,T03,Emotions and feelings,"Motivation, hope/hopelessness, and purpose"
+1,3811,f23bbbceec842bb6a8268c3960278935acace5917b90f2b2b34606f95ee6322b,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,3816,fdcfe4778d8036cee9663a533bc0ed2b4dd5f8a84c95e30db3ccd5b4e6a40125,1,1,T07,T04,"Daily functioning, sleep, and physical/vegetative state",Relationships and social connection
+1,3817,76cfc5426b7799f161630c1851c97350ae40cdbcf55ecad513c54658926a35ad,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3818,056671ff8be00625270b1670f6eaa4a6ac847ffd7dec403e426df922d77488dd,1,1,T11,T07,Self-harm and suicidality,"Daily functioning, sleep, and physical/vegetative state"
+1,3823,9e318c79306a0e4ee3ba1465882256eb612692792d5b5ad401364a14f1c0a5d4,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3834,71851544755e84d0cf5182e4126213a7717af3dbd593565e580fe93197f71804,0,0,T00,NONE,Other/unclear,NONE
+1,3839,a0b9c3ef21fb318dd422a19ba72acc4e0db67c25897274a10371c368bc6d7a6e,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,3841,2cba43cc7f131fa80f942d94478222baa546f654479606e7a2c87765163934f1,1,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3842,9fd68fb630de4f83433f1e3dd93a9f381d05d669b32ebf469c04f34e9a609011,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3843,4f221b2684accd7ca087a64b05e600459fa345723e524a074b8b99e2eb2397ae,0,0,T00,NONE,Other/unclear,NONE
+1,3846,95d2f6d66d999e5907c9497594b6a51fa3d994c363a82142292df0462fbf6be1,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,3852,d3909a033a705ea51b633f24e74004fe7631e9afa160c27c3c0e07d1b74a4705,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,3858,8de25f049be260a116304bb40de98524a23ccda933e5ee790c6d05da8fc187b5,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3859,c4d50527032f5e8d5f5fbe4c5cb34c52c1037cca3f771ea70d707933d53e9016,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,3862,0f42edf044ff5f60e11056f6920a43b051a15e4a69a227234cc8ed9040b8727d,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3864,020d542a831c931dff257acfc4d5a00f6099a68ffbe2a031f6cb385ce26ffb26,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3867,420316d561dec88464369820cfc56ae11f316ca5b62db0e32b672c076fbc5ef8,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3873,727cab9cda62b3ab23266ee8212108a090b419fd71159f82709248e3f9f3ff55,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3876,b741e67458ccb944be0ddaaf89de455b40fb3895539475030c378cc306b6c7b5,1,1,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,3878,923d85958767a49932fbfd099d8b78299b8dff48d68d488ca170d8e7a0256d2c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3882,66d06c15e588356d0347df4c557acac3eb0f9c37725077bec05084486ae93aef,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3883,e493b8c03bcbaa3438780e6c89c22bf80a38338bdf3cd87ca78eff9acc78265c,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,3885,011d190713c897eaeea3e9197c0ab14057e21d2627289b29fc13662cc51cfd7d,1,1,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,3897,cd150cfe9d39f3263d07fcbfcad658e2f2e37a972cb905bea58aee6d79a562fe,1,0,T12,T07,"General conversation, community, and leisure","Daily functioning, sleep, and physical/vegetative state"
+1,3901,713613d061416a837aed5fb1cb72c291e05db2206e2ea73b712ba13e231e6b31,1,1,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,3903,704879241870c7c69fab372de2dc47a4acc5ef1205c67870d35e700c4140ea32,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3910,0682d80e14e95b7071254c88bb34ceffc499e7a040f64f9239beb897acf99ce7,0,0,T01,T04,Emotions and feelings,Relationships and social connection
+1,3917,7b485c531e3572d92699736106fde3d96d80be64cb51bd165aa1e4634f34980a,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3918,530831cdbce540e429cf122e5e441fd952b49dc771c6deccf90044c04f1628ac,1,1,T09,T12,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+1,3927,bfaee39f7235ee4d18e730daa1dc367acd2909d55bcf5c8dbf77730f71415f53,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,3928,7240feeda6c97d2a93ee3bee16ddc1e865d73b035cad0e5ec9f9809fbf618321,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3929,406b715f726c415aab75268fad957c45827fd49f52cb07fbbe0f418c815770f7,0,0,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,3935,207f512ebabbc578a139ee7c626892946ad73d010d6a2a1a92ec7614540db207,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3938,90e92fd81564fd4ea5409df32c6aaf5e373b7bc8b3a3c1408c57c615309f5f5a,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,3939,3b19a37828ad38d20d7af52b17c0614137d73c9567638f63ae068f8bdefcf548,1,1,T01,NONE,Emotions and feelings,NONE
+1,3941,fca3d3b0e700d64ecfdb399b8d28b3cb9f4e1d2d9429733f1c2dcf821c9c3c55,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,3942,0584d5db8f96fe9b7417a6d3ea56bdab829d7670000e2645d2350e55f5195cc4,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,3948,3b53a83bd47c60d73ad3df017efe514c1f5aac8dc3756c1f4fa3ff2c83fc5098,1,1,T07,T02,"Daily functioning, sleep, and physical/vegetative state",Self-perception and cognitive patterns
+1,3950,4260afd3b585f2b2bac20d20e7466a5f715943e9f4493bc965daab54c918d235,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,3955,7764c5f56206235c90541eb2df4573aaa136ad790fcfa560343bbba70b1824ba,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,3960,85eada2553c2c2e314e2ff613014f92a33f7e6ed67a9341a6c1da2ec84f5e6e3,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,3968,5b0faa724bcb9903cc765ee681c69dd3605f55ea79ad82280dbd26f211af9dbb,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,3973,45621be35fea1e062a0dd1da298d4db5eea471f0f19bc5ac3be6f9eb53177b49,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,3982,385fea40ec423823bb9884e9fcb3cd4ad643c699237a9361a159ff76775710a9,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,3988,297fda528ecc7658e2b22da06b0d6a2793b65e4fb9fd5e0b7d7cbfabd367ee32,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,3992,4126ca2f522aa572f6052f6addec66868d1f8ff4d1ce7136a71c005aa3c49787,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,3993,3373fbd757512509671f9b094b7cb5f61cd4bb692e8b33172864e916577c18e3,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,3995,3cf4ff2f73f68b381c148ba0096f85791019aed6a0f799e44c4cdd12be5f2e2c,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,4009,7bc04c2e16ee8e9d297e3376a83054e1cc98dd3ed5395961227c9deae6af9aab,1,1,T00,NONE,Other/unclear,NONE
+1,4010,369b988ed30cb951f8cb9914475c8e2bf7fc13cbf64785a68bd891accf823dff,1,0,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,4015,e351d4fe7adda620aaed19a999d0faf8e250a2500a4340738949797f06d40d7d,1,1,T02,NONE,Self-perception and cognitive patterns,NONE
+1,4018,8b9e24a1d68f75d5debb4ff1f7fe7bb42f1c8c4f931d1308d075e8009ef62728,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,4019,b394ffce269c66fa9457a1a76f0843199cce8bdae5fcceed2d317c1b337ac5b5,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,4030,cf0d3593055e031bad63c14cbc9b49b1d62505c98208e00fb718304069c2bb8a,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4032,54b9aff3dbb57efda758e6bde251716834140560e4f8d5a8e781b8175ffd9191,1,1,T09,T07,"Help-seeking, coping, social support, and recovery","Daily functioning, sleep, and physical/vegetative state"
+1,4040,5f410b6cb1e83cd12b8193332f4c4127f7a90c56eb2701365fa7b27ebf3fb6ad,0,0,T04,T06,Relationships and social connection,"Work, study, and financial/livelihood pressures"
+1,4041,231bde0e4243501859e89ea80cf4bc2533b11b178da7411c76c7733417541133,1,1,T03,T04,"Motivation, hope/hopelessness, and purpose",Relationships and social connection
+1,4042,9b2f4a7298c26bd1310f89cd010ac8a6b1bf646c2b165d49ad9b02e3bca51fbc,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4043,c8939e7a290d0ab34c2923a35190f1e79ed2e3456e1aa4bf73326c27cbd9e6a6,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,4044,9c70397503da7d10b915c886304e97e0cad52a02791fefca95cbe4be96ceeb7e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4046,eaee918e7179509b37a5202d4c1553d83dd866a1fb1bdf50e833d3ea8b268d52,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4048,f2a410c8033f034a28c235e945b54deeabd080438565597e23f5dbae16728a1e,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4055,969ba39da5d2b9f8ca3dd20e14b467442daf14822d39df73d0c0a37d58afe278,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4061,54438b2cd59d0b946ccd084e6963128be6875d61bc353ff702ed781d9c5216e8,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4064,17e5bce4dde80a0e5da70c072d24a7a612f291a6bd6b7944693a42aeb7b9987c,1,1,T09,T05,"Help-seeking, coping, social support, and recovery",Family and parenting
+1,4067,4945f29585124222c8b0158dd8ea7eb3d1f439645b7d706eacbb50d9f450684c,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,4069,ea0aeaeee44895a7b4000d6d68ef879893f5bf7f24deaedf8ae2c00fe9191a60,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4072,fc29044b1f864638de4a845358bdfa35afa755ae6c7765a7511ce04ec86c0da3,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,4073,0b6474051681f9492fd35b479eeaee8b01fbb1ed67b3ea4014601c79bbb60e08,1,1,T09,T12,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+1,4076,d74318babf1df1248939bded7bc0fe0641423420b4bb09bf51c18019697de120,0,0,T10,T05,Alcohol and substance use,Family and parenting
+1,4088,749f11e0fff92989984ee858f35fa06ae1e830f3ef42b981c099809a9e0600fa,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,4100,11099dc4fc521280cfdb67aaa46dd8ac0c60dde4964ce31ba2ac56e49b10de1d,1,1,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,4102,7942e936ae9644cac518a105226a4b1b5d8b1dc6bfa0f8c7e9e244d654b01f59,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,4106,f62421f777664f2aba75cd6c432c14b8fe6b4fbf212db32c9df5dff9b3abbe54,0,0,T00,NONE,Other/unclear,NONE
+1,4109,9be6fcb9ec5e3e55c70e276cc555b1b7e774862743d2a932a3c3f26cc0d5fc05,1,1,T08,T02,"Treatment, therapy, and medication",Self-perception and cognitive patterns
+1,4110,89aff78423b0de0d59ad604eebca4f88ce70ea7e9d76893844187efe658a76f2,0,0,T00,NONE,Other/unclear,NONE
+1,4117,7b4379708d1b38496b8270d441099bc40d4a25ba887584e48f4ebb1af159d1fc,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,4126,939a137d8184c2f98316f594a663df54251f87ad34c2282553d4ad206fe43499,0,0,T00,NONE,Other/unclear,NONE
+1,4135,41faf7445178a0cfe869af361768d61a63954861fe1ab1a3eae09704e1b8998a,1,0,T00,NONE,Other/unclear,NONE
+1,4138,e00ed6749b03b8daeef916ce908bb7edb5bfc8a57124b58ce7a258f8b81f62d6,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,4140,300da58f0ee5d69ed5393955bf80bd73b360aaa069bde6378f365b46548f6d6b,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4142,1d79d0ea0ec0d049c794047fa41c00effe876afca00d3b18d35aaae5b82df4ef,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4148,b5660e914824c57320e89260d8a2b27189979032be1dc2b376a2411754c150a1,1,0,T08,T06,"Treatment, therapy, and medication","Work, study, and financial/livelihood pressures"
+1,4150,c66f755401f1d77338cd73884dc3293eacdf0159c5006e5f1dc0e77569ef2310,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4153,24f3a9b47a242d6a385ebc2f5bea8189be3d158637b2754e0701016ba427be77,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4154,e739b6a4dcd93cf618dd5a651bd93282c2a82b4469f8358dab422f4c751fc2c2,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,4164,925df805721515698e0aaa18d7b3284863ea4bca82092533608e4770f0a90d12,1,1,T07,T08,"Daily functioning, sleep, and physical/vegetative state","Treatment, therapy, and medication"
+1,4169,097e4459f7621fef9a89ca227da786b85569093e2a5ba869e28fd40fef239468,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4170,b9735ec214313e3b20e28a1e963c6664acbb7b3f3fdcde57e97de69fb67c98b1,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4176,a23a059a126ac9189ccb9207f3356de3a458c061ea867c1ac3709455dda516d2,0,0,T00,NONE,Other/unclear,NONE
+1,4185,3d7405c0669099e0829721a47140114e3b0ab63be13c544f7b3447117a02e2bf,1,1,T10,T04,Alcohol and substance use,Relationships and social connection
+1,4191,836cdb94a4c447552b185e3205ef97d63cbb5e1a0b311c43e67a654bab1d3c6a,1,0,T09,NONE,"Help-seeking, coping, social support, and recovery",NONE
+1,4194,8a51a6d95228eca144d51f8af70342b24154e7da02285e92d1a4522d7aed9f51,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,4198,6d6eb85386935694197bad62e44bbfe75094dcf36541ce1057485f95aade568e,0,0,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,4199,de9a12e8918be0b5c3f2007495e77fe886e350548fab594794a7b0927c260c39,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4201,60e497a411cdc13934d8f18de0a74a10a07eb6b5da6662a3380b1d2b56d7776a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4202,49ba151ad4f708f0a8a783995ea5de7c2243a6f34c3bae146ccbcf4c05bd7d3a,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,4204,2fe476957ca63d38ce7adec9c0820e42d70876c7df85f9d0e6361bb77618f802,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4210,f2dfe9d2d66e72e5d2470d565ac75b096d21adec03e192cd75ca1b0f182fc17c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4211,6d55e65ce58888d04ab2b02572346b755a2482936de9e492e9176290bc91f12a,0,0,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,4213,b727f0ceef690256dc292b4fc94daef6034119d5694b2d30c491f88dc9701db9,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4223,0b9335d14a706ac0ba82c9f62c0eb35cec0f6ccf1645bfbcadc6e4a0a1455ad9,0,0,T04,T09,Relationships and social connection,"Help-seeking, coping, social support, and recovery"
+1,4224,f3a0d4b5ded308fbe3e2ca8047d375f85196b866095659fe305cdee64cee7098,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4234,53a45f3887866637c3a931272772b4ae5e920716d4dafed6e93ce1f51b45578a,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,4241,73c169bfa94912a5fd660eff913f6e2379b2a9201e2a987c92b36c00d3dd405a,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,4246,a444efba5f3e1ed6f65d9b72f6adbac27a995cca3eebfe8296e017ab1f21083e,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4261,f6034abf4b6e332d629921a743cecb68ae6ee6631f74ba4764274a2ab3a9d8c6,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,4263,3ea5c6218eeb01987ae91d9bda6847881425eb94de6737eb13fe03cf5d1d6959,1,1,T02,T10,Self-perception and cognitive patterns,Alcohol and substance use
+1,4264,0ee8fa957e779d5cf431be6a09e448a93528d69c4098de1162cde4e23c6f8d5a,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4271,290c9b5d327432ed76052695e7848cd461f9b5300171169e68b1b821499daa4e,1,1,T01,NONE,Emotions and feelings,NONE
+1,4276,8901599d2e3b0276790f8de12eed9ad761bb2bae69b2d274ee5a7f2bf415a5fe,1,1,T05,T01,Family and parenting,Emotions and feelings
+1,4288,6d23e5d3962cc14df702e6be816c82161a24a9cd336916965d45ac871df41851,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4294,fe00778472f5f7e34eeaa02dae168e1354920bdabce3d0309492dcc986e66abe,1,0,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,4300,6b27d87ea8808ee60d69dc484dab56ce18420bf1041750c73b16c350459cf676,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4313,716049655a1dd4c91562bfdac616e91c43ac8fd0449023d9018398b4ddb6b6f7,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,4315,f06ffdd12e0484c3a4859f2446a730c4165cac51c171aa41f471907572af55fa,1,1,T09,T10,"Help-seeking, coping, social support, and recovery",Alcohol and substance use
+1,4316,ae0ea904bc16043d3c351c80f2a2b3bf793a2bdf8faa51fd9ab312101aea3164,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4343,71206536c0712df5d61180c68ce73e67a2003402a6889d6408be805692f23180,0,0,T00,NONE,Other/unclear,NONE
+1,4354,e8de84c9257bd299108926a606a63df03b53ef40caaeb1b82b99c1a815a9a124,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4359,76367a73cc0f8f635d57b7a0baa88b32ea6aea811f0955fd902f204bc5c7c3ca,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,4361,bbbd8bc33360195ff4ef2cebe141a8609e035efbf6d1672d3237309045d839d2,1,1,T06,T08,"Work, study, and financial/livelihood pressures","Treatment, therapy, and medication"
+1,4372,a20035ad907fcb487a21dcc8ae98d0945957f120d077bce89cedf0dd6a42dea7,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4375,ad783f3aafdac7d3f4adc7aa8b36570cf23b1b8720847150d3ba282b85f587fe,1,0,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,4386,981b7ddd203f16c0ebbdcef1d30fec8c4610d8884821b975e352684cd674f019,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4390,0e257654e6cfeea257b79735b6a0e4a7b4f4b1541103ea3674a17d30b0dc3e3d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4395,fed01c5f0d24ad1848510becb657b655771a0d5406870cac20d9d0d0b54c984a,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,4399,173264f2706534c297a80c6c4a6beb9e3de8bee8afa1aae0a5cec5ce276ae469,1,1,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,4404,d5564d5d04d70774fc605e4d363df3941549a9f072fa3c51e14c146d1b5fcefc,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4414,a593f3c762c89eb27e760ef984e56bdea70451ea788a14f4be4e84e262fd0d16,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4416,45e200bca32ecf087f052c1dab8f26b7e7567089c40d2c261f836b73275bda26,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,4417,249f4c7dfb396d6d9856a86144a472eac33536c149fb307d824d37a376046ab6,1,1,T12,T01,"General conversation, community, and leisure",Emotions and feelings
+1,4419,f20c1e1f654528e64bf3154d7a6ccd7b48101a40365374b20cca434373d8e75e,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,4420,599a88d97b903c138c219037173cd1e849024bde836b524ae7381ba9ecc648e7,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,4424,d8d9a60064ae61d8979f5b1daebeed6ec43191f0f9fde00d701b1c69d0a1b2b4,1,1,T02,T08,Self-perception and cognitive patterns,"Treatment, therapy, and medication"
+1,4431,76f7f8280dec7a58e557fe665155215d691885938635ca8e680e46f1ea261e80,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,4433,da739e128664b2c61189f0862dd9fe00af9f8d9bb40fc39ca2b28f5992ac9363,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4440,68b4c489f1f3f2bb676cef83a3020daa44f12c23e8e517b9b7a127950b30736f,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,4442,aeb3e3a207ff44929c656702e3942ef573624ef56c7869c7515bb06facda9ee5,1,1,T01,T11,Emotions and feelings,Self-harm and suicidality
+1,4448,b5b5c633adfca964c89da510f845e3cf11ff41268f25e021e6995bd6ab7fa651,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,4467,08028e11b40fcde1113684199c08bc08f93ea8c39f36741a1ea6fa2a12166a13,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,4470,822ba0b982df3ea3c5a120f26643b5545322c130b5b69dc625095f6340e6a620,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4500,819ad1f9a922b5ec6fc25e12496dfc5a5270cecb41526608f4e3a7c943a0b62a,1,0,T07,T01,"Daily functioning, sleep, and physical/vegetative state",Emotions and feelings
+1,4501,9949cb1a3eda0eb885abf2e392b1ea22bcc1823b23b6440375d7ceff0b141d58,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4507,032f51c7c0389bad8b437bfbce1610f513c95204d81a4915ff0a0797d30dfb7f,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,4509,49197483363713390a81d83dafb53ea40ff37a2e7bbbd8fdfbf43fcb5a95e507,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4513,4a9612602e055ecd8b0edaaff6acd6a899b0da88d2c71a8a09f72f56ca58f36e,0,0,T00,NONE,Other/unclear,NONE
+1,4514,6fe893f7e203689cc0bb30191e2f7632fc5c843157f61f242a8b32ba4b8ead3b,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4515,777234e6c7dd7c6ecc1b070789373b6b16eafc445a54420920f509b8b0fec427,1,1,T07,T04,"Daily functioning, sleep, and physical/vegetative state",Relationships and social connection
+1,4518,085948a04cb6d531153e38e36d49ffb0ec21f2be4ba4326c40fa30112b8487e8,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4528,79431332675c23e2cb461f3fb8aaf2a6a9e27f523c09d4a6aa3b5a2ea67e44b8,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4534,6c785be12c4a30c881c1993875d9bd78fb9174c2f0912739d08ae032cc902c63,0,0,T00,NONE,Other/unclear,NONE
+1,4543,a8a6d6da7e49da1c4777261c78f5b0f3da91843f75f37d3ac50f481e755435dd,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,4549,04becbe7b691c0e08fb6dbf098c671d42499c2d5620b3d957a5650d6db09dbd7,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4550,eb96d2b3d52c23a4af23e10e7e5231e57c9c057f2ddd2771386ef5c0ff7b6982,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,4551,4948d755f35168cfe0bf00030cb4b6da12adfecc3f4ac3d63cdba6719c553618,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4566,a731adc7c0c245a44150843fe451077ce7136232a823402ab7e79f4c6b544d05,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4593,5cf3e0c8314ceee17f6a8262a9f90c7ff46f98fbd39a77aaa315693887e20c6b,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4594,18b5725d1956a4c695d912c2c60c876091c59930e3cbfb323972f1b2f1a30e17,1,1,T03,T02,"Motivation, hope/hopelessness, and purpose",Self-perception and cognitive patterns
+1,4599,23c33b25440bf83d9daec5d26e6a558b505097219f9a19bbeba42bc856b0e8b3,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4600,4f1288e08312a5aa98f69b6142ab6a29bfce46e5bf5f05794f38c1ac09163922,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,4601,c8d1261ab9ea4495fc8b66b4cee440fa1fc474ae8d92e5a5afa822ff495753be,0,0,T06,T09,"Work, study, and financial/livelihood pressures","Help-seeking, coping, social support, and recovery"
+1,4602,36f7e61bea4e7d25489f32c013167858cf960b39a2eafb71cb5efad50c7ca858,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4606,c9a411d8c5594d867f5b722e2654d81dbe529c7d76e21ad96934728c68b0b33b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4611,4b27ea67df0f91f08ccba563d575eaee851f62fc799c95a15a077dc3ee03abba,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,4614,ec1f99aae091daf7dc5da4002f352c1afafa058e0520dd3634a0b3011490b37d,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,4616,59b62c34ea0a03124ca8eba053d1f2061de2c2ed4403fd53fafb0c6a172ff690,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,4631,18f016e089337a66f18044640bab65b510c83075e5c4befb6da6bf5d1f57b7df,1,1,T01,NONE,Emotions and feelings,NONE
+1,4632,85834888db18aaab91abb34716085481639a931a5b8c8a37cb81c4d511ed35c7,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,4637,5405b30ddd34864c1a26a1ab9eca734c3bf1ac5f31f18e2841fd887fcece02a6,0,0,T00,NONE,Other/unclear,NONE
+1,4638,7c94dfae7bcedfdd39e75543f9457f8a16a62f73b1f5caaf100ecacc2d345c4c,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,4641,82cbbe86359cba3c1179a002f064c9d827a0d4640f2fd346fd74604237fcbf01,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,4645,24697b22146ea483121cbd0ccadc0443bf73f6c30293bac7a392acd3587cf536,1,1,T03,T01,"Motivation, hope/hopelessness, and purpose",Emotions and feelings
+1,4649,382aa5bfa44119f135463190c2450312258140c4137c8a962239ebe2db7ee559,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4656,5c9f1ec35b38a7ffa746ae601445c62d338dfcff57d54ee8244b5fa554f096ad,0,0,T00,NONE,Other/unclear,NONE
+1,4658,4879e84ee1b2b600594f30d8c1f2e1f8e02d598f7fcce935039def034a07313d,0,0,T05,T02,Family and parenting,Self-perception and cognitive patterns
+1,4660,f15ccec928305808c15c56bcae3c79f5d8a429136eebe671080953f48ca87ae3,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4663,0b180f4732a027683ab38c4b472191ba1270495193b488dd4d9c93bb8c40f5a3,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,4668,169d1178b8a386c95fad355707a735b9e6df629f24c3dd47d59489bd18c31631,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4671,82ec0eead680495f80c56ef905488bc28b813264406fcd07c71cf46ea0ad1096,1,1,T02,T07,Self-perception and cognitive patterns,"Daily functioning, sleep, and physical/vegetative state"
+1,4676,7fe3608e28b3f04076e1b4252111ae2d375a0728e7da36e01b398a91cb17a588,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4679,1b555541bc91a058237640aeb1d0d89d2cb211f818fea8cd0d9bbe1986490403,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4680,97f4f5fc0dfb5e46e48fbb6e55e8d581af67f335005303e58cdff5f900940b40,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,4683,b1e60aea76535688b3223c1e23b240d7f3de37507f02cea93fe2099ec044fa0d,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,4684,c2b0b80ff8030fe718a2535917215fa5a0822831f0bb82eff4444ed2bf6a6ec6,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,4687,aee2e18a89f474711cda2e0b2a202ae2dd70262816162db7d75260735585bda0,1,1,T12,T09,"General conversation, community, and leisure","Help-seeking, coping, social support, and recovery"
+1,4688,3c2348b1db422a511814c8da33abf4d27e331010f973d71304c78ef224ddc952,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,4690,7207b32edf46febb1d463de5fb51f7138da7f23d87fb6d19973b1233993ba4e6,1,0,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,4691,5345fabb08b04545d6cf2522d8d3903eb6f9ea69ecab1c230fa0b206a14d9a42,0,0,T04,NONE,Relationships and social connection,NONE
+1,4693,b9abcaa1cc07b2052131acb8a3aaabfd9aa3166f2956b41b0f2945fd23829422,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,4694,33b7c72c2780773f3fa0248037db0ca3b53557c2d00a20baa4574ba413be5cac,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,4705,25cc2a912555a5b01d3b699e71793ce56885f66c1eb409827af8514f20c20989,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4706,1d07bb513ad1c4ea677ed126bf64c1753b0e355c454fc7783882d3959f176003,0,0,T00,NONE,Other/unclear,NONE
+1,4709,f32de9d7973aefdcea85fda4a741c4df5bf9e7d3e836afc7798f40fdc57abd2f,0,0,T00,NONE,Other/unclear,NONE
+1,4711,cf3c8d9d057bc5b70f063cff7ab27a61703b6fd42544e19268120781092fe8ce,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,4717,20e34fa3d0f268f72262545de0bcbf7fa7ef6427c69e4c1c7a468c98d76295a5,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4720,cf5beaa021e379a81e2f05aeda416cccd85753c729312c8d4e5d15e00b65786f,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4728,a300b103954a803ed99d84d7cd873a73b43719d57ac9939107a4d3fdbf9db795,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,4739,c586520954ee31721f9da27555b52b3dbe8e1b735227056a37a32dc1ddf01ad6,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4743,b12ebfe498524e8f33cd4123ede2fddd68c92cdb9b7cf986428350f3f04a8569,1,1,T01,T06,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+1,4747,d2fc4b03b519a81ee7e99d81a8a388a0de737d950f1f0a4abd2f07e5a05d7172,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,4749,56a6ecf16c181f109cc607a0004d3d935ba0503b7623668cd61bfe8501c18bda,0,0,T12,T05,"General conversation, community, and leisure",Family and parenting
+1,4751,6e6b495c5f85b27689348776157314990b70dad55832c8ccf013ccb25cf00988,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4753,7c12c6df41b05a2d5d3ddf32d34eef7ff6449dd553a35d8f9d7b0552316764ac,0,0,T00,NONE,Other/unclear,NONE
+1,4755,8ab4bcbf39ce2de61449b298d66a8aeb326e4fe8c95866a476abe1442a6db031,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,4760,33ed8c692f30ce3387b15a605c5f3551771e643a9aae939d4936f7826cdbc993,1,0,T09,NONE,"Help-seeking, coping, social support, and recovery",NONE
+1,4766,16ae1b93b7608345afaeb6b799980dbf90295d4e69671c9df9e78878238e4cdc,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,4769,3f3bce4d0a7d08ba29c885a772ef7f862b1c1e3b4e61ea94e531009ee445d588,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,4771,fbc5ad6a14488fa3dcf5d8c325f50a3881425bcac1751337014ef3e149563a27,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,4772,e9046f344f5f6ad23a5ac509bc6b30e8d51d493ddef9b49fb1bc048de646277e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4778,71610bee01bb2c8565099b0e93f772351e5e347ff601323951bb1ec85ac2e674,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,4780,4bb2b192ee9b36b223420bea5846f97d8766488d4d8292ee4253ec4899512f3e,0,0,T09,NONE,"Help-seeking, coping, social support, and recovery",NONE
+1,4784,06e476e80099006260ccad817241ab3be2c7cace98d32a7d386a79243126dcba,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4792,da1f590b7a9621e0a3d147c112215481a4ed6f5fc50add327054c0d33039b316,1,1,T09,T04,"Help-seeking, coping, social support, and recovery",Relationships and social connection
+1,4796,e7ee730c00c2a38bcebbaad1e0fe36844197298c05b65030672b44b759ba3c5e,1,1,T00,NONE,Other/unclear,NONE
+1,4797,9ed2ca88782d98c2d01e377d96274e53f2e821c033ecdc13098695e6b870e3da,1,1,T02,T03,Self-perception and cognitive patterns,"Motivation, hope/hopelessness, and purpose"
+1,4800,a76fd21ebd6c4670de6c22861869bd0c120b0e38730cfb9a5caff0cacb565ff3,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,4812,36a67cdc198ae42ad328ae7df6f1adfc6c61d0c54801d0a656d1b0ed2093a1dd,1,1,T02,T07,Self-perception and cognitive patterns,"Daily functioning, sleep, and physical/vegetative state"
+1,4815,e9f00341565a21f055a6ae6ec03807f89892e0ac57b6fff0d95d492e2db70083,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4825,39a68c08d43b6830c8f931e5ae731b975a703d1724c77d5cc0f251ede7ebce2f,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4832,717b80473efbb7f2ad03148d1f50aab3f84d1ccc09644a828fb5b83d76355770,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4833,9a8862680c10f6a5635b9df9195d6c655772bc67522096a1e83bef5551fed5e7,0,0,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,4840,adb10b10fc7de6d375ae7877260cd6b10b8b0c4991175f25bf65e595c3df0543,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4841,0e4137f78ebfe20ac7d9aca571bb34c67b931619d8ae7e72d5c5380bc41bd10b,1,1,T03,T02,"Motivation, hope/hopelessness, and purpose",Self-perception and cognitive patterns
+1,4842,9f526ccda8fd369a5de8e78ea8db83574903732b25ddb9245baadebd28941d94,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4843,7f6c26cd97b465b84694b5330d6293f2f1048f9c9e72d672d7895258c2e9a56e,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4844,4c59c61f263e83abc7f5e1b79dc5a308ab3c8d19e3085b0c73bcbeadae334bce,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,4850,b7131192f27cb8e7da9bbc9461477e5371e2a28e081d7e48bbf1ee03bfd54c73,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,4853,cdbb88357d660b328dac673b08d19a9b66a8fdfe88f627cf3371f55b7b28659e,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4856,a608dcbc3160d71617db876a0e10963be6197603ea97aab4802d77bc778e4fb5,1,1,T10,T07,Alcohol and substance use,"Daily functioning, sleep, and physical/vegetative state"
+1,4862,61cf248607dabed14a17bdbe6ca0ff21d226c8cdf2ccde8d5f76d58ca046dd8e,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,4874,d3de24af5fe626be2e7f466825e0424ad1b0b190deef445de640986f2857bca4,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4889,06b51767f789e7b6db8908ff4fb150f057c4cfba964ec7f65c6d1dd9777ee5a0,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,4893,54c2634072e1d98d03b76a620f1df6378c4e012a572a2e694ea062119a4712c6,0,0,T12,T10,"General conversation, community, and leisure",Alcohol and substance use
+1,4909,4780caa6387d20633413f2cfa2f148770a41d27175c5c5806bb82b0d1c578da7,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,4911,16514cef035cc5afe2f8c71cb3565b239728f7c149bf5369cd446821d93ddd81,1,1,T10,T01,Alcohol and substance use,Emotions and feelings
+1,4915,753d132800690e71777b834df5b39b6a7abe33b4a83363aa8e5d6f3e40004684,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,4918,312dc03e330b02d5f5e414459fe503b212690a5958fdf1c0507bb783641402c4,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,4919,4a217af72da110c0707b536218e79470a2bf6647bdd87efcb21738a343d9b880,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,4922,16ca8bda4ee1fc514d8075a1b81258be66f7159cc796194d3af5c5f7b9dc9cc0,1,1,T02,T04,Self-perception and cognitive patterns,Relationships and social connection
+1,4932,2dcc9e8bb482204cbc62a656ce5047e6be46f5b94c0eb717c1d8023e18c986ee,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,4934,af3f80127f39b482c2d7a719ff708bab4bf3f9b5b938ebbdfec67e57528bb7ae,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4949,97bd728abcc846ad9bd3a53eb1fc95a6ef05feebed092eaf0871ea53b08ebb50,0,0,T00,NONE,Other/unclear,NONE
+1,4964,3f625a9adac734bf8fe0b7e01938dbab6288c3a409eaca77df2ee66af838c815,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,4967,def3367ccb8b232de07ebc2ef8ed072e0deaee1a1967b4683410566cf81fafea,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,4969,f06f4d0ccfb22a90c15bd7cd10a16a4d0c3648f76ad42267c8393a2c86fdc642,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,4970,fcde42f79f269eccbf7e2c2611107c6d62c7e6350285bc8b1ff3abd47a1cba2d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,4971,757a9b761cac4de4b57a6489006a18b49764df8efaa1cdf59145a9f77f1f7aff,1,1,T10,T11,Alcohol and substance use,Self-harm and suicidality
+1,4974,5661e5ed77c871ab5edb3cde6e9c810d1d68a47c482a58fcb106aacb50412cc2,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,4976,a3b32930e89ab75930a0a71ac26d1a72b6993381bc518f9870d50197d13aafbb,0,0,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,4983,dec8dc03e33a1c30427b71b2a9c9fbb8c2f1b1dd54f78160785da1ddda782334,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,4990,89568cbbcc5afcbc0d70133f20324589735763a94021ea51f64199f4fd8cdae6,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,4991,9e0e935c8af0585790430f7bc1a171d1044661922c3293e5bdda4fb3729d2df8,1,0,T09,T12,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+1,4993,191a9a9d029afc39a08cb67efdada6aa9465b785d376422737103eb0aed488d8,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,4997,7c04644dc844d6eba2d94904c694db4774149fc859de4b99677bf2bb7bc0365e,0,0,T00,NONE,Other/unclear,NONE
+1,5006,4a5fd3066f11e5e69f5b2939b76baa2c43254d387b7ed38ebf16b88c424e316a,1,0,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,5008,e4748e6b67405dae313a6989c5bf3098a9194a176218bb65e1ed807caef9b05c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5029,4de0364feb26c64e983cdaf56f1a8bf5678f7483589a0d0aff19f3a683386a23,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,5036,ab4705608531697074c998e5c175419f3351bcf482dbef19ce5b40613df8327f,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,5041,c768d6a02a414878b484799a4f5df0c77304ebf0428a6fe1af01c54134cb6517,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,5044,aea36ada6c1cdc238a19b94817700ff7b2db4c137b7d341f3019ad38a7acd155,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,5047,bbaddfbc497f4b23cdc870f5c1c809eee26266e51d44038bf630ae6bb69c2b5b,1,1,T10,T03,Alcohol and substance use,"Motivation, hope/hopelessness, and purpose"
+1,5050,2866d5dc900beb0ae18c074545281c6bbdf2c99d96b5f65045e14eb04a823121,0,0,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,5051,c503b86955e76bda705ffacb3c0cb6664cbdedce6d64883af4b86c2ef23eb4ed,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,5054,37c27566d3d97f6144148ae5dea272dd3f2a4ea0bbe305bf978e9a8a80a97c66,1,0,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,5058,3a46953051f0d7a8c1f30134466c539f9d60f3ececab4715ba226868f98468b0,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,5062,ba3e8577ad4de175f17e8192cd93922133bafca5e34102bb96d9d791ff88bc1d,1,1,T06,T08,"Work, study, and financial/livelihood pressures","Treatment, therapy, and medication"
+1,5069,1208540569675aabfcea1d1989b7329876ad7e2dcb63c6da3e2a1e8632ccb8a7,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,5072,d022e37e3568b0db95a2621f729fc44de7a67944a2d5c47b610b436aa61be9a4,1,1,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,5080,f22f7da046cacc2aa1ee82d5488f170be4665f0d494d1a9eb0b80061c127732e,1,1,T05,NONE,Family and parenting,NONE
+1,5081,32a8c0d5e5f7c9ac996e6e67959d823e71b1605451a2c86028586cb425b1ceec,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5107,7aca281776fd2259be602e93834b0fefb32d2f1b12dce7353aa89fb06984668e,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5112,0ca72a96d9e4cf8181f98c2a34b48be15cadb42f75a880878ca585df107b05db,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,5114,f507307b3f7260c4020e262190e23eb9dae8a5dbe60382f3fa0e76615663a0b5,1,1,T05,T08,Family and parenting,"Treatment, therapy, and medication"
+1,5115,12308556d88e64553466693054b8e29f285bfc7b643e5ea9b2f35a00f1d63293,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5116,fb08da7a93e87344c2613e7166fd3f6097ca430e8f0ef13ed5e005055623142a,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5117,9e04c6412ca48185fbb0fcf15e777963b23060aed824566a08d71279af8d67e5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5123,61ec078b87aaee681f48111be4542d2c2e15eb26d7b92f7cd85ded416b9576ab,1,1,T01,T03,Emotions and feelings,"Motivation, hope/hopelessness, and purpose"
+1,5127,1094a6ab51a1c76335d23d0a5a352fb366007b8e669ada500f9af303ab607276,1,1,T03,T10,"Motivation, hope/hopelessness, and purpose",Alcohol and substance use
+1,5133,4a1f678c456394b34fea68c9492748939e164eff3e677b1333b16d70bf167925,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,5136,df98a6c234fd5b57dc0f63fc3f4d1d11718a2c694dd612cc671a1d1a0880f302,0,0,T03,T09,"Motivation, hope/hopelessness, and purpose","Help-seeking, coping, social support, and recovery"
+1,5139,9fdeb7cbfb40b0e3f5f2d89552f0fcd2b6034656df362a361ff6a926fdc3675a,0,0,T00,NONE,Other/unclear,NONE
+1,5142,bba6095999cee49cc0f9131ca51c97db25d9764081d59a18218f99c720bf4d59,1,1,T10,NONE,Alcohol and substance use,NONE
+1,5148,508e768a69158f321acaaebbf4053a29878db3e654ae8034a6691fba247dbac2,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5152,77a14cd6792b6605291eb0f6fd2ceebe3ee45cc5dae87449a1b0a2a7c628512b,0,0,T01,NONE,Emotions and feelings,NONE
+1,5155,9fef3d5f4937d03ac4de444ae1e2fa2f3164fae28b341efad12ded5b8c7c9a2a,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5159,8e704139941e5ad07ad0b11eba5f5d6cf00d32f86fa3a22496c3f76ae8bc1617,0,0,T00,NONE,Other/unclear,NONE
+1,5161,d815283409b866bc2bb4c0717e6ee46075327b40297b8320ddafbb68799ae5c6,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,5163,ae161d9954b6ac84038146686f5dc7818ebb55cb3522742ebed7594998ecdc3d,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5166,bda2a45cffdb640ae5f3bb36bd5e5a88efd30c2006314ae29662808c68d4ca16,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5169,f0b332e7a667bafce7eedf8bd8536611634a3dcce0e1e7c373fc96299bbf373d,1,1,T01,T09,Emotions and feelings,"Help-seeking, coping, social support, and recovery"
+1,5179,663ecfba9e1d1e4ac0f3ce461ed28b85038e99163933c7634f43005ea7abeb0e,1,0,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,5183,867900d614b8ca7f6cfba407babaf8678b650941e6c95b7da7da8868ccb97ef1,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,5197,39d2e61b3380aecf3b7d2ecfd01290d7e1350fc3d50e19c966fd5d6db4cb6965,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5200,666bcd644483223877f8143eb24bcfe5471452fc2ceffb94d772dd99f083135e,0,0,T00,NONE,Other/unclear,NONE
+1,5205,2d364cd8a8a0d1d72b40a1f239e406b2023e367e898ef740d1d2a4783dc38f3a,1,1,T11,T02,Self-harm and suicidality,Self-perception and cognitive patterns
+1,5208,4de74435970c4254bb98d9b5c3f85b2c3f1f05018996aac7f0a9d60067a24174,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5213,8c7419781540496cc8e6a3484e5ab0abec79e3c1af5d9fe2379ff96632ca4c97,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,5214,e50430bfd4242a747fd3a6b3ae3d17417398e877c450dd2dec823fb8d0e1f869,0,0,T06,T09,"Work, study, and financial/livelihood pressures","Help-seeking, coping, social support, and recovery"
+1,5215,c4637123cd0b94db1cb19de0e99e6c0f2c602cb533c66ea86c96ed54e9545906,0,0,T00,NONE,Other/unclear,NONE
+1,5217,c407f7a6b69c61f9c201d378d88badb0cf7fb3b06421a894b5b6272bd39023da,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5219,30d9796180c8b9928d613dc0c974771034793249520b20ae3bed71019889f47f,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,5227,4bcf2c91e08321e33b3f2a0eb39eca533e1a28ccf1a8616e2f4759ad0f8d7eeb,1,1,T02,T03,Self-perception and cognitive patterns,"Motivation, hope/hopelessness, and purpose"
+1,5236,561e6633be87ab125f5725e820e85c9f69ac4c92630a02bb5765190f73978fca,1,0,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,5239,d62f7865ddff456cedfbdf026a8b3f128889e0005d9d758b344d07e8152bdd08,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5245,ab2d9fb10c5d2f3ce669f4fd199e7fab2aa8e0d41d9c68d5bbe015ed8968d3cf,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5247,4e7fd1f31e74359e7a0176a8d58a9469b9b57e364ee1eb2c71298a6679c91e2e,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,5254,44dad8771ad5c50d01d6a7c59aea6f15a1cbe477066be424637b7260fc96e869,1,1,T03,T08,"Motivation, hope/hopelessness, and purpose","Treatment, therapy, and medication"
+1,5255,96bdacaa6fb9fd7410e3bc3084708c88d70c09e454348818c946f77f55a7571b,1,1,T08,NONE,"Treatment, therapy, and medication",NONE
+1,5259,896bc4621a7b8f9e2d6c035bb20816dfb15605aade7e2b64b798865149829856,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5264,9f993c5dd8f7495ce01667074bb9590dc24112d454be181deb30e23807234dba,1,1,T00,NONE,Other/unclear,NONE
+1,5268,15216d0ba1a27028198cdb2e8969ef23bcbf42fa18ccf9f8fcf756030a0998fb,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5288,8f4c0fae866defb53f516562f543279add3f2a950ec5ffc67c4fd26f38379964,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5292,93d0a542ddb50a14c4669adaf2e15bbd085d3cfe1eebfe9bfe233c8e74da0f41,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,5299,8e5b62fcb653bd642c782f489f480290241e98c5180d2792060bd10a24efa091,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5300,cc31c5510008e5bd60df45f4d5878269968a8d8efbf83fce36812db0c945a47f,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5306,16f06c14ed23cc3aa808599ebb08a5ad3b65ff0aba6dea9a302aad065c335081,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5308,de910216feaff47305db78bc3e4a53d5358c20ced61109224a81f7ca29788e8b,1,1,T08,T05,"Treatment, therapy, and medication",Family and parenting
+1,5313,6fd164e6aef9e03ba59d3272526857e157854afc24a31941d1bd6778249c1d72,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5316,f5cb3f699640b28bf7520e59c9c88a49fdb7ec8b691f48fdaee59a70d4e3f89c,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,5328,1886d570446682c43bd7abe93b478cf974f9d11f94f35c2e0605fc73fa6f538e,1,0,T08,NONE,"Treatment, therapy, and medication",NONE
+1,5330,aa02a868f731d4c966ce33a6b2aa5bd57a9165770e83d55aec2187fd9b633801,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5337,6b4f57b7726b5370f43d816c8bd628a24e6d8f7e0507f1f5650a0f7570d75289,0,0,T04,NONE,Relationships and social connection,NONE
+1,5340,c0dfa07a720eb03c90991ba58ebded0717409effb1a356749955f5285f72c3be,1,1,T12,NONE,"General conversation, community, and leisure",NONE
+1,5344,07ade18a2c921923cda218aab93b5862b219088854642a1398e0662eaca04dca,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5345,5a1723dabc88f59c99648a658f35f6a655554b6c9e2ce9054dfdd266b8c92977,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5346,e0bd9a03d5fe79c2a29f89512e6978209d9a0705f90929a34cfdec0c810f21f7,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5353,cbb1dc44c0abe3348b553248f3bcbf758b92d4519c6244f134dd2205e6f9d52f,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,5359,db582f9076a7a28ae979f505a6ff01bb454eec04559cc579ffbb5dbd383d43b3,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,5363,2868e26457a2627f134f6ffd3a3c6563940e1a00d8e9d240eda8c5b224226ece,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5365,a4c23ce4f8e36aec6c210dd9858bead02b80926451d64082a10b3fbf1f84ffc7,0,0,T10,NONE,Alcohol and substance use,NONE
+1,5373,d6d0b767d72809a54f63f242215fe4e5ad152bf47dae33dd98eee0f96075ae46,0,0,T06,T09,"Work, study, and financial/livelihood pressures","Help-seeking, coping, social support, and recovery"
+1,5377,ec5380061f26ad3123b672b35f23cdc5196ececdfff82c75b7197c255c760bb5,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,5381,7c1d6646de53c41c31aa6d51651261afb6e9b9b7ac60742aa0d27c0741541a77,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,5398,cfc252eb1774716cbd86e32c5a3172cbf3c0a66ea53a4c91f64affa7ec032e5c,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,5401,3464e54b13880e172319e696c7dc641bfa62b847546bb929bdb9061c22817293,1,1,T07,T02,"Daily functioning, sleep, and physical/vegetative state",Self-perception and cognitive patterns
+1,5413,49aba2b79ba080ee8a130cdfbe480564396f4f70591d6ab0cabe155b89d80728,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5414,3132df583c9b385d3cb34eb3f3e628030a08e1651059001fb2455c9b5b2210a7,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,5420,f0d999b8a24d91bfe735785fe940320ecfde325af00a65450da1c4e703f6e96e,1,1,T01,NONE,Emotions and feelings,NONE
+1,5422,d3685a11806676797036588290f09c41401f498411e3f16a20b1c032b1ec9755,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5424,1fdbbb04139ea1b4b6913c17977496a0755bba3b4a87af15810a4eaf498b2ec6,1,0,T04,T02,Relationships and social connection,Self-perception and cognitive patterns
+1,5435,91fe8b1734b8066e7c9fccc08e67777215a899e5526819480695ad2037e1c388,0,0,T12,T07,"General conversation, community, and leisure","Daily functioning, sleep, and physical/vegetative state"
+1,5446,49266472314dcf6f959c8c35dcc2d6a8228458cd82f0295adde68a95e125d9a9,1,1,T02,T08,Self-perception and cognitive patterns,"Treatment, therapy, and medication"
+1,5450,9f2b967aa7fdde6db699dbd02ba79035dc25507c99bb9cfb634579ade71c9487,1,0,T00,NONE,Other/unclear,NONE
+1,5455,6ce92209aeb0a0f39e29bf92642194fc219e332f291a8b318bdc8d21fb792c90,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5461,ee20be677d071be640babd7b3b1ad58a20eeb73f0409adbdd6b413a6c320c40e,1,1,T01,NONE,Emotions and feelings,NONE
+1,5463,a327ebc6dabfb110cd9987e6f6bf917e6d0e48a579328a63451d427d6576dc34,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5467,d8e84409de8cd47671c40e1890779a4cc99afcf17b4ff0bb706c8027743d1b99,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5477,233f24bf617d7f522da4c40a65764860aae5fc8bfd7317d697b539e9bb273cdd,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5482,6dd23d1db041b9759d79da7730f8da9eb9d899fd3e59cdec5304ea654c26bc26,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5484,b91d7c7a9c524dd58c23418dcebc614f4d3a313c045dd01d54037d0395cd3235,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,5490,2bb3274f815704377752e16b14d486df56c7c18fe2c5ced54e5bdb397b5a6f96,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5492,a841b327156da26fc7ec311eea74f25655b7df66986b180bb57e631dd3e2d9cf,1,1,T06,T07,"Work, study, and financial/livelihood pressures","Daily functioning, sleep, and physical/vegetative state"
+1,5493,81ad269cf42e998b87c45ef0bdfa8eb256e84b6359211043b322662b7e1b7295,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,5501,138925a8c98bd4d7fc57a464af050c23bae8e4e5bc8581c70db1199cf1cf11fe,1,1,T03,T11,"Motivation, hope/hopelessness, and purpose",Self-harm and suicidality
+1,5507,15b84dccfd83b025dd09d13c7855362df8a9dfc9c27ef1ef6b0c170228518115,1,0,T00,NONE,Other/unclear,NONE
+1,5509,1f48357eee3e5edab163322e510a69ebd4d51bcb06e779cd3ef6fe54c0bf3171,0,0,T03,NONE,"Motivation, hope/hopelessness, and purpose",NONE
+1,5510,e824b06ece147f6d35505e3eb85a7e8b77d3431181bec794b2bcc1da9d4839f3,0,0,T06,T04,"Work, study, and financial/livelihood pressures",Relationships and social connection
+1,5527,5b73a0e5d8cbe34289c51995ef70c3e5d7609d2ec106dc7b24200cc05c53a072,0,0,T00,NONE,Other/unclear,NONE
+1,5529,07f938783e037d706c7a71bee7e4d41d0931a300901e6071be29ec905cde30f6,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5532,ec329df7e7b78c188d69b7eb9be7e4ee5727d77607850e2a4e50533f8de78aed,1,1,T11,T08,Self-harm and suicidality,"Treatment, therapy, and medication"
+1,5533,9b11ed2d3aa60ef257196733236cde632236b837cc02c924286fbf69bac29c32,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,5537,cff948914bb439c54359eada84d66d1d9e32f44e8198fff2f73570fe9fa51719,1,1,T08,T07,"Treatment, therapy, and medication","Daily functioning, sleep, and physical/vegetative state"
+1,5541,ccf468889d8df28da5a66e6bcad837ae27dc7ce4ab2402ce5ee69c1b0733ee0b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5542,957bd8e5bd474982a3e0fdc854c993efc9a5373ffdf5065b18fbed71efa5f523,1,0,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,5548,d471d09621002922e5a6a032df152ea2c68037c3a2dca2642dc3bb7ece19edbf,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5552,92557671e2eee37d2976d3722c7d64b429a21bf230a6cb7ac97e7bf1fa8cef2b,1,1,T09,T11,"Help-seeking, coping, social support, and recovery",Self-harm and suicidality
+1,5554,ec0a52e0e6efbfafe85bbe14049b9d2346273046f1b1c69466acb9967e48bcb2,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5556,34d6cbb9878d287b680288f5d92d3ad11b68fabb7521337d798497e63a31a5c9,1,1,T03,T07,"Motivation, hope/hopelessness, and purpose","Daily functioning, sleep, and physical/vegetative state"
+1,5561,e93e93deae9a66e435f12b2288391ca3972661d3e92c32dea489c23a0105b856,0,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,5565,1cb48028fbf5fc6fbc115c8176d790801a5417f8bcce92b3ffd560c1d8922e61,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,5568,1d69dbcf6c1e7d1dbff1556e174d7ded6d562ffed65710bfb2ba1aba128b3673,0,0,T07,NONE,"Daily functioning, sleep, and physical/vegetative state",NONE
+1,5570,b75f1ea0702a1ea9c5c8e63fa40cc5f2810104513531d7d34c0c6c1e79301fc5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5585,3abef49e1746864c7461d6491d2ff097e7322ad2f78b278c187ec0bf0dea2595,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,5594,ab3e69be12df9aa48143dfeb980afd9672e89af7b7f9347a7ebe8e102589fd11,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,5595,8a28bb0e6b409b8e3aa175b6e0d59cb6e035c87645a3a879787eb4e0b9695683,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5603,6cc3bfe3493dab87042a68365e0a9a33a29130f483ee77684d7d88d4174f1410,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5615,a8d0fb34edabfac71062e5aac5d2225024a86696883853b403c13dfe239b643e,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5628,bde33509574f1319aa30392eaab78a0870cd17705fbefa58738b44227244f1a0,0,0,T00,NONE,Other/unclear,NONE
+1,5629,6f6f7d9c8d3cea93c11371f9e179b6a6336aecfe38e9c04889fc74001a602b06,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5630,de996ffd5a25edc32d7a72f7d57691a0db0971fc93f3f2c16fd948ac42e2fd0b,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,5632,3176d1cf8800d2ca3856568177a301df6fcf6ef2e98921eebd33ca07d5705df8,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5637,0b85d8c4f445961789b24bcc118eac2758caad7d3e15917a029c09410ace81db,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5645,7cb3b249334d5bf03e56a591834f6041eec71ae95b5ad7dba8e76944eb5d7d6b,1,1,T07,T03,"Daily functioning, sleep, and physical/vegetative state","Motivation, hope/hopelessness, and purpose"
+1,5647,0967741834bd2b4304a5d5ee56bc8b1cc3bbf1ec609277820bc0670ff2b6a42f,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5650,7070b25061aa657d5da59ab69791977a1ceaa789ac395ad860c74b45779e2ee1,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,5652,a53244287cb8bec1709894b7191c9a955d308922765a2d0d25eaab5568cbae23,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5657,20720eb138402d3b9a9ad33c903ce923a2c606a7d062041cd085ffefeeafdfe7,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,5658,35ba4f40d154131eff1f1a0e01f6af43b81674c1c5bf16260373399148afc135,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5660,4359c7d0de89d5c23ac0a4bd272cb06a679bd337eec270c706802dd59bdda70a,1,1,T01,T02,Emotions and feelings,Self-perception and cognitive patterns
+1,5665,701c5c918226aba6a7156b208704bba38dc997646dd71626bf1ca2608e9485e4,1,1,T04,T01,Relationships and social connection,Emotions and feelings
+1,5666,b10b4996c36ec6a19298e38400a8398fba53b17346eba20ee04eb062dc413e8e,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5671,dc18c979b568aeb3d2d77758bf931b71785c320f72377174ca5f9aed4c34bbf5,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,5676,e9146ad09726db43955b520d04dafcf10455ad833fafdd88d6aedc484ff6987e,0,0,T07,T09,"Daily functioning, sleep, and physical/vegetative state","Help-seeking, coping, social support, and recovery"
+1,5680,11bb322b92fe9fca8a22d70bfbb13122e0bc4752219a1563431665c29443b2fe,0,0,T05,T12,Family and parenting,"General conversation, community, and leisure"
+1,5681,34d4fbfb7e84c48e6c5d57f28cce41982114aa6ff1dcbf6805ddad8de8893bf4,0,0,T06,T01,"Work, study, and financial/livelihood pressures",Emotions and feelings
+1,5685,b6e573fa17df0a7d1f7da69acd46fe20117b3b937290f487ffcc83eabe4eecce,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5687,0333a1100a1b8af5d3e964de8d6cdb09a9660da21795859110848c722f762e47,1,1,T01,T05,Emotions and feelings,Family and parenting
+1,5698,b4e8545f2fff55ae7fd33d3fc6a529d84160c9f2751952eb64cb80dfd0c69b4d,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5700,86147078e4646a82416bdf5473cb293e8b2232b8d3cbaafbc8ffee2b31add51f,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,5701,5664accedccbaebfde4d9a2faf2c767b9debea45ea84eee1ed330f27c6a50e4c,1,1,T01,NONE,Emotions and feelings,NONE
+1,5703,de096ca580b5a05412d54336eb2eadba543ea68f1e80956d8ce53b708159f90c,1,1,T08,T06,"Treatment, therapy, and medication","Work, study, and financial/livelihood pressures"
+1,5706,d9e0221b05439be728748d340b9fab82bd59e0c2483d832e9fe50d49ba4db250,1,1,T02,NONE,Self-perception and cognitive patterns,NONE
+1,5707,8c82681730902acca7ea099939317b65d2447c5c718fc23aaac55b607e493133,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,5713,79aac406f185a6845e73e1f6ac83028562dfa3de07be4bec621664c04cdfc10d,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5714,5a7e4736a438db8529c78585da95e4ca1e161a701d2fa0fa56f8a56d23db9156,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5716,edabba7acc0001e8f23bf80b7bb4f7c7b1ecc9ca92a8eed10efb41c8fc39a067,1,1,T09,T08,"Help-seeking, coping, social support, and recovery","Treatment, therapy, and medication"
+1,5721,3a1a3be87d21c9a452f8b893e3a15bb02caddc6b59900876f32dd9294be2e4ad,1,1,T11,NONE,Self-harm and suicidality,NONE
+1,5725,31977502137ad009015ef480984d68ae6674d6e0d5745726450c079dadd1c7ae,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,5726,e576374df5f862e2de11f4058fcda760e8b32cd86ab7441986076a7802a60c51,1,1,T08,T01,"Treatment, therapy, and medication",Emotions and feelings
+1,5731,f0fa979b7bc9441be61e4aa3e755caf15dce781900f94265bc91d4e04cebc7f0,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,5735,712c251ac0b76cd2467c3d94d4a65ac1f9780a9359057ad759f133c3f0962c2a,1,1,T02,T01,Self-perception and cognitive patterns,Emotions and feelings
+1,5736,aa753d3dde1b01dd61f375f48c9a17050da2e74f9fbdd4d95887dd549e475220,1,1,T01,T12,Emotions and feelings,"General conversation, community, and leisure"
+1,5741,e5a81c89389f25dcb2c81fc67445989c84d73de24ccb03f0b1452fecf16d3bf1,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,5742,591e9dc6af7d6f8e776cbc5ab26f5f045378daf32f8e2e02e798abe56974d4d9,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5743,ee434f1534d4a7f0a003bb9c1f76652479a5405d558f3855af73e6d5ac0ad805,1,1,T02,T09,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+1,5744,7c0f0f68654912c89f1d562fa0cc5b79fbe847e3048925ac63bf29d81902db71,1,1,T08,T09,"Treatment, therapy, and medication","Help-seeking, coping, social support, and recovery"
+1,5747,4f05c407c644c131ba321531c104b1a71eff71389243b60ff54d2663d75d9d44,1,1,T01,NONE,Emotions and feelings,NONE
+1,5748,55d0f57fd2235b0a77541acaf4a1eea366166e952921449ee360dc0bdf54fcf5,1,1,T01,NONE,Emotions and feelings,NONE
+1,5750,a2eaf6236fec11cd481d88519791ce4669df8201687667d334ca59f9551256f4,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,5760,62d8ca68f60cb1361e09de95f04f14927481d3a383323c3630d7a516ca435f8f,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5764,60da27f6462977ff121e8fd611fc18371ab9f9d45c30c6561846c170e45aabd5,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5765,1ac933a91410d99246bb2e07f1432f046dfa0145a50f5910dc8a3035f1e5008b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5768,97b29a7b5fbe0ec573415c34a6856abaa26d6d466719b4407d4a6451c9d87372,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5772,d02721e39f55fbe5949edab927b3dc4ef84513bccdbedf7cefd1617fc8237a40,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5775,afb39b37906243bfbe7ab2839ffb23ebc400b80138edf21f3565149dedce7e11,1,1,T01,T04,Emotions and feelings,Relationships and social connection
+1,5776,72606170179f9f70d3b2342b008188112e46bd80b14747233eeb6872d79afa6c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5778,4a42d19a13bb8e902617bc87bcb8652baf4a638b0b162a9f6e8d6390e6f67398,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5779,9724f45a91ba5e79f9ac7abbb3e8f6baeba81a7776142ed91fd8b74b55173665,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5780,2c7bca844192b452584490b5f279fb9bba6b850dd525b5a40122682b36945a45,1,1,T12,T09,"General conversation, community, and leisure","Help-seeking, coping, social support, and recovery"
+1,5783,9057db5ad00f1624a41be0e2b24ac9f898e32a12c0545ca103f9e4fab751e582,1,1,T11,T03,Self-harm and suicidality,"Motivation, hope/hopelessness, and purpose"
+1,5793,ad4873a5f07754ca64f4f8309c9d30dde860f3e0d323a5ebbf1af1a5ba4edefc,0,0,T00,NONE,Other/unclear,NONE
+1,5799,15faac52c27bab8177b306b74c74501f9427dde57f0ee00a85cab88d40270c2c,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5802,734c281f44c678d51db3babbcf00c5b77c846b7b8efbb2639a9328e4e203f365,1,1,T11,T06,Self-harm and suicidality,"Work, study, and financial/livelihood pressures"
+1,5805,d63d8a9d4cc6c01fb87c30a14ee1816637bd78067620792125131f82281d87fc,1,1,T08,T11,"Treatment, therapy, and medication",Self-harm and suicidality
+1,5810,a6f219daceacf9994b6230dff880baea9e9b915e6df78637d520b83932f359a1,1,1,T01,T08,Emotions and feelings,"Treatment, therapy, and medication"
+1,5812,c2ecd8a4cbeb9c9b7c0ce3b20daea8bb1df59cb764d11d4393a9cc4ef0c8043c,1,1,T11,T05,Self-harm and suicidality,Family and parenting
+1,5824,8c63a9fd9216db12928277709adeb4fb825700f4cd35e68ac9e2819b7e780b80,0,0,T00,NONE,Other/unclear,NONE
+1,5829,6d396dd7e20d50da2a2f582ad6f146adf16de3c536ae02a22060baa6dd6b3793,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,5844,dd98de877a46f14527d2b160a7784c6fe0b664aa643b78d86a3748b4283774ff,1,1,T11,T04,Self-harm and suicidality,Relationships and social connection
+1,5849,5e71d814c8516c924a13929f29c64003da0c92f5a8c173a8fdba9e1adcc63add,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5850,b6b3d7987bbfc80ff9b31e4b489899386cd20bde9f8b2c61425eb921bb0d779b,0,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5862,f33ec457a567a15a22f0f01e3aa0e7ae868dd13b30d4b55da7138a4eae140641,1,1,T11,T09,Self-harm and suicidality,"Help-seeking, coping, social support, and recovery"
+1,5868,2e91f148a74e7145d2e49ae1db29969cc98598d24794a747c432e0273feb6368,1,1,T11,T07,Self-harm and suicidality,"Daily functioning, sleep, and physical/vegetative state"
+1,5869,a5472aaa6ed34f414939b53880366fa32c9f29e21dfee5ddde5a93cf539c8248,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,5871,39d7205023511ba3b435efaef7325b5f9ff3bb0c89b3ae7991ef2deea7a91893,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5875,8f22d6022a95e6e13043bf600cf10a82ef1bf4c83e8c6e4e3737fdf1d59fb8cc,0,0,T06,NONE,"Work, study, and financial/livelihood pressures",NONE
+1,5879,d9d123b3538dd043705e45208e4a2a9122652cbc92d563dabae7d880388605d9,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,5883,7af1f8d4df9a255539ea1ac0a930eac123c6ce1675d5a69c44441894f53e877f,1,1,T02,T03,Self-perception and cognitive patterns,"Motivation, hope/hopelessness, and purpose"
+1,5885,53166611059bee59cca8f52577f73326acc7920b84609e8aca394e547bf0a0e0,0,0,T06,T12,"Work, study, and financial/livelihood pressures","General conversation, community, and leisure"
+1,5888,8cd03489b101c2673cb3830154eb724fd3f628f9f5d6904c7912c1445b061edb,0,0,T06,T05,"Work, study, and financial/livelihood pressures",Family and parenting
+1,5890,966699168c3115e8e1ab511d3906751b5cbd93d0f6248cfea759ee2bf8c69103,1,0,T12,NONE,"General conversation, community, and leisure",NONE
+1,5896,cebbe6a9c4149db3df1be29eb7c1007641102dd2a34b8a913cdb4bbf9643f13d,1,1,T02,T10,Self-perception and cognitive patterns,Alcohol and substance use
+1,5897,e2d0fa14ab63e21d7cd612c22a78bc91cac4624de875ae4d9a9092c25e98c526,1,1,T11,T01,Self-harm and suicidality,Emotions and feelings
+1,5903,425718866a44003c23bf8b891a8a8e0f0ccda00e88e929ed80531f9c55e12c4b,1,1,T06,T02,"Work, study, and financial/livelihood pressures",Self-perception and cognitive patterns
+1,5908,2ff99be28f95b580cad3958f36a90114c4d1ba80260309b6358a0ce7660aa604,1,1,T09,T01,"Help-seeking, coping, social support, and recovery",Emotions and feelings
+1,5917,4d0abeeb7e5ea84bf30fbc467dc6f27578a5563f988c8464867eb5bbe7cc0c52,1,1,T01,T07,Emotions and feelings,"Daily functioning, sleep, and physical/vegetative state"
+1,5928,a1a52e1ec215f0bc0c1888831281b50167eb1232d3ef9572ac7ebd73bb51106b,1,1,T01,NONE,Emotions and feelings,NONE

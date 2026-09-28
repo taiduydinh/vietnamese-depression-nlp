@@ -49,6 +49,13 @@ Recommended descriptive labels used in the project analysis:
 6. Event-Specific Social-Media Commentary and Depression Trivialization
 7. Severe Depressive Distress, Hopelessness, and Suicidality
 
-## 4. GPT results
+## 4. GPT-5.6 Sol results
 
-The GPT-5.6 Sol batch outputs are **not present in this server snapshot**. They must be added from the separate local GPT experiment archive before this becomes the complete paper repository.
+The final GPT results are included in public-safe form under `gpt56_sol/`.
+
+| Dataset | n | Accuracy | Class-1 precision | Class-1 recall | Class-1 F1 | Macro-F1 |
+|---|---:|---:|---:|---:|---:|---:|
+| D1 | 1187 | 0.9377 | 0.9928 | 0.9089 | 0.9490 | 0.9344 |
+| D2 (final merged) | 1469 | 0.9353 | 0.9839 | 0.8889 | 0.9340 | 0.9353 |
+
+The initial D2 batch had 139 quota-related failures and therefore only 1,330 valid outputs. Those exact requests were later recovered; `gpt56_sol/results/d2_final_metrics.json` and `d2_predictions_public.csv` are authoritative. The topic taxonomy is literature-guided LLM annotation, not ground-truth topic labels.

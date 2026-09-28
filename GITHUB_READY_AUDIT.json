@@ -1,7 +1,35 @@
 {
-  "private_archive_file_count": 466,
-  "github_ready_file_count": 181,
-  "github_ready_size_bytes": 2361670,
-  "included_from_private_count": 169,
-  "excluded_from_private_count": 297
+  "repository_name": "vietnamese-depression-nlp",
+  "created_from": [
+    "Depression_Reproduction_GitHub_Ready",
+    "Sol.zip"
+  ],
+  "public_file_count": 214,
+  "public_size_bytes": 3158682,
+  "gpt_component": {
+    "d1_final_n": 1187,
+    "d2_final_n": 1469,
+    "d2_recovered_requests": 139,
+    "d1_metrics_sha256": "3e0945b5936092c85338553c0e70c63550134e2f352a83e261923bad01e93c31",
+    "d2_metrics_sha256": "4bbcf2750ce5c178eddd132c7dfe24b43af888ec04feef1c4eb80c702e3940a2",
+    "d1_public_predictions_sha256": "ff9ac7d941a4563deae8d56356631fb70d302edf7fba2c3340298eb583dc22f2",
+    "d2_public_predictions_sha256": "12c3861cac17d06dcffc56640e8f8b78f3b8e8ec834c595b61ff20f9f79fd43e"
+  },
+  "privacy_audit": {
+    "secret_pattern_hits": [],
+    "raw_text_columns": []
+  },
+  "notebook_syntax_audit": [
+    {
+      "notebook": "Vietnamese_Depression_GPT56_Sol_Batch_SENTIMENT_TOPICS_v1_4.ipynb",
+      "cells": 26,
+      "syntax_errors": []
+    },
+    {
+      "notebook": "D2_Recovery_139_GPT56_Sol_v1_3_SELF_CONTAINED_MANAGER.ipynb",
+      "cells": 13,
+      "syntax_errors": []
+    }
+  ],
+  "note": "Raw social-media text and raw Batch API payloads are intentionally excluded from this public-ready snapshot."
 }

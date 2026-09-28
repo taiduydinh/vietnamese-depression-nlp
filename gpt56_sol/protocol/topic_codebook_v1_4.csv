@@ -1,0 +1,14 @@
+topic_id,topic_name,definition,literature_support
+T00,Other/unclear,No T01-T12 theme is sufficiently supported; operational fallback only.,Operational fallback; not a substantive literature-derived topic.
+T01,Emotions and feelings,"Sadness, fear, anger, loneliness, or other affective/emotional distress.",R1 Feldhege et al. (2020); R3 Yao et al. (2021)
+T02,Self-perception and cognitive patterns,"Self-worth, self-criticism, negative expectations, rumination/reflection, or self-image.",R1; R3; R4 Grant et al. (2018)
+T03,"Motivation, hope/hopelessness, and purpose","Motivation/loss of motivation, hope or hopelessness, meaning/purpose, future orientation.",R1; R2 Carron-Arthur et al. (2016); R3
+T04,Relationships and social connection,"Romantic relationships, breakups, friendships, social connection or isolation outside family.",R1; R2; R4
+T05,Family and parenting,"Parents, children, family roles, family conflict/discord, or parenting.",R2; R4
+T06,"Work, study, and financial/livelihood pressures","Employment/workplace, school/university, academic performance, money or livelihood.",R1; R2; R4
+T07,"Daily functioning, sleep, and physical/vegetative state","Sleep, fatigue, appetite, physical symptoms, daily routines or impaired functioning.",R2; R3
+T08,"Treatment, therapy, and medication","Professional mental-health care, clinicians, therapy, hospitalization, prescribed treatment/medication.",R1; R2
+T09,"Help-seeking, coping, social support, and recovery","Asking/offering support, coping strategies, peer/social support, recovery or positive change.",R1; R2; R3
+T10,Alcohol and substance use,"Alcohol, recreational drugs, substance use or misuse.",R2; R4
+T11,Self-harm and suicidality,"Self-injury, suicidal thoughts/plans/attempts, or a wish to die.",R1; R3; R4
+T12,"General conversation, community, and leisure","Small talk, entertainment, hobbies, ordinary community/social conversation not better captured above.",R1; R2

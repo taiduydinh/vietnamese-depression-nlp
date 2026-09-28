@@ -1,0 +1,7 @@
+# Historical notebooks recorded Python 3.10.15 but did not freeze exact package versions.
+openai
+numpy
+pandas
+scikit-learn
+keyring
+jupyter

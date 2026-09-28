@@ -1,4 +1,4 @@
-﻿source_path,source_size_bytes,decision,reason
+source_path,source_size_bytes,decision,reason
 __pycache__/lda_topic_modeling_v2.cpython-311.pyc,98934,excluded,generated Python bytecode
 __pycache__/lda_topic_modeling_v2.cpython-313.pyc,86789,excluded,generated Python bytecode
 __pycache__/near_duplicate_leakage_audit.cpython-313.pyc,62447,excluded,generated Python bytecode
@@ -465,3 +465,70 @@ reproduction_results_v1/runtime_environment.json,782,included,public-safe/reprod
 requirements_lda_v2.txt,99,included,public-safe/reproducibility material
 requirements_near_duplicate_audit.txt,66,included,public-safe/reproducibility material
 requirements_reproduction_server.txt,217,included,public-safe/reproducibility material
+Sol.zip::D2_Recovery_139_GPT56_Sol_v1_3_SELF_CONTAINED_MANAGER.ipynb,56505,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::Vietnamese_Depression_GPT56_Sol_Batch_SENTIMENT_TOPICS_v1_4.ipynb,97247,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/batch_registry.csv,1585,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/batch_registry.json,2645,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_input.jsonl,4805298,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_output.jsonl,6072729,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_state.json,1226,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/config.json,1706,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/cost_estimate.json,437,excluded,historical budget estimate; actual usage retained in final metrics and sanitized config
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/manifest.csv,1281463,excluded,manifest contains original social-media text; row IDs/recovery provenance retained without text
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/metrics.json,2303,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/output_schema.json,866,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/predictions.csv,1503728,excluded,text-bearing row-level predictions; replaced by public text-free predictions with SHA-256 text hashes
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/prompt.txt,2120,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_by_gold_label_counts.csv,153,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_by_gold_label_percent_within_label.csv,542,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_by_predicted_label_counts.csv,157,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_codebook.csv,1954,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_primary_distribution.csv,856,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_primary_secondary_pairs.csv,1215,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_secondary_distribution.csv,828,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d1_full_gpt-5-6-sol_sentiment_topics_v1_4/upload_recovery.json,225,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_1/batch_input.jsonl,119783,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_1/config.json,1536,excluded,pilot artifact; final frozen full run retained instead
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_1/cost_estimate.json,392,excluded,pilot artifact; final frozen full run retained instead
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_1/manifest.csv,68108,excluded,manifest contains original social-media text; row IDs/recovery provenance retained without text
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_1/prompt.txt,759,excluded,pilot artifact; final frozen full run retained instead
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_2/batch_input.jsonl,119783,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_2/config.json,1536,excluded,pilot artifact; final frozen full run retained instead
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_2/cost_estimate.json,392,excluded,pilot artifact; final frozen full run retained instead
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_2/manifest.csv,68108,excluded,manifest contains original social-media text; row IDs/recovery provenance retained without text
+Sol.zip::runs/d1_pilot_gpt-5-6-sol_v1_2/prompt.txt,759,excluded,pilot artifact; final frozen full run retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_errors.jsonl,60173,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_input.jsonl,5184697,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_output.jsonl,6803984,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/batch_state.json,1286,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/config.json,1706,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/cost_estimate.json,448,excluded,historical budget estimate; actual usage retained in final metrics and sanitized config
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/invalid_or_missing_outputs.csv,69873,excluded,partial D2 failure artifact; authoritative recovered final D2 output retained
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/manifest.csv,823169,excluded,manifest contains original social-media text; row IDs/recovery provenance retained without text
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/metrics.json,2045,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/output_schema.json,866,excluded,nonessential operational artifact; final protocol/results retained in curated GPT component
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/predictions.csv,1078069,excluded,text-bearing row-level predictions; replaced by public text-free predictions with SHA-256 text hashes
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/prompt.txt,2120,excluded,nonessential operational artifact; final protocol/results retained in curated GPT component
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_by_gold_label_counts.csv,154,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_by_gold_label_percent_within_label.csv,557,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_by_predicted_label_counts.csv,159,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_codebook.csv,1954,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_primary_distribution.csv,856,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_primary_secondary_pairs.csv,1157,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/topic_secondary_distribution.csv,827,excluded,partial D2 result (1330/1469); authoritative final merged D2 result retained instead
+Sol.zip::runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4/upload_recovery.json,225,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/batch_input_recovery_139.jsonl,476321,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/failure_audit_139.csv,26875,excluded,row-level operational failure list; compact recovery summary retained
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_batch_output_merged.jsonl,6757081,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_metrics.json,1722,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_predictions.csv,940121,excluded,text-bearing row-level predictions; replaced by public text-free predictions with SHA-256 text hashes
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_topic_by_gold_label_counts.csv,158,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_topic_by_gold_label_percent_within_label.csv,564,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_topic_primary_distribution.csv,862,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_topic_primary_secondary_pairs.csv,1240,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/final_1469_topic_secondary_distribution.csv,831,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/manifest_failed_139.csv,63664,excluded,manifest contains original social-media text; row IDs/recovery provenance retained without text
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/recovery_batch_output.jsonl,711101,excluded,raw Batch API input/output or recovery payload; may contain original text and unnecessary service metadata
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/recovery_batch_state.json,439,excluded,operational API state/IDs not required for public scientific reproduction
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/recovery_config.json,796,included,scientifically relevant GPT protocol/result; public copy retained (sanitized/cleaned where noted)
+Sol.zip::runs/d2_recovery_139_gpt-5-6-sol_sentiment_topics_v1_4/recovery_upload_state.json,208,excluded,operational API state/IDs not required for public scientific reproduction

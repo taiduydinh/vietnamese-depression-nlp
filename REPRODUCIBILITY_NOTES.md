@@ -7,3 +7,7 @@
 - The near-duplicate sensitivity analysis removes flagged held-out examples post hoc. It should not be described as equivalent to a new group-aware training/test evaluation.
 - LDA v2 model selection was frozen before the 60-run search and uses coherence one-SE eligibility followed by cross-seed stability. The quality gate is diagnostic only.
 - Public-facing files intentionally omit raw/normalized social-media text and third-party binary resources.
+
+## GPT-5.6 Sol environment
+
+The GPT notebooks record Python 3.10.15. They did not capture an exact package lockfile, so the public repository does not invent exact package versions. The prompt, structured-output schema, model name, dataset hashes, split parameters, and final metrics are preserved. The recorded API pricing is historical metadata from the run date and should not be interpreted as current pricing.

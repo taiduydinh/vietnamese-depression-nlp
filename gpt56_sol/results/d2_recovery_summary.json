@@ -1,0 +1,11 @@
+{
+  "original_valid": 1330,
+  "failed_requests": 139,
+  "failure_cause": "API insufficient_quota / credit_balance_exhausted during original D2 batch",
+  "recovered_successfully": 139,
+  "final_rows": 1469,
+  "final_missing": 0,
+  "failed_custom_ids_sha256": "c7c9f12719f7225928f7a9cd61f037599cb35341eee588bf3dcf408688d7fdfb",
+  "final_metrics_file": "d2_final_metrics.json",
+  "authoritative_for_reporting": true
+}

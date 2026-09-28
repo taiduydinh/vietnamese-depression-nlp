@@ -1,0 +1,18 @@
+{
+  "created_at_utc": "2026-09-12T09:50:29.505091+00:00",
+  "purpose": "recover exactly 139 D2 requests failed due to exhausted credit",
+  "original_run": "runs/d2_full_gpt-5-6-sol_sentiment_topics_v1_4",
+  "n_requests": 139,
+  "failed_ids_sha256": "c7c9f12719f7225928f7a9cd61f037599cb35341eee588bf3dcf408688d7fdfb",
+  "recovery_input_sha256": "cec9dfefe39329cc6c5deea3b6dfeaa7b70a249174612e6649ecb0080c8d1420",
+  "pricing_checked_date": "2026-09-12",
+  "cost_guard": {
+    "input_rate_used_per_mtok": 3.125,
+    "output_rate_per_mtok": 15.0,
+    "estimated_input_tokens": 217923,
+    "output_tokens_upper_bound": 6672,
+    "estimated_guard_usd": 0.7810893750000001,
+    "max_allowed_usd": 1.0
+  },
+  "public_snapshot_note": "Absolute local path replaced for public repository. Cost guard reflects the historical recovery run."
+}

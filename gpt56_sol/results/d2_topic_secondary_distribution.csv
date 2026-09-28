@@ -1,0 +1,13 @@
+﻿topic_id,count,topic_name,percent_of_all_texts
+T01,181,Emotions and feelings,12.321307011572499
+T02,100,Self-perception and cognitive patterns,6.8073519400953035
+T03,80,"Motivation, hope/hopelessness, and purpose",5.445881552076242
+T04,64,Relationships and social connection,4.356705241660993
+T05,41,Family and parenting,2.791014295439074
+T06,41,"Work, study, and financial/livelihood pressures",2.791014295439074
+T07,36,"Daily functioning, sleep, and physical/vegetative state",2.450646698434309
+T08,48,"Treatment, therapy, and medication",3.2675289312457454
+T09,88,"Help-seeking, coping, social support, and recovery",5.990469707283866
+T10,11,Alcohol and substance use,0.7488087134104833
+T11,12,Self-harm and suicidality,0.8168822328114363
+T12,17,"General conversation, community, and leisure",1.1572498298162015

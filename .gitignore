@@ -20,3 +20,14 @@ __pycache__/
 .env
 *.key
 *credentials*
+
+# GPT private/raw Batch artifacts
+runs/
+*.jsonl
+gpt56_sol/private/
+*batch_state.json
+*upload_recovery.json
+*recovery_upload_state.json
+
+# API/local secrets
+.env*

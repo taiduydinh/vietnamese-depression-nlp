@@ -1,0 +1,52 @@
+{
+  "created_at_utc": "2026-09-12T04:12:43.311031+00:00",
+  "notebook_version": "1.4",
+  "experiment": "gpt56_sol_sentiment_plus_literature_topics",
+  "model": "gpt-5.6-sol",
+  "batch_endpoint": "/v1/responses",
+  "dataset_id": 2,
+  "dataset_path": "datasets/dataset_2.csv",
+  "dataset_sha256": "88161f9388194bbb9cede048223d8f7f6bc6ab68670c373eeffd13bbb45de842",
+  "columns": {
+    "text": "text_vi",
+    "ground_truth": "sentiment",
+    "ground_truth_semantics": {
+      "0": "non-depression control",
+      "1": "depression-related signal"
+    }
+  },
+  "test_split": {
+    "test_size": 0.2,
+    "random_state": 42,
+    "stratified": true,
+    "rows": 1469,
+    "label_counts": {
+      "0": 713,
+      "1": 756
+    }
+  },
+  "api_settings": {
+    "reasoning_effort": "none",
+    "max_output_tokens": 48,
+    "store": false,
+    "structured_output": true,
+    "prompt_cache_key_used": true,
+    "prompt_cache_key": "vn-depression-sentiment-topics-v1-4",
+    "prompt_sha256": "1dfde34ed4ad9d937134f75b6b66e332fb9def6dfe6bcfda978a4cce8091ed40",
+    "schema_sha256": "2584f54bbb832cab9dd418954a1847303be53eedf36433a2651dacc09539c82e"
+  },
+  "topic_framework": {
+    "substantive_topics": 12,
+    "fallback_topic": "T00",
+    "secondary_none_value": "NONE",
+    "framework_frozen_before_full_api_run": true
+  },
+  "pricing": {
+    "checked_date": "2026-09-12",
+    "batch_input_usd_per_mtok": 2.0,
+    "batch_output_usd_per_mtok": 10.0,
+    "cache_discount_assumed_in_budget": false
+  },
+  "batch_input_sha256": "7a374657e486daff5e1595dcd60c64fded411fc9795e953a645e3889a81b02b1",
+  "public_snapshot_note": "Absolute local path replaced for public repository. Pricing fields are historical run metadata, not current API pricing."
+}
