@@ -4,8 +4,8 @@
     "Depression_Reproduction_GitHub_Ready",
     "Sol.zip"
   ],
-  "public_file_count": 214,
-  "public_size_bytes": 3158682,
+  "public_file_count": 212,
+  "public_size_bytes": 2944259,
   "gpt_component": {
     "d1_final_n": 1187,
     "d2_final_n": 1469,
@@ -31,5 +31,6 @@
       "syntax_errors": []
     }
   ],
-  "note": "Raw social-media text and raw Batch API payloads are intentionally excluded from this public-ready snapshot."
+  "note": "Raw social-media text and raw Batch API payloads are intentionally excluded from this public-ready snapshot.",
+  "readme_revision": "Project-oriented README with repository structure and end-to-end usage instructions."
 }
