@@ -1,0 +1,81 @@
+{
+  "created_at_utc": "2026-09-27T08:34:38.386164+00:00",
+  "model": "TF-IDF + LR",
+  "dataset": 2,
+  "n_test": 1450,
+  "accuracy": 0.9717241379310345,
+  "precision_class1": 0.9850746268656716,
+  "recall_class1": 0.9603174603174603,
+  "f1_class1": 0.9725385130609511,
+  "macro_f1": 0.971699249423155,
+  "confusion_matrix_labels_0_1": [
+    [
+      683,
+      11
+    ],
+    [
+      30,
+      726
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.9579242636746143,
+      "recall": 0.984149855907781,
+      "f1-score": 0.9708599857853589,
+      "support": 694.0
+    },
+    "1": {
+      "precision": 0.9850746268656716,
+      "recall": 0.9603174603174603,
+      "f1-score": 0.9725385130609511,
+      "support": 756.0
+    },
+    "accuracy": 0.9717241379310345,
+    "macro avg": {
+      "precision": 0.9714994452701429,
+      "recall": 0.9722336581126207,
+      "f1-score": 0.971699249423155,
+      "support": 1450.0
+    },
+    "weighted avg": {
+      "precision": 0.9720799013107791,
+      "recall": 0.9717241379310345,
+      "f1-score": 0.9717351351787021,
+      "support": 1450.0
+    }
+  },
+  "config": {
+    "text_column": "text_clean_tfidf",
+    "test_size": 0.2,
+    "random_state": 42,
+    "grid_best_params": {
+      "clf__C": 10,
+      "tfidf__max_features": 10000,
+      "tfidf__ngram_range": [
+        1,
+        1
+      ]
+    },
+    "grid_best_macro_f1": 0.9670439126633038,
+    "param_grid": {
+      "tfidf__ngram_range": [
+        "(1, 1)",
+        "(1, 2)"
+      ],
+      "tfidf__max_features": [
+        "1000",
+        "5000",
+        "10000"
+      ],
+      "clf__C": [
+        "0.1",
+        "0.5",
+        "1",
+        "2",
+        "10"
+      ]
+    }
+  },
+  "elapsed_seconds": 2.1717770099639893
+}

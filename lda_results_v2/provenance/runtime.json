@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-09-28T01:28:51.923137+00:00",
+  "script_version": "2.0",
+  "python": "3.11.16 (main, Aug 27 2026, 14:44:21) [GCC 14.3.0]",
+  "platform": "Linux-5.4.0-131-generic-x86_64-with-glibc2.39",
+  "numpy": "1.26.4",
+  "pandas": "2.2.3",
+  "scipy": "1.13.1",
+  "sklearn": "1.9.1",
+  "gensim": "4.3.3",
+  "matplotlib": "3.11.2",
+  "cpu_count": 96,
+  "n_jobs_near_duplicate": 4
+}

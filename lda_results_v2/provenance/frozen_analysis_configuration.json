@@ -1,0 +1,81 @@
+{
+  "script_version": "2.0",
+  "raw_sha256": {
+    "1": "b2ad99ebdcf3c34f040a2988fda1c482e9ff9b9cf42795bb64c792b3c7043d9e",
+    "2": "88161f9388194bbb9cede048223d8f7f6bc6ab68670c373eeffd13bbb45de842"
+  },
+  "corpus_sha256": "78b558e96b94b33d06ce0fce8243ca941e78a8012eae543673ce3eeb1d3594a1",
+  "dictionary_sha256": "95f27f00b92fe280b4cdfb6648fae9c58b67d0478022db54748692d4e8b8a668",
+  "dedup_threshold": 0.95,
+  "min_chars": 30,
+  "duplicate_normalization": "same as near_duplicate_audit_v1",
+  "duplicate_similarity": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "min_df": 2,
+    "max_features": 200000
+  },
+  "complete_link_refinement": true,
+  "generic_token_cleanup": [
+    "remove one-character tokens",
+    "remove pure-number tokens",
+    "remove http/https/www/com residues"
+  ],
+  "no_manual_content_stoplist": true,
+  "no_below": 5,
+  "no_above": 0.4,
+  "k_values": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "seeds": [
+    42,
+    52,
+    62,
+    72,
+    82
+  ],
+  "passes": 20,
+  "iterations": 400,
+  "chunksize": 512,
+  "alpha": "auto",
+  "eta": "auto",
+  "coherence": "c_v",
+  "stability": "Hungarian-matched cosine similarity of full topic-word distributions",
+  "k_selection": "best mean coherence; one-SE eligible set; highest mean stability; tie diversity then smaller K",
+  "seed_selection": "medoid seed by mean similarity to other seeds; tie coherence then smaller seed",
+  "post_selection_quality_gate": {
+    "max_dominant_topic_share": 0.7,
+    "zero_dominant_topics_allowed": 0
+  },
+  "analysis_signature_sha256": "b7b5d8eda2062b9bd012bead7eee020ddb954007725c861b4008ecf7b9587459",
+  "audit_reference": {
+    "path": "/home/taidinh/Depression_Reproduction/near_duplicate_audit_v1/provenance/audit_configuration.json",
+    "sha256": "f9874ee1ed773c47465ba4c08da3c0700c47bb3fd31db6c11a23fee63e2643ce",
+    "thresholds": [
+      0.9,
+      0.95,
+      0.98
+    ],
+    "min_chars": 30,
+    "char_analyzer": "char_wb",
+    "char_ngram_range": [
+      3,
+      5
+    ],
+    "max_features": 200000
+  }
+}

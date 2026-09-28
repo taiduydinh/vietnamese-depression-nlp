@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+joblib
+requests
+underthesea==8.3.0
+py_vncorenlp==0.1.4
+gensim==4.3.3
+keras-tuner==1.4.7
+tensorflow[and-cuda]==2.20.0
+tf-keras~=2.20.0
+transformers==4.57.1

@@ -1,0 +1,34 @@
+{
+  "created_at_utc": "2026-09-27T08:33:45.879626+00:00",
+  "python": "3.11.16 (main, Aug 27 2026, 14:44:21) [GCC 14.3.0]",
+  "platform": "Linux-5.4.0-131-generic-x86_64-with-glibc2.39",
+  "global_seed_added_for_reproduction": 42,
+  "neural_hparam_mode": "legacy_recorded",
+  "selected_models": [
+    "lr",
+    "svm",
+    "bilstm",
+    "cnn",
+    "phobert-base",
+    "phobert-large"
+  ],
+  "selected_datasets": [
+    1,
+    2
+  ],
+  "numpy": "1.26.4",
+  "pandas": "2.2.3",
+  "sklearn": "1.9.1",
+  "tensorflow": "2.20.0",
+  "transformers": "4.57.1",
+  "keras_tuner": "1.4.7",
+  "gensim": "4.3.3",
+  "underthesea": "8.3.0",
+  "py_vncorenlp": "0.1.4",
+  "tensorflow_gpu_devices": [
+    "/physical_device:GPU:0"
+  ],
+  "nvidia_smi": [
+    "NVIDIA RTX A6000, 49140 MiB, 570.133.07"
+  ]
+}

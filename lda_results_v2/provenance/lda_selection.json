@@ -1,0 +1,15 @@
+{
+  "selection_rule": "One-standard-error coherence eligibility; among eligible K choose highest mean cross-seed stability, then diversity, then smaller K. Within selected K choose medoid seed.",
+  "best_coherence_k": 11,
+  "best_coherence_mean": 0.4474805204825376,
+  "best_coherence_se": 0.0086357171075186,
+  "coherence_threshold": 0.438844803375019,
+  "eligible_k": [
+    7,
+    10,
+    11,
+    13
+  ],
+  "selected_k": 7,
+  "selected_seed": 82
+}

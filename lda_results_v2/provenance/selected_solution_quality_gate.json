@@ -1,0 +1,10 @@
+{
+  "quality_gate_is_diagnostic_not_selection_criterion": true,
+  "selected_k": 7,
+  "selected_seed": 82,
+  "max_dominant_topic_share": 0.5444025834230355,
+  "warning_threshold_max_dominant_topic_share": 0.7,
+  "zero_dominant_topics": 0,
+  "quality_gate_pass": true,
+  "interpretation": "PASS means the selected solution does not trigger the predeclared dominance/unused-topic warnings; it does not prove semantic validity. Topic labels still require representative-document review."
+}

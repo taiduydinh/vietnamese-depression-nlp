@@ -1,0 +1,17 @@
+{
+  "fit_corpus": "all D1 raw rows, matching near-duplicate audit design",
+  "n_documents": 5933,
+  "n_features": 40198,
+  "nnz": 3369146,
+  "analyzer": "char_wb",
+  "ngram_range": [
+    3,
+    5
+  ],
+  "min_df": 2,
+  "max_features": 200000,
+  "sublinear_tf": true,
+  "norm": "l2",
+  "dedup_threshold": 0.95,
+  "min_chars_for_fuzzy": 30
+}

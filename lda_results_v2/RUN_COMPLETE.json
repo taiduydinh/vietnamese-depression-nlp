@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "completed_at_utc": "2026-09-28T01:48:20.965153+00:00",
+  "analysis_signature": "b7b5d8eda2062b9bd012bead7eee020ddb954007725c861b4008ecf7b9587459",
+  "selected_k": 7,
+  "selected_seed": 82,
+  "quality_gate_pass": true
+}

@@ -1,0 +1,10 @@
+{
+  "created_at_utc": "2026-09-27T08:26:02.983792+00:00",
+  "stopwords_url": "https://raw.githubusercontent.com/stopwords/vietnamese-stopwords/master/vietnamese-stopwords.txt",
+  "stopwords_sha256": "724f5cb2b5611f6510ba3788122eafeb34f4425cc5693958b780b2788355c4fb",
+  "legacy_emoji_behavior": "emoji dictionary was defined but cleaner removed emoji",
+  "raw_sha256": {
+    "1": "b2ad99ebdcf3c34f040a2988fda1c482e9ff9b9cf42795bb64c792b3c7043d9e",
+    "2": "88161f9388194bbb9cede048223d8f7f6bc6ab68670c373eeffd13bbb45de842"
+  }
+}

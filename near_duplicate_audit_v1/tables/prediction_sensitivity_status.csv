@@ -1,0 +1,11 @@
+model,dataset,status,path
+PhoBERT-base,1,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/phobert_base/d1/predictions.csv
+PhoBERT-base,2,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/phobert_base/d2/predictions.csv
+TF-IDF + LR,1,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/tf_idf_plus_lr/d1/predictions.csv
+TF-IDF + LR,2,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/tf_idf_plus_lr/d2/predictions.csv
+TF-IDF + SVM,1,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/tf_idf_plus_svm/d1/predictions.csv
+TF-IDF + SVM,2,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/tf_idf_plus_svm/d2/predictions.csv
+Word2Vec + BiLSTM,1,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/word2vec_plus_bilstm/d1/predictions.csv
+Word2Vec + BiLSTM,2,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/word2vec_plus_bilstm/d2/predictions.csv
+Word2Vec + CNN,1,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/word2vec_plus_cnn/d1/predictions.csv
+Word2Vec + CNN,2,ok,/home/taidinh/Depression_Reproduction/reproduction_results_v1/runs/word2vec_plus_cnn/d2/predictions.csv

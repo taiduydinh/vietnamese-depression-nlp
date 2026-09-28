@@ -1,0 +1,7 @@
+{
+  "dataset": 1,
+  "n_documents": 5933,
+  "n_features": 40198,
+  "nnz": 3369146,
+  "min_chars": 30
+}

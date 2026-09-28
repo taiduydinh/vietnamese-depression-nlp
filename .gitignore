@@ -1,0 +1,22 @@
+# Raw/private text-bearing data
+datasets/*.csv
+reproduction_results_v1/preprocessed/*.csv
+near_duplicate_audit_v1/internal_review/*
+lda_results_v2/internal_review/*
+
+# Third-party resources / large binaries
+reproduction_results_v1/resources/*
+!reproduction_results_v1/resources/README.md
+lda_results_v2/models/search/*.model*
+
+# Logs/caches/runtime files
+logs/
+__pycache__/
+*.pyc
+*.pid
+.ipynb_checkpoints/
+
+# Local secrets/configs
+.env
+*.key
+*credentials*

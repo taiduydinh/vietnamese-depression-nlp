@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-09-27T08:35:57.046526+00:00",
+  "model": "Word2Vec + BiLSTM",
+  "dataset": 1,
+  "n_test": 1187,
+  "accuracy": 0.9696714406065712,
+  "precision_class1": 0.9787516600265604,
+  "recall_class1": 0.9735799207397622,
+  "f1_class1": 0.976158940397351,
+  "macro_f1": 0.9672461368653422,
+  "confusion_matrix_labels_0_1": [
+    [
+      414,
+      16
+    ],
+    [
+      20,
+      737
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.9539170506912442,
+      "recall": 0.9627906976744186,
+      "f1-score": 0.9583333333333334,
+      "support": 430.0
+    },
+    "1": {
+      "precision": 0.9787516600265604,
+      "recall": 0.9735799207397622,
+      "f1-score": 0.976158940397351,
+      "support": 757.0
+    },
+    "accuracy": 0.9696714406065712,
+    "macro avg": {
+      "precision": 0.9663343553589023,
+      "recall": 0.9681853092070904,
+      "f1-score": 0.9672461368653422,
+      "support": 1187.0
+    },
+    "weighted avg": {
+      "precision": 0.9697551292648201,
+      "recall": 0.9696714406065712,
+      "f1-score": 0.9697014753278247,
+      "support": 1187.0
+    }
+  },
+  "config": {
+    "text_column": "text_clean_dl",
+    "split": "70/10/20 effective",
+    "test_size": 0.2,
+    "trainval_to_val": 0.125,
+    "split_random_state": 42,
+    "global_training_seed_added": 42,
+    "vocab_size": 20000,
+    "max_len": 150,
+    "embedding_trainable": false,
+    "embedding_dim": 400,
+    "word2vec_hits": 8529,
+    "word2vec_misses": 2767,
+    "hyperparameters": {
+      "lstm_units": 32,
+      "dropout_rate": 0.4,
+      "dense_units": 96,
+      "learning_rate": 0.01
+    },
+    "hyperparameter_mode": "legacy_recorded",
+    "tuning_note": "recorded best hyperparameters from archived notebook output",
+    "epochs_max": 15,
+    "batch_size": 32,
+    "early_stopping_patience": 3
+  },
+  "elapsed_seconds": 29.947418451309204
+}

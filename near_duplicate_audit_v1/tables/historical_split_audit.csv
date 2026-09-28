@@ -1,0 +1,5 @@
+dataset,protocol,n_train,n_test,test_label_0,test_label_1
+1,tfidf_legacy,4736,1185,429,756
+1,dl_phobert_outer,4746,1187,430,757
+2,tfidf_legacy,5799,1450,694,756
+2,dl_phobert_outer,5876,1469,713,756

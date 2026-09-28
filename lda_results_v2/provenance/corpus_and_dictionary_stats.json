@@ -1,0 +1,19 @@
+{
+  "shared_positive_raw": 3782,
+  "retained_after_family_control": 3731,
+  "excluded_family_nonrepresentatives": 51,
+  "representatives_empty_after_legacy_preprocessing": 4,
+  "empty_after_generic_topic_cleanup": 0,
+  "empty_after_dictionary_filtering": 11,
+  "documents_used_for_lda": 3716,
+  "vocab_before_filtering": 7363,
+  "vocab_after_filtering": 2475,
+  "no_below": 5,
+  "no_above": 0.4,
+  "generic_token_cleanup_counts": {
+    "kept": 151775,
+    "web_residue": 30
+  },
+  "lda_corpus_sha256": "78b558e96b94b33d06ce0fce8243ca941e78a8012eae543673ce3eeb1d3594a1",
+  "dictionary_sha256": "95f27f00b92fe280b4cdfb6648fae9c58b67d0478022db54748692d4e8b8a668"
+}

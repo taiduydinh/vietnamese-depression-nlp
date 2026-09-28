@@ -1,0 +1,467 @@
+﻿source_path,source_size_bytes,decision,reason
+__pycache__/lda_topic_modeling_v2.cpython-311.pyc,98934,excluded,generated Python bytecode
+__pycache__/lda_topic_modeling_v2.cpython-313.pyc,86789,excluded,generated Python bytecode
+__pycache__/near_duplicate_leakage_audit.cpython-313.pyc,62447,excluded,generated Python bytecode
+__pycache__/reproduce_all_previous_models.cpython-313.pyc,73523,excluded,generated Python bytecode
+datasets/dataset_1.csv,6095432,excluded,raw social-media datasets; redistribution/privacy/licensing review required
+datasets/dataset_2.csv,3892447,excluded,raw social-media datasets; redistribution/privacy/licensing review required
+lda_results_v2/SHA256SUMS_LDA_V2_OUTPUTS.txt,37433,excluded,full private-output checksum manifest references files intentionally excluded from public repository
+lda_results_v2/internal_review/lda_ambiguous_documents_INTERNAL.csv,66714,excluded,internal qualitative review; contains original social-media text
+lda_results_v2/internal_review/lda_representative_documents_INTERNAL.csv,123059,excluded,internal qualitative review; contains original social-media text
+lda_results_v2/internal_review/near_duplicate_candidate_edges_INTERNAL.csv.gz,1380,excluded,internal qualitative review; contains original social-media text
+lda_results_v2/internal_review/near_duplicate_family_members_INTERNAL.csv.gz,35451,excluded,internal qualitative review; contains original social-media text
+lda_results_v2/models/search/lda_K04_seed42.model,13926,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed42.model.expElogbeta.npy,39728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed42.model.state,50222,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed52.model,13926,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed52.model.expElogbeta.npy,39728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed52.model.state,50222,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed62.model,13925,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed62.model.expElogbeta.npy,39728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed62.model.state,50222,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed72.model,13926,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed72.model.expElogbeta.npy,39728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed72.model.state,50222,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed82.model,13925,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed82.model.expElogbeta.npy,39728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K04_seed82.model.state,50222,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed42.model,13929,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed42.model.expElogbeta.npy,49628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed42.model.state,60122,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed52.model,13930,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed52.model.expElogbeta.npy,49628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed52.model.state,60122,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed62.model,13929,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed62.model.expElogbeta.npy,49628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed62.model.state,60122,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed72.model,13930,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed72.model.expElogbeta.npy,49628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed72.model.state,60122,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed82.model,13930,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed82.model.expElogbeta.npy,49628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K05_seed82.model.state,60122,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed42.model,13933,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed42.model.expElogbeta.npy,59528,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed42.model.state,70031,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed52.model,13934,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed52.model.expElogbeta.npy,59528,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed52.model.state,70031,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed62.model,13934,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed62.model.expElogbeta.npy,59528,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed62.model.state,70031,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed72.model,13933,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed72.model.expElogbeta.npy,59528,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed72.model.state,70031,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed82.model,13933,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed82.model.expElogbeta.npy,59528,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K06_seed82.model.state,70031,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed42.model,13938,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed42.model.expElogbeta.npy,69428,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed42.model.state,79931,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed52.model,13938,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed52.model.expElogbeta.npy,69428,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed52.model.state,79931,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed62.model,13938,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed62.model.expElogbeta.npy,69428,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed62.model.state,79931,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed72.model,13938,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed72.model.expElogbeta.npy,69428,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed72.model.state,79931,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed82.model,13938,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed82.model.expElogbeta.npy,69428,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K07_seed82.model.state,79931,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed42.model,13942,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed42.model.expElogbeta.npy,79328,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed42.model.state,89831,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed52.model,13941,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed52.model.expElogbeta.npy,79328,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed52.model.state,89831,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed62.model,13942,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed62.model.expElogbeta.npy,79328,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed62.model.state,89831,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed72.model,13941,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed72.model.expElogbeta.npy,79328,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed72.model.state,89831,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed82.model,13942,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed82.model.expElogbeta.npy,79328,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K08_seed82.model.state,89831,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed42.model,13945,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed42.model.expElogbeta.npy,89228,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed42.model.state,99731,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed52.model,13946,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed52.model.expElogbeta.npy,89228,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed52.model.state,99731,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed62.model,13945,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed62.model.expElogbeta.npy,89228,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed62.model.state,99731,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed72.model,13946,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed72.model.expElogbeta.npy,89228,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed72.model.state,99731,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed82.model,13945,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed82.model.expElogbeta.npy,89228,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K09_seed82.model.state,99731,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed42.model,13951,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed42.model.expElogbeta.npy,99128,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed42.model.state,109631,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed52.model,13951,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed52.model.expElogbeta.npy,99128,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed52.model.state,109631,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed62.model,13951,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed62.model.expElogbeta.npy,99128,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed62.model.state,109631,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed72.model,13951,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed72.model.expElogbeta.npy,99128,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed72.model.state,109631,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed82.model,13950,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed82.model.expElogbeta.npy,99128,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K10_seed82.model.state,109631,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed42.model,13954,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed42.model.expElogbeta.npy,109028,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed42.model.state,119531,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed52.model,13955,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed52.model.expElogbeta.npy,109028,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed52.model.state,119531,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed62.model,13955,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed62.model.expElogbeta.npy,109028,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed62.model.state,119531,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed72.model,13954,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed72.model.expElogbeta.npy,109028,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed72.model.state,119531,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed82.model,13954,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed82.model.expElogbeta.npy,109028,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K11_seed82.model.state,119531,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed42.model,13958,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed42.model.expElogbeta.npy,118928,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed42.model.state,129431,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed52.model,13959,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed52.model.expElogbeta.npy,118928,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed52.model.state,129431,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed62.model,13958,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed62.model.expElogbeta.npy,118928,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed62.model.state,129431,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed72.model,13959,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed72.model.expElogbeta.npy,118928,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed72.model.state,129431,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed82.model,13958,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed82.model.expElogbeta.npy,118928,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K12_seed82.model.state,129431,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed42.model,13963,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed42.model.expElogbeta.npy,128828,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed42.model.state,139331,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed52.model,13963,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed52.model.expElogbeta.npy,128828,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed52.model.state,139331,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed62.model,13963,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed62.model.expElogbeta.npy,128828,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed62.model.state,139331,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed72.model,13963,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed72.model.expElogbeta.npy,128828,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed72.model.state,139331,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed82.model,13963,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed82.model.expElogbeta.npy,128828,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K13_seed82.model.state,139331,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed42.model,13967,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed42.model.expElogbeta.npy,138728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed42.model.state,149231,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed52.model,13967,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed52.model.expElogbeta.npy,138728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed52.model.state,149231,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed62.model,13967,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed62.model.expElogbeta.npy,138728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed62.model.state,149231,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed72.model,13967,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed72.model.expElogbeta.npy,138728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed72.model.state,149231,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed82.model,13967,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed82.model.expElogbeta.npy,138728,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K14_seed82.model.state,149231,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed42.model,13970,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed42.model.expElogbeta.npy,148628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed42.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed42.model.state,159131,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed52.model,13971,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed52.model.expElogbeta.npy,148628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed52.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed52.model.state,159131,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed62.model,13971,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed62.model.expElogbeta.npy,148628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed62.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed62.model.state,159131,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed72.model,13970,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed72.model.expElogbeta.npy,148628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed72.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed72.model.state,159131,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed82.model,13971,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed82.model.expElogbeta.npy,148628,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed82.model.id2word,81126,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/models/search/lda_K15_seed82.model.state,159131,excluded,intermediate LDA search model binary; aggregate metrics retained
+lda_results_v2/tables/canonical_positive_corpus_3782.csv,9369546,excluded,contains original or normalized social-media text
+lda_results_v2/tables/excluded_empty_after_dictionary_filtering.csv,5873,excluded,contains original or normalized social-media text
+lda_results_v2/tables/excluded_empty_after_generic_topic_cleanup.csv,428,excluded,contains original or normalized social-media text
+lda_results_v2/tables/excluded_empty_after_legacy_preprocessing.csv,1271,excluded,contains original or normalized social-media text
+lda_results_v2/tables/excluded_representatives_empty_after_legacy_preprocessing.csv,1542,excluded,contains original or normalized social-media text
+lda_results_v2/tables/lda_document_topics.csv,5851282,excluded,contains original or normalized social-media text
+lda_results_v2/tables/near_duplicate_family_decisions.csv,9460221,excluded,contains original or normalized social-media text
+logs/lda_v2.log,5221,excluded,runtime logs/PID files; not needed in public repository
+logs/lda_v2.pid,7,excluded,runtime logs/PID files; not needed in public repository
+logs/near_duplicate_audit_v1.log,11756,excluded,runtime logs/PID files; not needed in public repository
+logs/near_duplicate_audit_v1.pid,7,excluded,runtime logs/PID files; not needed in public repository
+logs/reproduction_all.log,2602867,excluded,runtime logs/PID files; not needed in public repository
+logs/reproduction_all.pid,6,excluded,runtime logs/PID files; not needed in public repository
+near_duplicate_audit_v1/internal_review/cluster_members_INTERNAL_d1_t90.csv.gz,34403,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cluster_members_INTERNAL_d1_t95.csv.gz,27101,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cluster_members_INTERNAL_d1_t98.csv.gz,19138,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cluster_members_INTERNAL_d2_t90.csv.gz,27446,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cluster_members_INTERNAL_d2_t95.csv.gz,23005,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cluster_members_INTERNAL_d2_t98.csv.gz,14174,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cross_split_pairs_WITH_TEXT_INTERNAL_d1_dl_phobert_outer_gte_0.90.csv.gz,13971,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cross_split_pairs_WITH_TEXT_INTERNAL_d1_tfidf_legacy_gte_0.90.csv.gz,16475,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cross_split_pairs_WITH_TEXT_INTERNAL_d2_dl_phobert_outer_gte_0.90.csv.gz,18580,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/cross_split_pairs_WITH_TEXT_INTERNAL_d2_tfidf_legacy_gte_0.90.csv.gz,11011,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/normalized_text_metadata_d1.csv.gz,2085446,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/normalized_text_metadata_d2.csv.gz,1439465,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/test_nearest_train_evidence_d1_dl_phobert_outer.csv.gz,1054214,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/test_nearest_train_evidence_d1_tfidf_legacy.csv.gz,1083933,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/test_nearest_train_evidence_d2_dl_phobert_outer.csv.gz,623978,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/internal_review/test_nearest_train_evidence_d2_tfidf_legacy.csv.gz,688835,excluded,internal review file containing raw/normalized social-media text or pair evidence
+near_duplicate_audit_v1/tables/split_membership_d1_dl_phobert_outer.csv.gz,1918350,excluded,contains raw social-media text (text_vi)
+near_duplicate_audit_v1/tables/split_membership_d1_tfidf_legacy.csv.gz,1919480,excluded,contains raw social-media text (text_vi)
+near_duplicate_audit_v1/tables/split_membership_d2_dl_phobert_outer.csv.gz,1130409,excluded,contains raw social-media text (text_vi)
+near_duplicate_audit_v1/tables/split_membership_d2_tfidf_legacy.csv.gz,1126826,excluded,contains raw social-media text (text_vi)
+reproduction_results_v1/preprocessed/Dataset_depression_vi1.csv,14685000,excluded,derived text-bearing preprocessing outputs
+reproduction_results_v1/preprocessed/Dataset_depression_vi2.csv,9529471,excluded,derived text-bearing preprocessing outputs
+reproduction_results_v1/resources/vietnamese-stopwords.txt,20475,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/VnCoreNLP-1.2.jar,27412703,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/dep/vi-dep.xz,16048864,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/ner/vi-500brownclusters.xz,5599844,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/ner/vi-ner.xz,9956876,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/ner/vi-pretrainedembeddings.xz,57313672,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/postagger/vi-tagger,29709468,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/wordsegmenter/vi-vocab,526544,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/vncorenlp/models/wordsegmenter/wordsegmenter.rdr,128508,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/wiki.vi.model.bin,25690112,excluded,third-party resources/binaries; large and should be fetched from upstream
+reproduction_results_v1/resources/wiki.vi.model.bin.gz,25427968,excluded,third-party resources/binaries; large and should be fetched from upstream
+LDA_V2_PROTOCOL.md,6425,included,public-safe/reproducibility material
+README_LDA_V2.md,6189,included,public-safe/reproducibility material
+README_NEAR_DUPLICATE_AUDIT.md,5775,included,public-safe/reproducibility material
+README_SERVER_REPRODUCTION.md,1259,included,public-safe/reproducibility material
+SHA256SUMS_LDA_V2.txt,465,included,public-safe/reproducibility material
+Vietnamese_Depression_LDA_Topic_Modeling_v2.ipynb,7615,included,public-safe/reproducibility material
+Vietnamese_Depression_Near_Duplicate_Leakage_Audit_v1.ipynb,4747,included,public-safe/reproducibility material
+lda_results_v2/PREPARE_ONLY_COMPLETE.json,189,included,public-safe/reproducibility material
+lda_results_v2/RUN_COMPLETE.json,247,included,public-safe/reproducibility material
+lda_results_v2/figures/fig_01_coherence_by_k.png,108222,included,public-safe/reproducibility material
+lda_results_v2/figures/fig_02_stability_by_k.png,109445,included,public-safe/reproducibility material
+lda_results_v2/figures/fig_03_topic_diversity_by_k.png,103228,included,public-safe/reproducibility material
+lda_results_v2/figures/fig_04_selected_topic_prevalence.png,68304,included,public-safe/reproducibility material
+lda_results_v2/models/lda_dictionary.gensim,62314,included,public-safe/reproducibility material
+lda_results_v2/models/lda_selected_model.gensim,14128,included,public-safe/reproducibility material
+lda_results_v2/models/lda_selected_model.gensim.expElogbeta.npy,69428,included,public-safe/reproducibility material
+lda_results_v2/models/lda_selected_model.gensim.id2word,81126,included,public-safe/reproducibility material
+lda_results_v2/models/lda_selected_model.gensim.state,80100,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K04_seed42_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K04_seed52_metrics.json,322,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K04_seed62_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K04_seed72_metrics.json,319,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K04_seed82_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K05_seed42_metrics.json,319,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K05_seed52_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K05_seed62_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K05_seed72_metrics.json,319,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K05_seed82_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K06_seed42_metrics.json,319,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K06_seed52_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K06_seed62_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K06_seed72_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K06_seed82_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K07_seed42_metrics.json,333,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K07_seed52_metrics.json,334,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K07_seed62_metrics.json,333,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K07_seed72_metrics.json,318,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K07_seed82_metrics.json,333,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K08_seed42_metrics.json,322,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K08_seed52_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K08_seed62_metrics.json,319,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K08_seed72_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K08_seed82_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K09_seed42_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K09_seed52_metrics.json,334,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K09_seed62_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K09_seed72_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K09_seed82_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K10_seed42_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K10_seed52_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K10_seed62_metrics.json,322,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K10_seed72_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K10_seed82_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K11_seed42_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K11_seed52_metrics.json,336,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K11_seed62_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K11_seed72_metrics.json,333,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K11_seed82_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K12_seed42_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K12_seed52_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K12_seed62_metrics.json,320,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K12_seed72_metrics.json,336,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K12_seed82_metrics.json,334,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K13_seed42_metrics.json,336,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K13_seed52_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K13_seed62_metrics.json,334,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K13_seed72_metrics.json,336,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K13_seed82_metrics.json,334,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K14_seed42_metrics.json,334,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K14_seed52_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K14_seed62_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K14_seed72_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K14_seed82_metrics.json,336,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K15_seed42_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K15_seed52_metrics.json,321,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K15_seed62_metrics.json,336,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K15_seed72_metrics.json,335,included,public-safe/reproducibility material
+lda_results_v2/models/search/lda_K15_seed82_metrics.json,322,included,public-safe/reproducibility material
+lda_results_v2/paper_methods_lda_v2.txt,2521,included,public-safe/reproducibility material
+lda_results_v2/provenance/corpus_and_dictionary_stats.json,661,included,public-safe/reproducibility material
+lda_results_v2/provenance/duplicate_similarity_space.json,338,included,public-safe/reproducibility material
+lda_results_v2/provenance/frozen_analysis_configuration.json,2109,included,public-safe/reproducibility material
+lda_results_v2/provenance/lda_selection.json,449,included,public-safe/reproducibility material
+lda_results_v2/provenance/lda_v2_provenance.json,2333,included,public-safe/reproducibility material
+lda_results_v2/provenance/near_duplicate_family_control.json,962,included,public-safe/reproducibility material
+lda_results_v2/provenance/runtime.json,395,included,public-safe/reproducibility material
+lda_results_v2/provenance/selected_solution_quality_gate.json,485,included,public-safe/reproducibility material
+lda_results_v2/tables/dictionary_term_filter_audit.csv,333043,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_all_runs.csv,10468,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_gpt_comparison_representatives_only.csv,753842,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_k_medoid_prevalence_diagnostics.csv,946,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_k_medoid_seed_table.csv,2463,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_k_search_summary.csv,2282,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_k_selection_table.csv,2236,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_run_stability.csv,1510,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_selected_k_seed_table.csv,344,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_stability_pairwise.csv,3338,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_topic_prevalence.csv,404,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_topic_prevalence_family_size_weighted_sensitivity.csv,208,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_topic_terms.csv,3632,included,public-safe/reproducibility material
+lda_results_v2/tables/lda_v2_corpus_flow.csv,203,included,public-safe/reproducibility material
+lda_results_v2/tables/near_duplicate_family_summary.csv,2993,included,public-safe/reproducibility material
+lda_results_v2/tables/raw_dataset_audit.csv,238,included,public-safe/reproducibility material
+lda_topic_modeling_v2.py,62732,included,public-safe/reproducibility material
+near_duplicate_audit_v1/AUDIT_REPORT.md,10983,included,public-safe/reproducibility material
+near_duplicate_audit_v1/FINAL_STATUS.json,400,included,public-safe/reproducibility material
+near_duplicate_audit_v1/clusters/cluster_summary_d1_t90.csv,1340,included,public-safe/reproducibility material
+near_duplicate_audit_v1/clusters/cluster_summary_d1_t95.csv,1034,included,public-safe/reproducibility material
+near_duplicate_audit_v1/clusters/cluster_summary_d1_t98.csv,784,included,public-safe/reproducibility material
+near_duplicate_audit_v1/clusters/cluster_summary_d2_t90.csv,1187,included,public-safe/reproducibility material
+near_duplicate_audit_v1/clusters/cluster_summary_d2_t95.csv,1079,included,public-safe/reproducibility material
+near_duplicate_audit_v1/clusters/cluster_summary_d2_t98.csv,787,included,public-safe/reproducibility material
+near_duplicate_audit_v1/pairs/cross_split_pairs_d1_dl_phobert_outer_gte_0.90.csv.gz,2157,included,public-safe/reproducibility material
+near_duplicate_audit_v1/pairs/cross_split_pairs_d1_tfidf_legacy_gte_0.90.csv.gz,2089,included,public-safe/reproducibility material
+near_duplicate_audit_v1/pairs/cross_split_pairs_d2_dl_phobert_outer_gte_0.90.csv.gz,1780,included,public-safe/reproducibility material
+near_duplicate_audit_v1/pairs/cross_split_pairs_d2_tfidf_legacy_gte_0.90.csv.gz,1448,included,public-safe/reproducibility material
+near_duplicate_audit_v1/provenance/audit_configuration.json,993,included,public-safe/reproducibility material
+near_duplicate_audit_v1/provenance/runtime.json,291,included,public-safe/reproducibility material
+near_duplicate_audit_v1/provenance/similarity_space_d1.json,101,included,public-safe/reproducibility material
+near_duplicate_audit_v1/provenance/similarity_space_d2.json,101,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/d1_d2_overlap_audit.csv,137,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/existing_prediction_clean_test_sensitivity.csv,9769,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/historical_split_audit.csv,198,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/near_duplicate_leakage_summary.csv,2007,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/normalized_exact_duplicate_groups_d1.csv,719,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/normalized_exact_duplicate_groups_d2.csv,1650,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/prediction_sensitivity_status.csv,1244,included,public-safe/reproducibility material
+near_duplicate_audit_v1/tables/raw_input_audit.csv,279,included,public-safe/reproducibility material
+near_duplicate_leakage_audit.py,45452,included,public-safe/reproducibility material
+reproduce_all_previous_models.py,69505,included,public-safe/reproducibility material
+reproduction_results_v1/all_reproduced_results.csv,2241,included,public-safe/reproducibility material
+reproduction_results_v1/comparison_with_legacy.csv,3687,included,public-safe/reproducibility material
+reproduction_results_v1/preprocessing_audit.csv,260,included,public-safe/reproducibility material
+reproduction_results_v1/preprocessing_provenance.json,528,included,public-safe/reproducibility material
+reproduction_results_v1/raw_dataset_audit.csv,200,included,public-safe/reproducibility material
+reproduction_results_v1/runs/phobert_base/d1/metrics.json,1675,included,public-safe/reproducibility material
+reproduction_results_v1/runs/phobert_base/d1/predictions.csv,10516,included,public-safe/reproducibility material
+reproduction_results_v1/runs/phobert_base/d1/training_history.csv,1972,included,public-safe/reproducibility material
+reproduction_results_v1/runs/phobert_base/d2/metrics.json,1681,included,public-safe/reproducibility material
+reproduction_results_v1/runs/phobert_base/d2/predictions.csv,13059,included,public-safe/reproducibility material
+reproduction_results_v1/runs/phobert_base/d2/training_history.csv,1654,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_lr/d1/gridsearch_results.csv,9606,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_lr/d1/metrics.json,1730,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_lr/d1/predictions.csv,10498,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_lr/d2/gridsearch_results.csv,9649,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_lr/d2/metrics.json,1732,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_lr/d2/predictions.csv,12892,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_svm/d1/gridsearch_results.csv,1447,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_svm/d1/metrics.json,1662,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_svm/d1/predictions.csv,10498,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_svm/d2/gridsearch_results.csv,1456,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_svm/d2/metrics.json,1663,included,public-safe/reproducibility material
+reproduction_results_v1/runs/tf_idf_plus_svm/d2/predictions.csv,12892,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_bilstm/d1/metrics.json,1870,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_bilstm/d1/predictions.csv,10516,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_bilstm/d1/training_history.csv,656,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_bilstm/d2/metrics.json,1869,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_bilstm/d2/predictions.csv,13059,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_bilstm/d2/training_history.csv,575,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_cnn/d1/metrics.json,1883,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_cnn/d1/predictions.csv,10516,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_cnn/d1/training_history.csv,429,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_cnn/d2/metrics.json,1889,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_cnn/d2/predictions.csv,13059,included,public-safe/reproducibility material
+reproduction_results_v1/runs/word2vec_plus_cnn/d2/training_history.csv,350,included,public-safe/reproducibility material
+reproduction_results_v1/runtime_environment.json,782,included,public-safe/reproducibility material
+requirements_lda_v2.txt,99,included,public-safe/reproducibility material
+requirements_near_duplicate_audit.txt,66,included,public-safe/reproducibility material
+requirements_reproduction_server.txt,217,included,public-safe/reproducibility material

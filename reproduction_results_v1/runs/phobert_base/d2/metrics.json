@@ -1,0 +1,66 @@
+{
+  "created_at_utc": "2026-09-27T09:01:02.162378+00:00",
+  "model": "PhoBERT-base",
+  "dataset": 2,
+  "n_test": 1469,
+  "accuracy": 0.9809394145677331,
+  "precision_class1": 0.9789473684210527,
+  "recall_class1": 0.9841269841269841,
+  "f1_class1": 0.9815303430079155,
+  "macro_f1": 0.9809198831776568,
+  "confusion_matrix_labels_0_1": [
+    [
+      697,
+      16
+    ],
+    [
+      12,
+      744
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.9830747531734838,
+      "recall": 0.9775596072931276,
+      "f1-score": 0.980309423347398,
+      "support": 713.0
+    },
+    "1": {
+      "precision": 0.9789473684210527,
+      "recall": 0.9841269841269841,
+      "f1-score": 0.9815303430079155,
+      "support": 756.0
+    },
+    "accuracy": 0.9809394145677331,
+    "macro avg": {
+      "precision": 0.9810110607972682,
+      "recall": 0.9808432957100559,
+      "f1-score": 0.9809198831776568,
+      "support": 1469.0
+    },
+    "weighted avg": {
+      "precision": 0.980950653191974,
+      "recall": 0.9809394145677331,
+      "f1-score": 0.9809377523217692,
+      "support": 1469.0
+    }
+  },
+  "config": {
+    "text_column": "text_clean_dl",
+    "hf_model": "vinai/phobert-base",
+    "encoder_trainable": false,
+    "max_len": 256,
+    "test_size": 0.2,
+    "split_random_state": 42,
+    "validation_split_of_train": 0.2,
+    "effective_split": "64/16/20",
+    "global_training_seed_added": 42,
+    "head": "pooler_output -> dropout(0.3) -> dense(128,relu) -> dropout(0.2) -> sigmoid",
+    "optimizer": "Adam",
+    "learning_rate": 3e-05,
+    "epochs_max": 25,
+    "batch_size": 16,
+    "early_stopping_patience": 2
+  },
+  "elapsed_seconds": 709.2835898399353
+}

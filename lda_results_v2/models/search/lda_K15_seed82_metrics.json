@@ -1,0 +1,10 @@
+{
+  "created_at_utc": "2026-09-28T01:48:10.016543+00:00",
+  "analysis_signature": "b7b5d8eda2062b9bd012bead7eee020ddb954007725c861b4008ecf7b9587459",
+  "k": 15,
+  "seed": 82,
+  "coherence_cv": 0.42225287940758827,
+  "topic_diversity": 0.94,
+  "log_perplexity": -7.139433775875236,
+  "elapsed_seconds": 19.859098434448242
+}

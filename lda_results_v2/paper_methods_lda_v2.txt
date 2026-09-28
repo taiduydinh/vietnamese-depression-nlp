@@ -1,0 +1,47 @@
+LDA topic-modeling v2 protocol (generated automatically)
+
+Corpus and quality control:
+- Starting corpus: 3782 shared depression-related texts (D1/D2 positive core).
+- Near-duplicate/template-family threshold: cosine >= 0.95 using char_wb TF-IDF (3-5 grams) on conservatively normalized raw text; fuzzy matching only for >= 30 normalized characters.
+- Candidate families were refined by complete-linkage at the same threshold to prevent single-link chaining.
+- Near-duplicate families: 32.
+- Nonrepresentative family members removed: 51.
+- Representatives/singletons after family control: 3731.
+- Documents used for LDA after lexical and dictionary filters: 3716.
+- LDA corpus SHA-256: 78b558e96b94b33d06ce0fce8243ca941e78a8012eae543673ce3eeb1d3594a1.
+
+Lexical representation:
+- Starting representation: audited legacy text_clean_tfidf.
+- Additional generic topic cleanup: one-character tokens, pure-number tokens, and http/https/www/com residues removed.
+- No manual content/topic stoplist was used.
+- Dictionary no_below=5; no_above=0.4.
+- Final vocabulary size=2475.
+
+Model search:
+- K=4..15.
+- Random seeds=[42, 52, 62, 72, 82].
+- passes=20; iterations=400; chunksize=512.
+- alpha='auto'; eta='auto'.
+- Primary model-quality metrics: C_v coherence, topic diversity, and cross-seed stability.
+- Stability: Hungarian-matched cosine similarity of full topic-word distributions.
+
+Selection:
+- Highest mean C_v identifies the reference K; K values within one SE of that mean are eligible.
+- Among eligible K, select highest mean cross-seed stability; tie-break by diversity then smaller K.
+- Final seed is the medoid run by similarity to the other seeds.
+- Selected K=7; selected seed=82.
+- Selected-run C_v=0.452416.
+- Selected-run topic diversity=0.928571.
+- Mean stability for selected K=0.612349.
+
+Post-selection diagnostic quality gate:
+- Maximum dominant-topic share=0.544403; warning threshold=0.70.
+- Zero-dominant topics=0.
+- Quality gate pass=True.
+- This gate is diagnostic and did not alter K selection. Semantic topic validity still requires review of top terms and representative documents.
+
+Interpretation:
+- Topic names must be assigned only after reviewing both top terms and representative documents.
+- Do not force the LDA solution to K=12 or rename topics to match GPT T01-T12.
+- Later GPT-LDA analysis is thematic correspondence, not classification accuracy.
+- Representative social-media texts are internal review artifacts and should not be quoted publicly without appropriate ethics/privacy review.

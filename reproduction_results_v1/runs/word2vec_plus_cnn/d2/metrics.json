@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-09-27T08:36:46.656784+00:00",
+  "model": "Word2Vec + CNN",
+  "dataset": 2,
+  "n_test": 1469,
+  "accuracy": 0.9795779441797141,
+  "precision_class1": 0.975130890052356,
+  "recall_class1": 0.9854497354497355,
+  "f1_class1": 0.9802631578947368,
+  "macro_f1": 0.9795532996807959,
+  "confusion_matrix_labels_0_1": [
+    [
+      694,
+      19
+    ],
+    [
+      11,
+      745
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.9843971631205674,
+      "recall": 0.9733520336605891,
+      "f1-score": 0.9788434414668548,
+      "support": 713.0
+    },
+    "1": {
+      "precision": 0.975130890052356,
+      "recall": 0.9854497354497355,
+      "f1-score": 0.9802631578947368,
+      "support": 756.0
+    },
+    "accuracy": 0.9795779441797141,
+    "macro avg": {
+      "precision": 0.9797640265864617,
+      "recall": 0.9794008845551623,
+      "f1-score": 0.9795532996807959,
+      "support": 1469.0
+    },
+    "weighted avg": {
+      "precision": 0.9796284072052727,
+      "recall": 0.9795779441797141,
+      "f1-score": 0.9795740783759621,
+      "support": 1469.0
+    }
+  },
+  "config": {
+    "text_column": "text_clean_dl",
+    "split": "70/10/20 effective",
+    "test_size": 0.2,
+    "trainval_to_val": 0.125,
+    "split_random_state": 42,
+    "global_training_seed_added": 42,
+    "vocab_size": 20000,
+    "max_len": 150,
+    "embedding_trainable": false,
+    "embedding_dim": 400,
+    "word2vec_hits": 4363,
+    "word2vec_misses": 1163,
+    "hyperparameters": {
+      "filters": 256,
+      "kernel_size": 3,
+      "dense_units": 32,
+      "dropout_rate": 0.3,
+      "learning_rate": 0.001
+    },
+    "hyperparameter_mode": "legacy_recorded",
+    "tuning_note": "recorded best hyperparameters from archived notebook output",
+    "epochs_max": 15,
+    "batch_size": 32,
+    "early_stopping_patience": 3
+  },
+  "elapsed_seconds": 5.567764520645142
+}
