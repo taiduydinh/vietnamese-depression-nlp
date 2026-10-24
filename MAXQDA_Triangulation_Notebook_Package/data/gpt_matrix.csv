@@ -1,0 +1,14 @@
+﻿GPT topic ID,GPT primary theme,Original records,Retained records,Unique texts,Emotional Distress,Negative Self-Perception,Hopelessness & Loss of Interest,Relationships & Isolation,Family & Parenting,"Work, Study & Financial Stress",Sleep & Physical Difficulties,Anxiety & Fear,Treatment & Medication,"Help-Seeking, Coping & Support",Alcohol & Substance Use,Self-Harm & Suicidal Thoughts,Recovery & Resilience,Public Discussion of Depression,Casual or Figurative Depression Language
+T00,Other/unclear,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+T01,Emotions and feelings,36,34,32,3,1,1,5,5,4,5,19,6,5,2,1,2,5,7
+T02,Self-perception and cognitive patterns,12,12,10,1,5,0,3,1,2,0,5,1,2,2,0,1,1,1
+T03,"Motivation, hope/hopelessness, and purpose",11,8,7,3,0,2,2,3,1,1,1,2,1,2,0,1,0,1
+T04,Relationships and social connection,5,5,5,1,0,0,5,1,0,0,1,0,1,0,0,0,0,0
+T05,Family and parenting,10,10,9,2,0,0,2,5,0,2,3,1,1,0,0,0,3,4
+T06,"Work, study, and financial/livelihood pressures",18,15,13,0,0,0,0,0,4,2,4,2,2,0,0,1,8,0
+T07,"Daily functioning, sleep, and physical/vegetative state",21,19,16,0,0,0,3,1,3,15,18,7,1,1,0,1,0,0
+T08,"Treatment, therapy, and medication",33,33,31,1,0,2,1,2,2,4,17,27,7,4,3,2,4,0
+T09,"Help-seeking, coping, social support, and recovery",19,18,16,1,1,0,0,1,1,3,7,2,7,3,2,4,3,2
+T10,Alcohol and substance use,3,3,3,0,0,0,1,0,0,1,1,1,0,1,0,0,1,1
+T11,Self-harm and suicidality,43,42,39,16,7,6,11,13,10,6,11,10,5,1,36,1,0,0
+T12,"General conversation, community, and leisure",11,9,8,1,0,0,1,1,0,1,0,0,2,0,0,0,1,5

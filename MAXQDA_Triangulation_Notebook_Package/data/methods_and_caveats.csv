@@ -1,0 +1,13 @@
+﻿Item,How to interpret / report
+Human codebook,The corresponding researcher reports the 15-category codebook was human-developed; 523 initially AI-assisted code assignments were subsequently validated by the researcher.
+Archival provenance,The provided QDPX contains historical text and coding memos describing AI-assisted preliminary assignments; do not interpret them as a stored record of human sign-off.
+Sample flow,Original purposive Label 1 sample: n=245. Excluded as uncoded: n=14. Final MAXQDA-coded subset: n=231.
+Selection sensitivity,Removing uncoded texts raises some within-topic percentages without adding a coded match. Keep the original-sample comparison as a sensitivity analysis.
+LDA comparison,"LDA 7 dominant topics are used for partitioning. A text can have several MAXQDA codes, so code columns can overlap."
+GPT coverage,"182 unique retained texts have GPT annotations; 154 have one, 28 have two. 210 model-source records total. 49 lack annotations."
+GPT counting,"GPT table overlaps are annotation-record counts. A text can contribute two records, so percentages are not independent-observation estimates."
+Convergence terminology,"Report descriptive thematic correspondence / overlap. No clinical validity, independent validation, or model agreement coefficient established by these cross-tabulations."
+Potentially divergent theme,"GPT T06 work/study/financial pressure matches Work, Study & Financial Stress in only 4/15 annotation records; 8/15 also have Public Discussion of Depression code."
+Code cloud,"Regenerate from the final 231-text, 15-code project; earlier 245-text visualizations and citations must be updated."
+Numerical consistency,LDA overlap numerators and GPT overlaps are unchanged from the 245-case analysis because all 14 excluded texts had no MAXQDA assignments.
+Ethics,The text labels are not clinical diagnoses. Review potentially identifying excerpts and translation accuracy before publication.

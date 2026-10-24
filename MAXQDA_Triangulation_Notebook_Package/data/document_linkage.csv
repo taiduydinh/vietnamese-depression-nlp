@@ -1,0 +1,232 @@
+﻿QDA ID,Sampling stratum,Dominant LDA,Dominant LDA label,Dominant prob.,MAXQDA code count,MAXQDA codes,GPT annotation count,GPT D1 theme,GPT D2 theme
+QDA-001,Ambiguous LDA,LDA 1,Medication and Psychiatric Treatment Management,0.2448,5,Alcohol & Substance Use; Anxiety & Fear; Recovery & Resilience; Self-Harm & Suicidal Thoughts; Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-002,Ambiguous LDA,LDA 1,Medication and Psychiatric Treatment Management,0.2336,1,Public Discussion of Depression,2,Emotions and feelings,"Work, study, and financial/livelihood pressures"
+QDA-003,Ambiguous LDA,LDA 1,Medication and Psychiatric Treatment Management,0.2336,1,Public Discussion of Depression,1,,"Work, study, and financial/livelihood pressures"
+QDA-004,Ambiguous LDA,LDA 1,Medication and Psychiatric Treatment Management,0.2696,1,Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-005,Ambiguous LDA,LDA 1,Medication and Psychiatric Treatment Management,0.2796,1,Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-006,GPT-covered,LDA 1,Medication and Psychiatric Treatment Management,0.2904,1,Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-007,GPT-covered,LDA 1,Medication and Psychiatric Treatment Management,0.3095,1,Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-008,GPT-covered,LDA 1,Medication and Psychiatric Treatment Management,0.3174,3,"Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts; Treatment & Medication",1,"Treatment, therapy, and medication",
+QDA-009,GPT-covered,LDA 1,Medication and Psychiatric Treatment Management,0.3816,2,Sleep & Physical Difficulties; Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-010,GPT-covered,LDA 1,Medication and Psychiatric Treatment Management,0.3237,1,Treatment & Medication,1,,Self-harm and suicidality
+QDA-011,GPT-covered,LDA 1,Medication and Psychiatric Treatment Management,0.3843,2,Anxiety & Fear; Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-012,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.3869,2,Anxiety & Fear; Treatment & Medication,0,,
+QDA-013,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2702,2,Anxiety & Fear; Treatment & Medication,0,,
+QDA-014,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2884,2,Anxiety & Fear; Treatment & Medication,0,,
+QDA-015,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2474,3,"Anxiety & Fear; Help-Seeking, Coping & Support; Treatment & Medication",0,,
+QDA-016,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.3692,1,Treatment & Medication,0,,
+QDA-017,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.3243,2,"Help-Seeking, Coping & Support; Treatment & Medication",0,,
+QDA-018,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2947,3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0,,
+QDA-020,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2628,1,Public Discussion of Depression,0,,
+QDA-021,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.222,1,Treatment & Medication,0,,
+QDA-022,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.3475,2,Relationships & Isolation; Treatment & Medication,0,,
+QDA-023,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2013,2,Anxiety & Fear; Treatment & Medication,0,,
+QDA-024,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.3002,5,"Anxiety & Fear; Emotional Distress; Family & Parenting; Treatment & Medication; Work, Study & Financial Stress",0,,
+QDA-025,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.3266,2,Anxiety & Fear; Treatment & Medication,0,,
+QDA-026,Non-GPT fill,LDA 1,Medication and Psychiatric Treatment Management,0.2836,1,Anxiety & Fear,0,,
+QDA-027,Representative,LDA 1,Medication and Psychiatric Treatment Management,0.4137,5,Anxiety & Fear; Emotional Distress; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties; Treatment & Medication,0,,
+QDA-028,Representative,LDA 1,Medication and Psychiatric Treatment Management,0.4354,3,Alcohol & Substance Use; Sleep & Physical Difficulties; Treatment & Medication,0,,
+QDA-029,Representative,LDA 1,Medication and Psychiatric Treatment Management,0.4086,1,Treatment & Medication,0,,
+QDA-030,Representative,LDA 1,Medication and Psychiatric Treatment Management,0.5246,3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-031,Representative,LDA 1,Medication and Psychiatric Treatment Management,0.4703,1,Treatment & Medication,0,,
+QDA-032,Ambiguous LDA,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3555,1,Anxiety & Fear,2,"Daily functioning, sleep, and physical/vegetative state","Daily functioning, sleep, and physical/vegetative state"
+QDA-033,Ambiguous LDA,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.2325,1,Treatment & Medication,1,,"Help-seeking, coping, social support, and recovery"
+QDA-034,Ambiguous LDA,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3385,3,Anxiety & Fear; Hopelessness & Loss of Interest; Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-035,Ambiguous LDA,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3521,1,Sleep & Physical Difficulties,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-036,Ambiguous LDA,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3331,3,Anxiety & Fear; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,2,"Help-seeking, coping, social support, and recovery","Help-seeking, coping, social support, and recovery"
+QDA-037,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.6388,4,Alcohol & Substance Use; Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-038,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4605,3,"Anxiety & Fear; Sleep & Physical Difficulties; Work, Study & Financial Stress",2,"Daily functioning, sleep, and physical/vegetative state","Daily functioning, sleep, and physical/vegetative state"
+QDA-040,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4696,2,"Anxiety & Fear; Help-Seeking, Coping & Support",1,"Daily functioning, sleep, and physical/vegetative state",
+QDA-041,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3666,2,Anxiety & Fear; Sleep & Physical Difficulties,1,"Daily functioning, sleep, and physical/vegetative state",
+QDA-042,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.487,4,"Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication; Work, Study & Financial Stress",1,"Daily functioning, sleep, and physical/vegetative state",
+QDA-043,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4108,3,Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-044,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4388,4,Anxiety & Fear; Recovery & Resilience; Sleep & Physical Difficulties; Treatment & Medication,1,"Help-seeking, coping, social support, and recovery",
+QDA-045,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.6919,3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-046,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.2464,1,"Help-Seeking, Coping & Support",1,"Help-seeking, coping, social support, and recovery",
+QDA-047,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3655,4,"Anxiety & Fear; Help-Seeking, Coping & Support; Sleep & Physical Difficulties; Treatment & Medication",1,,"Treatment, therapy, and medication"
+QDA-048,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4274,5,"Anxiety & Fear; Help-Seeking, Coping & Support; Recovery & Resilience; Sleep & Physical Difficulties; Work, Study & Financial Stress",1,Emotions and feelings,
+QDA-049,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.5651,1,Anxiety & Fear,1,,Emotions and feelings
+QDA-050,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4811,2,Anxiety & Fear; Sleep & Physical Difficulties,1,"Daily functioning, sleep, and physical/vegetative state",
+QDA-051,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.5526,4,Anxiety & Fear; Recovery & Resilience; Sleep & Physical Difficulties; Treatment & Medication,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-052,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4627,4,Alcohol & Substance Use; Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,1,,Emotions and feelings
+QDA-053,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3957,1,Casual or Figurative Depression Language,1,"Help-seeking, coping, social support, and recovery",
+QDA-054,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3441,5,"Anxiety & Fear; Help-Seeking, Coping & Support; Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication",1,Emotions and feelings,
+QDA-055,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3847,4,"Emotional Distress; Negative Self-Perception; Sleep & Physical Difficulties; Work, Study & Financial Stress",1,,Self-harm and suicidality
+QDA-056,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.2882,2,"Help-Seeking, Coping & Support; Treatment & Medication",1,,"Treatment, therapy, and medication"
+QDA-057,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4259,5,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Sleep & Physical Difficulties; Treatment & Medication",1,,Family and parenting
+QDA-058,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3269,3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,2,"Daily functioning, sleep, and physical/vegetative state","Daily functioning, sleep, and physical/vegetative state"
+QDA-060,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3783,1,Casual or Figurative Depression Language,1,Emotions and feelings,
+QDA-062,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.3066,2,Anxiety & Fear; Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-063,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4915,1,Anxiety & Fear,1,,Emotions and feelings
+QDA-065,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.4052,3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-066,GPT-covered,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.6789,3,Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-067,Representative,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.719,5,Alcohol & Substance Use; Anxiety & Fear; Emotional Distress; Sleep & Physical Difficulties; Treatment & Medication,0,,
+QDA-068,Representative,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.7043,3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0,,
+QDA-069,Representative,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.7254,3,Anxiety & Fear; Emotional Distress; Sleep & Physical Difficulties,0,,
+QDA-070,Representative,LDA 2,"Anxiety, Panic, and Somatic Symptoms",0.6923,2,Anxiety & Fear; Sleep & Physical Difficulties,0,,
+QDA-072,Ambiguous LDA,LDA 3,Psychosocial Stressors and Functional Impairment,0.2908,4,"Anxiety & Fear; Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts; Treatment & Medication",1,"Treatment, therapy, and medication",
+QDA-073,Ambiguous LDA,LDA 3,Psychosocial Stressors and Functional Impairment,0.2984,1,Casual or Figurative Depression Language,1,"General conversation, community, and leisure",
+QDA-074,Ambiguous LDA,LDA 3,Psychosocial Stressors and Functional Impairment,0.3497,4,"Anxiety & Fear; Recovery & Resilience; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,Self-harm and suicidality,
+QDA-075,Ambiguous LDA,LDA 3,Psychosocial Stressors and Functional Impairment,0.3729,1,Self-Harm & Suicidal Thoughts,1,Self-harm and suicidality,
+QDA-076,Ambiguous LDA,LDA 3,Psychosocial Stressors and Functional Impairment,0.252,4,Alcohol & Substance Use; Anxiety & Fear; Relationships & Isolation; Treatment & Medication,1,Self-perception and cognitive patterns,
+QDA-077,GPT dual disagreement,LDA 3,Psychosocial Stressors and Functional Impairment,0.3276,1,Casual or Figurative Depression Language,2,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+QDA-078,GPT dual disagreement,LDA 3,Psychosocial Stressors and Functional Impairment,0.3327,5,Alcohol & Substance Use; Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication,2,Alcohol and substance use,"Treatment, therapy, and medication"
+QDA-079,GPT dual disagreement,LDA 3,Psychosocial Stressors and Functional Impairment,0.5795,5,Anxiety & Fear; Emotional Distress; Family & Parenting; Relationships & Isolation; Sleep & Physical Difficulties,2,Family and parenting,Emotions and feelings
+QDA-080,GPT dual disagreement,LDA 3,Psychosocial Stressors and Functional Impairment,0.5035,5,"Anxiety & Fear; Family & Parenting; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",2,Emotions and feelings,Self-harm and suicidality
+QDA-081,GPT dual disagreement,LDA 3,Psychosocial Stressors and Functional Impairment,0.3822,5,"Anxiety & Fear; Help-Seeking, Coping & Support; Recovery & Resilience; Treatment & Medication; Work, Study & Financial Stress",2,"Treatment, therapy, and medication","Work, study, and financial/livelihood pressures"
+QDA-082,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.2578,1,Public Discussion of Depression,2,"Work, study, and financial/livelihood pressures","Work, study, and financial/livelihood pressures"
+QDA-083,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.2762,4,Anxiety & Fear; Family & Parenting; Relationships & Isolation; Sleep & Physical Difficulties,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-084,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5253,1,Public Discussion of Depression,2,Family and parenting,Family and parenting
+QDA-085,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5353,4,Anxiety & Fear; Emotional Distress; Family & Parenting; Relationships & Isolation,1,,Family and parenting
+QDA-086,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4453,5,"Emotional Distress; Negative Self-Perception; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,Self-harm and suicidality,
+QDA-087,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.6076,1,Relationships & Isolation,1,Relationships and social connection,
+QDA-088,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5862,3,"Anxiety & Fear; Sleep & Physical Difficulties; Work, Study & Financial Stress",1,"Work, study, and financial/livelihood pressures",
+QDA-089,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.318,4,"Emotional Distress; Help-Seeking, Coping & Support; Negative Self-Perception; Work, Study & Financial Stress",1,,"Help-seeking, coping, social support, and recovery"
+QDA-091,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4018,1,Public Discussion of Depression,1,,Emotions and feelings
+QDA-092,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.478,1,Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-093,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.2954,2,"Anxiety & Fear; Help-Seeking, Coping & Support",1,"Work, study, and financial/livelihood pressures",
+QDA-094,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4177,4,Anxiety & Fear; Emotional Distress; Family & Parenting; Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-095,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4801,4,"Anxiety & Fear; Family & Parenting; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,,Self-harm and suicidality
+QDA-096,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4239,3,"Anxiety & Fear; Negative Self-Perception; Work, Study & Financial Stress",2,Self-perception and cognitive patterns,Self-perception and cognitive patterns
+QDA-097,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4479,5,"Emotional Distress; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties; Work, Study & Financial Stress",1,Self-harm and suicidality,
+QDA-098,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5464,3,"Anxiety & Fear; Family & Parenting; Work, Study & Financial Stress",1,Emotions and feelings,
+QDA-099,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.402,1,Public Discussion of Depression,1,,"Work, study, and financial/livelihood pressures"
+QDA-100,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.502,2,"Anxiety & Fear; Work, Study & Financial Stress",1,,Emotions and feelings
+QDA-101,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5394,5,"Anxiety & Fear; Emotional Distress; Family & Parenting; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,Self-harm and suicidality,
+QDA-102,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4494,1,Casual or Figurative Depression Language,1,Emotions and feelings,
+QDA-103,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.3039,1,Anxiety & Fear,1,,Emotions and feelings
+QDA-104,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5157,3,Alcohol & Substance Use; Emotional Distress; Family & Parenting,2,"Motivation, hope/hopelessness, and purpose","Motivation, hope/hopelessness, and purpose"
+QDA-105,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4102,1,"Work, Study & Financial Stress",1,"Work, study, and financial/livelihood pressures",
+QDA-106,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.5711,4,"Anxiety & Fear; Emotional Distress; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,,Self-harm and suicidality
+QDA-107,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.3819,1,Negative Self-Perception,1,Self-perception and cognitive patterns,
+QDA-108,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.513,4,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Work, Study & Financial Stress",1,,"Motivation, hope/hopelessness, and purpose"
+QDA-109,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.3523,1,Casual or Figurative Depression Language,2,"General conversation, community, and leisure","General conversation, community, and leisure"
+QDA-110,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.4541,1,Public Discussion of Depression,1,Emotions and feelings,
+QDA-111,GPT-covered,LDA 3,Psychosocial Stressors and Functional Impairment,0.3157,2,Self-Harm & Suicidal Thoughts; Treatment & Medication,1,,Self-harm and suicidality
+QDA-112,Representative,LDA 3,Psychosocial Stressors and Functional Impairment,0.8033,5,"Emotional Distress; Family & Parenting; Hopelessness & Loss of Interest; Sleep & Physical Difficulties; Work, Study & Financial Stress",0,,
+QDA-113,Representative,LDA 3,Psychosocial Stressors and Functional Impairment,0.778,5,"Emotional Distress; Family & Parenting; Help-Seeking, Coping & Support; Negative Self-Perception; Work, Study & Financial Stress",0,,
+QDA-114,Representative,LDA 3,Psychosocial Stressors and Functional Impairment,0.7727,4,"Family & Parenting; Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0,,
+QDA-115,Representative,LDA 3,Psychosocial Stressors and Functional Impairment,0.7738,3,"Family & Parenting; Hopelessness & Loss of Interest; Work, Study & Financial Stress",0,,
+QDA-116,Representative,LDA 3,Psychosocial Stressors and Functional Impairment,0.7925,3,"Family & Parenting; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,Self-harm and suicidality,
+QDA-117,Ambiguous LDA,LDA 4,Event-Specific Public Discourse,0.3053,1,Relationships & Isolation,1,,Relationships and social connection
+QDA-118,Ambiguous LDA,LDA 4,Event-Specific Public Discourse,0.2684,1,Public Discussion of Depression,2,"Work, study, and financial/livelihood pressures","Work, study, and financial/livelihood pressures"
+QDA-119,Ambiguous LDA,LDA 4,Event-Specific Public Discourse,0.299,1,Public Discussion of Depression,0,,
+QDA-120,Ambiguous LDA,LDA 4,Event-Specific Public Discourse,0.2886,1,Public Discussion of Depression,0,,
+QDA-121,Ambiguous LDA,LDA 4,Event-Specific Public Discourse,0.2266,1,Public Discussion of Depression,1,,Emotions and feelings
+QDA-122,Ambiguous LDA,LDA 4,Event-Specific Public Discourse,0.2586,1,Public Discussion of Depression,0,,
+QDA-123,Representative,LDA 4,Event-Specific Public Discourse,0.5449,1,Public Discussion of Depression,0,,
+QDA-124,Representative,LDA 4,Event-Specific Public Discourse,0.381,1,Public Discussion of Depression,0,,
+QDA-125,Representative,LDA 4,Event-Specific Public Discourse,0.3827,1,Public Discussion of Depression,1,,"General conversation, community, and leisure"
+QDA-126,Representative,LDA 4,Event-Specific Public Discourse,0.3248,1,Casual or Figurative Depression Language,0,,
+QDA-127,Ambiguous LDA,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3416,4,Anxiety & Fear; Negative Self-Perception; Relationships & Isolation; Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-128,Ambiguous LDA,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2948,4,"Help-Seeking, Coping & Support; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Treatment & Medication",1,Self-harm and suicidality,
+QDA-129,Ambiguous LDA,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2731,2,Anxiety & Fear; Recovery & Resilience,1,,Emotions and feelings
+QDA-130,Ambiguous LDA,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2523,2,Anxiety & Fear; Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-131,Ambiguous LDA,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2348,1,Public Discussion of Depression,1,Alcohol and substance use,
+QDA-132,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3196,1,Anxiety & Fear,1,,"Daily functioning, sleep, and physical/vegetative state"
+QDA-133,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3187,1,Public Discussion of Depression,1,"Work, study, and financial/livelihood pressures",
+QDA-134,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3249,4,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Relationships & Isolation",1,,Relationships and social connection
+QDA-135,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.4362,2,Anxiety & Fear; Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-137,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3833,1,"Help-Seeking, Coping & Support",1,,"Help-seeking, coping, social support, and recovery"
+QDA-138,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2847,2,Anxiety & Fear; Sleep & Physical Difficulties,1,,"Work, study, and financial/livelihood pressures"
+QDA-140,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2932,2,"Anxiety & Fear; Help-Seeking, Coping & Support",1,,Emotions and feelings
+QDA-141,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.4558,1,Anxiety & Fear,2,Self-perception and cognitive patterns,Self-perception and cognitive patterns
+QDA-142,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3478,1,Anxiety & Fear,2,"Treatment, therapy, and medication","Treatment, therapy, and medication"
+QDA-143,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3022,3,Alcohol & Substance Use; Anxiety & Fear; Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-144,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2533,2,Anxiety & Fear; Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-145,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2917,1,Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-146,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.4209,4,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Recovery & Resilience",1,"Help-seeking, coping, social support, and recovery",
+QDA-147,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3325,2,Family & Parenting; Sleep & Physical Difficulties,1,"General conversation, community, and leisure",
+QDA-148,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3175,2,Anxiety & Fear; Family & Parenting,1,,Emotions and feelings
+QDA-150,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3052,1,Public Discussion of Depression,2,"Treatment, therapy, and medication","Treatment, therapy, and medication"
+QDA-151,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2697,1,Emotional Distress,1,,Emotions and feelings
+QDA-152,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.4116,3,Alcohol & Substance Use; Anxiety & Fear; Public Discussion of Depression,2,"Help-seeking, coping, social support, and recovery","Help-seeking, coping, social support, and recovery"
+QDA-153,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3574,3,Alcohol & Substance Use; Anxiety & Fear; Treatment & Medication,1,,"Treatment, therapy, and medication"
+QDA-154,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2485,3,"Emotional Distress; Help-Seeking, Coping & Support; Treatment & Medication",1,"Treatment, therapy, and medication",
+QDA-155,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.447,1,Public Discussion of Depression,1,,Family and parenting
+QDA-156,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.4815,2,"Treatment & Medication; Work, Study & Financial Stress",1,,"Treatment, therapy, and medication"
+QDA-158,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.3581,1,Public Discussion of Depression,1,,"Treatment, therapy, and medication"
+QDA-159,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2802,3,Family & Parenting; Self-Harm & Suicidal Thoughts; Treatment & Medication,1,Self-harm and suicidality,
+QDA-160,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.5086,3,"Family & Parenting; Help-Seeking, Coping & Support; Treatment & Medication",1,,"Treatment, therapy, and medication"
+QDA-161,GPT-covered,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.2972,2,Anxiety & Fear; Treatment & Medication,1,Emotions and feelings,
+QDA-162,Representative,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.5338,3,Anxiety & Fear; Recovery & Resilience; Treatment & Medication,0,,
+QDA-163,Representative,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.5998,2,"Alcohol & Substance Use; Help-Seeking, Coping & Support",0,,
+QDA-164,Representative,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.5487,2,"Alcohol & Substance Use; Help-Seeking, Coping & Support",1,,"Help-seeking, coping, social support, and recovery"
+QDA-165,Representative,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.6121,1,"Help-Seeking, Coping & Support",0,,
+QDA-166,Representative,LDA 5,"Help-Seeking, Mental-Health Information, and Community Support",0.534,1,Treatment & Medication,1,"Work, study, and financial/livelihood pressures",
+QDA-167,Ambiguous LDA,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2612,1,Casual or Figurative Depression Language,1,"Motivation, hope/hopelessness, and purpose",
+QDA-168,Ambiguous LDA,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2284,1,Public Discussion of Depression,1,,"Treatment, therapy, and medication"
+QDA-169,Ambiguous LDA,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2792,3,"Emotional Distress; Help-Seeking, Coping & Support; Relationships & Isolation",1,"General conversation, community, and leisure",
+QDA-170,Ambiguous LDA,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.283,1,Public Discussion of Depression,1,Other/unclear,
+QDA-171,Ambiguous LDA,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3539,1,Casual or Figurative Depression Language,2,Emotions and feelings,Emotions and feelings
+QDA-172,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3341,1,Public Discussion of Depression,1,,"Help-seeking, coping, social support, and recovery"
+QDA-173,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3104,1,Treatment & Medication,1,"Treatment, therapy, and medication",
+QDA-174,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3177,1,Casual or Figurative Depression Language,1,,Family and parenting
+QDA-175,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3395,1,Casual or Figurative Depression Language,1,Other/unclear,
+QDA-176,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4163,1,Casual or Figurative Depression Language,1,Emotions and feelings,
+QDA-177,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2801,1,Casual or Figurative Depression Language,1,,"General conversation, community, and leisure"
+QDA-178,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3176,2,Casual or Figurative Depression Language; Family & Parenting,1,,Family and parenting
+QDA-179,GPT-covered,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3087,1,Casual or Figurative Depression Language,1,Emotions and feelings,
+QDA-180,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2853,1,Public Discussion of Depression,0,,
+QDA-181,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3995,1,Casual or Figurative Depression Language,0,,
+QDA-182,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3419,1,Casual or Figurative Depression Language,0,,
+QDA-183,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3663,1,Casual or Figurative Depression Language,0,,
+QDA-184,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2739,1,Casual or Figurative Depression Language,0,,
+QDA-186,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3175,1,Casual or Figurative Depression Language,0,,
+QDA-187,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3512,1,Casual or Figurative Depression Language,0,,
+QDA-188,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3061,1,Casual or Figurative Depression Language,0,,
+QDA-189,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.3523,1,Casual or Figurative Depression Language,0,,
+QDA-190,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.2709,1,Public Discussion of Depression,0,,
+QDA-191,Non-GPT fill,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4121,1,Casual or Figurative Depression Language,0,,
+QDA-192,Representative,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4168,1,Casual or Figurative Depression Language,0,,
+QDA-193,Representative,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4459,1,Casual or Figurative Depression Language,1,,Family and parenting
+QDA-194,Representative,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4918,1,Casual or Figurative Depression Language,1,Self-perception and cognitive patterns,
+QDA-195,Representative,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4495,1,Casual or Figurative Depression Language,1,Emotions and feelings,
+QDA-196,Representative,LDA 6,Event-Specific Social-Media Commentary and Depression Trivialization,0.4275,2,Casual or Figurative Depression Language; Family & Parenting,1,Family and parenting,
+QDA-197,Ambiguous LDA,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.2818,2,"Anxiety & Fear; Help-Seeking, Coping & Support",1,Emotions and feelings,
+QDA-198,Ambiguous LDA,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.2845,3,Family & Parenting; Self-Harm & Suicidal Thoughts; Treatment & Medication,1,Self-harm and suicidality,
+QDA-199,Ambiguous LDA,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.2368,2,Anxiety & Fear; Recovery & Resilience,1,,"Help-seeking, coping, social support, and recovery"
+QDA-200,Ambiguous LDA,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3687,2,Anxiety & Fear; Treatment & Medication,2,Emotions and feelings,Emotions and feelings
+QDA-201,Ambiguous LDA,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4031,1,"Work, Study & Financial Stress",1,,"Work, study, and financial/livelihood pressures"
+QDA-202,GPT dual disagreement,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3984,1,"Help-Seeking, Coping & Support",2,"Help-seeking, coping, social support, and recovery","General conversation, community, and leisure"
+QDA-203,GPT dual disagreement,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4808,4,Anxiety & Fear; Family & Parenting; Hopelessness & Loss of Interest; Treatment & Medication,2,"Treatment, therapy, and medication",Self-harm and suicidality
+QDA-204,GPT dual disagreement,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3731,1,Recovery & Resilience,2,Self-perception and cognitive patterns,"Help-seeking, coping, social support, and recovery"
+QDA-205,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4009,1,Public Discussion of Depression,1,,Emotions and feelings
+QDA-206,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4018,3,Family & Parenting; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,2,Self-harm and suicidality,Self-harm and suicidality
+QDA-207,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.7104,2,Emotional Distress; Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-208,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4786,4,"Alcohol & Substance Use; Family & Parenting; Help-Seeking, Coping & Support; Relationships & Isolation",1,Self-perception and cognitive patterns,
+QDA-209,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5894,1,Anxiety & Fear,1,,Emotions and feelings
+QDA-210,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4154,3,Relationships & Isolation; Self-Harm & Suicidal Thoughts; Treatment & Medication,2,Self-harm and suicidality,Self-harm and suicidality
+QDA-211,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6544,4,Emotional Distress; Hopelessness & Loss of Interest; Relationships & Isolation; Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-212,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5264,1,"Help-Seeking, Coping & Support",1,,"Help-seeking, coping, social support, and recovery"
+QDA-213,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6041,2,"Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts",1,,Self-harm and suicidality
+QDA-214,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6834,3,"Emotional Distress; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",1,Self-harm and suicidality,
+QDA-215,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4649,3,Family & Parenting; Negative Self-Perception; Self-Harm & Suicidal Thoughts,1,Self-harm and suicidality,
+QDA-217,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5526,4,Emotional Distress; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties; Treatment & Medication,1,,Self-harm and suicidality
+QDA-218,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5493,3,Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication,1,"Motivation, hope/hopelessness, and purpose",
+QDA-219,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6427,1,Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-220,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.7961,3,Emotional Distress; Negative Self-Perception; Relationships & Isolation,1,,Self-perception and cognitive patterns
+QDA-222,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5499,1,Relationships & Isolation,1,,Relationships and social connection
+QDA-223,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5873,4,"Emotional Distress; Help-Seeking, Coping & Support; Relationships & Isolation; Self-Harm & Suicidal Thoughts",1,Self-harm and suicidality,
+QDA-224,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6299,5,"Alcohol & Substance Use; Help-Seeking, Coping & Support; Negative Self-Perception; Self-Harm & Suicidal Thoughts; Treatment & Medication",1,,Self-harm and suicidality
+QDA-225,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6651,4,Emotional Distress; Family & Parenting; Hopelessness & Loss of Interest; Self-Harm & Suicidal Thoughts,2,Self-harm and suicidality,Self-harm and suicidality
+QDA-226,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.633,3,Emotional Distress; Negative Self-Perception; Self-Harm & Suicidal Thoughts,1,Self-harm and suicidality,
+QDA-227,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5272,1,Recovery & Resilience,1,,"Motivation, hope/hopelessness, and purpose"
+QDA-228,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3485,1,Public Discussion of Depression,1,Self-perception and cognitive patterns,
+QDA-229,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.6426,1,Hopelessness & Loss of Interest,1,,Self-harm and suicidality
+QDA-230,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5978,3,Emotional Distress; Hopelessness & Loss of Interest; Relationships & Isolation,1,,Emotions and feelings
+QDA-231,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.625,1,Self-Harm & Suicidal Thoughts,1,,Self-harm and suicidality
+QDA-232,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.717,3,Anxiety & Fear; Emotional Distress; Negative Self-Perception,1,Self-harm and suicidality,
+QDA-233,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3958,4,Anxiety & Fear; Family & Parenting; Negative Self-Perception; Relationships & Isolation,1,,Emotions and feelings
+QDA-234,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3354,4,"Alcohol & Substance Use; Help-Seeking, Coping & Support; Sleep & Physical Difficulties; Treatment & Medication",1,Emotions and feelings,
+QDA-235,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.4232,3,"Help-Seeking, Coping & Support; Hopelessness & Loss of Interest; Self-Harm & Suicidal Thoughts",1,Self-harm and suicidality,
+QDA-236,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3095,1,Casual or Figurative Depression Language,1,Alcohol and substance use,
+QDA-237,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.502,2,"Help-Seeking, Coping & Support; Negative Self-Perception",1,Self-perception and cognitive patterns,
+QDA-238,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.3847,5,Anxiety & Fear; Emotional Distress; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,1,Self-harm and suicidality,
+QDA-239,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.5075,3,Hopelessness & Loss of Interest; Relationships & Isolation; Treatment & Medication,1,"Motivation, hope/hopelessness, and purpose",
+QDA-240,GPT-covered,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.706,2,Anxiety & Fear; Relationships & Isolation,1,,Self-harm and suicidality
+QDA-241,Representative,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.8296,3,Emotional Distress; Negative Self-Perception; Self-Harm & Suicidal Thoughts,0,,
+QDA-242,Representative,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.8141,2,Emotional Distress; Relationships & Isolation,1,Relationships and social connection,
+QDA-243,Representative,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.8132,1,Self-Harm & Suicidal Thoughts,1,Self-harm and suicidality,
+QDA-244,Representative,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.8288,2,Emotional Distress; Hopelessness & Loss of Interest,1,"Motivation, hope/hopelessness, and purpose",
+QDA-245,Representative,LDA 7,"Severe Depressive Distress, Hopelessness, and Suicidality",0.8098,6,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Negative Self-Perception; Recovery & Resilience; Self-Harm & Suicidal Thoughts",0,,

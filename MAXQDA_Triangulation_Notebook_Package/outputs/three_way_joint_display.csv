@@ -1,0 +1,8 @@
+﻿lda_topic,lda_name,lda_n,maxqda_anchor,maxqda_documents,maxqda_percent,gpt_most_common,gpt_records,gpt_topic_records,gpt_unique_texts,reading,comment
+T1,Medication & treatment,30,Treatment & Medication,26,86.66666666666667,"Treatment, therapy, and medication",9,13,12,Convergent focus,Treatment dominates both descriptions
+T2,Anxiety & somatic symptoms,35,Anxiety & Fear,28,80.0,"Daily functioning, sleep, and physical/vegetative state",17,35,31,Complementary,Human anxiety; GPT often emphasizes bodily effects
+T3,Psychosocial stress,44,"Work, Study & Financial Stress",20,45.45454545454545,Self-harm and suicidality,12,50,40,Divergent,Broad psychosocial LDA group; GPT often self-harm
+T4,Public discourse,10,Public Discussion of Depression,8,80.0,"Work, study, and financial/livelihood pressures",2,5,4,Divergent / sparse,Strong human public-discourse match; only five GPT records
+T5,Help-seeking & information,36,"Help-Seeking, Coping & Support",10,27.77777777777778,"Treatment, therapy, and medication",14,37,33,Complementary,Help-seeking topic also has medication content
+T6,Commentary & trivialization,29,Casual or Figurative Depression Language,22,75.86206896551724,Emotions and feelings,5,18,17,Divergent,Humans flag figurative talk; GPT favors general affect
+T7,Severe distress & suicidality,47,Self-Harm & Suicidal Thoughts,20,42.5531914893617,Self-harm and suicidality,25,52,45,Partial convergence,"Self-harm emerges, but LDA topic is broader"

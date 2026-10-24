@@ -1,0 +1,211 @@
+﻿QDA ID,D1 / D2,GPT primary ID,GPT primary theme,GPT binary prediction,GPT secondary theme,MAXQDA codes n,MAXQDA codes,Work theme with public discussion
+QDA-001,D1,T08,"Treatment, therapy, and medication",1,Alcohol and substance use,5,Alcohol & Substance Use; Anxiety & Fear; Recovery & Resilience; Self-Harm & Suicidal Thoughts; Treatment & Medication,0
+QDA-002,D1,T01,Emotions and feelings,1,"Work, study, and financial/livelihood pressures",1,Public Discussion of Depression,0
+QDA-002,D2,T06,"Work, study, and financial/livelihood pressures",1,Relationships and social connection,1,Public Discussion of Depression,1
+QDA-003,D2,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,Public Discussion of Depression,1
+QDA-004,D2,T08,"Treatment, therapy, and medication",0,NONE,1,Treatment & Medication,0
+QDA-005,D1,T08,"Treatment, therapy, and medication",1,NONE,1,Treatment & Medication,0
+QDA-006,D2,T08,"Treatment, therapy, and medication",1,Emotions and feelings,1,Treatment & Medication,0
+QDA-007,D1,T08,"Treatment, therapy, and medication",0,"Daily functioning, sleep, and physical/vegetative state",1,Treatment & Medication,0
+QDA-008,D1,T08,"Treatment, therapy, and medication",1,Self-harm and suicidality,3,"Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts; Treatment & Medication",0
+QDA-009,D1,T08,"Treatment, therapy, and medication",1,"Daily functioning, sleep, and physical/vegetative state",2,Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-010,D2,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",1,Treatment & Medication,0
+QDA-011,D2,T08,"Treatment, therapy, and medication",1,Emotions and feelings,2,Anxiety & Fear; Treatment & Medication,0
+QDA-030,D2,T08,"Treatment, therapy, and medication",1,"Daily functioning, sleep, and physical/vegetative state",3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-032,D1,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,1,Anxiety & Fear,0
+QDA-032,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,1,Anxiety & Fear,0
+QDA-033,D2,T09,"Help-seeking, coping, social support, and recovery",1,"Treatment, therapy, and medication",1,Treatment & Medication,0
+QDA-034,D2,T08,"Treatment, therapy, and medication",1,"Motivation, hope/hopelessness, and purpose",3,Anxiety & Fear; Hopelessness & Loss of Interest; Treatment & Medication,0
+QDA-035,D2,T07,"Daily functioning, sleep, and physical/vegetative state",0,NONE,1,Sleep & Physical Difficulties,0
+QDA-036,D1,T09,"Help-seeking, coping, social support, and recovery",1,Emotions and feelings,3,Anxiety & Fear; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,0
+QDA-036,D2,T09,"Help-seeking, coping, social support, and recovery",1,Emotions and feelings,3,Anxiety & Fear; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,0
+QDA-037,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,"Help-seeking, coping, social support, and recovery",4,Alcohol & Substance Use; Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-038,D1,T07,"Daily functioning, sleep, and physical/vegetative state",0,"Work, study, and financial/livelihood pressures",3,"Anxiety & Fear; Sleep & Physical Difficulties; Work, Study & Financial Stress",0
+QDA-038,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,3,"Anxiety & Fear; Sleep & Physical Difficulties; Work, Study & Financial Stress",0
+QDA-040,D1,T07,"Daily functioning, sleep, and physical/vegetative state",0,"Help-seeking, coping, social support, and recovery",2,"Anxiety & Fear; Help-Seeking, Coping & Support",0
+QDA-041,D1,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,2,Anxiety & Fear; Sleep & Physical Difficulties,0
+QDA-042,D1,T07,"Daily functioning, sleep, and physical/vegetative state",1,"Help-seeking, coping, social support, and recovery",4,"Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication; Work, Study & Financial Stress",0
+QDA-043,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,Relationships and social connection,3,Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties,0
+QDA-044,D1,T09,"Help-seeking, coping, social support, and recovery",1,"Treatment, therapy, and medication",4,Anxiety & Fear; Recovery & Resilience; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-045,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,"Treatment, therapy, and medication",3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-046,D1,T09,"Help-seeking, coping, social support, and recovery",1,"Motivation, hope/hopelessness, and purpose",1,"Help-Seeking, Coping & Support",0
+QDA-047,D2,T08,"Treatment, therapy, and medication",1,"Daily functioning, sleep, and physical/vegetative state",4,"Anxiety & Fear; Help-Seeking, Coping & Support; Sleep & Physical Difficulties; Treatment & Medication",0
+QDA-048,D1,T01,Emotions and feelings,1,"Help-seeking, coping, social support, and recovery",5,"Anxiety & Fear; Help-Seeking, Coping & Support; Recovery & Resilience; Sleep & Physical Difficulties; Work, Study & Financial Stress",0
+QDA-049,D2,T01,Emotions and feelings,1,"Daily functioning, sleep, and physical/vegetative state",1,Anxiety & Fear,0
+QDA-050,D1,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,2,Anxiety & Fear; Sleep & Physical Difficulties,0
+QDA-051,D2,T07,"Daily functioning, sleep, and physical/vegetative state",0,"Treatment, therapy, and medication",4,Anxiety & Fear; Recovery & Resilience; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-052,D2,T01,Emotions and feelings,1,Alcohol and substance use,4,Alcohol & Substance Use; Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-053,D1,T09,"Help-seeking, coping, social support, and recovery",1,Emotions and feelings,1,Casual or Figurative Depression Language,0
+QDA-054,D1,T01,Emotions and feelings,1,"Help-seeking, coping, social support, and recovery",5,"Anxiety & Fear; Help-Seeking, Coping & Support; Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication",0
+QDA-055,D2,T11,Self-harm and suicidality,1,"Work, study, and financial/livelihood pressures",4,"Emotional Distress; Negative Self-Perception; Sleep & Physical Difficulties; Work, Study & Financial Stress",0
+QDA-056,D2,T08,"Treatment, therapy, and medication",1,"Help-seeking, coping, social support, and recovery",2,"Help-Seeking, Coping & Support; Treatment & Medication",0
+QDA-057,D2,T05,Family and parenting,1,"Help-seeking, coping, social support, and recovery",5,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Sleep & Physical Difficulties; Treatment & Medication",0
+QDA-058,D1,T07,"Daily functioning, sleep, and physical/vegetative state",1,"Treatment, therapy, and medication",3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-058,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,"Treatment, therapy, and medication",3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-060,D1,T01,Emotions and feelings,1,Family and parenting,1,Casual or Figurative Depression Language,0
+QDA-062,D1,T08,"Treatment, therapy, and medication",0,Emotions and feelings,2,Anxiety & Fear; Treatment & Medication,0
+QDA-063,D2,T01,Emotions and feelings,0,NONE,1,Anxiety & Fear,0
+QDA-065,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,"Treatment, therapy, and medication",3,Anxiety & Fear; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-066,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,3,Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties,0
+QDA-072,D1,T08,"Treatment, therapy, and medication",1,Self-harm and suicidality,4,"Anxiety & Fear; Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts; Treatment & Medication",0
+QDA-073,D1,T12,"General conversation, community, and leisure",1,NONE,1,Casual or Figurative Depression Language,0
+QDA-074,D1,T11,Self-harm and suicidality,1,"Help-seeking, coping, social support, and recovery",4,"Anxiety & Fear; Recovery & Resilience; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-075,D1,T11,Self-harm and suicidality,1,Relationships and social connection,1,Self-Harm & Suicidal Thoughts,0
+QDA-076,D1,T02,Self-perception and cognitive patterns,1,"Daily functioning, sleep, and physical/vegetative state",4,Alcohol & Substance Use; Anxiety & Fear; Relationships & Isolation; Treatment & Medication,0
+QDA-077,D1,T09,"Help-seeking, coping, social support, and recovery",1,"General conversation, community, and leisure",1,Casual or Figurative Depression Language,0
+QDA-077,D2,T12,"General conversation, community, and leisure",1,"Help-seeking, coping, social support, and recovery",1,Casual or Figurative Depression Language,0
+QDA-078,D1,T10,Alcohol and substance use,1,"Treatment, therapy, and medication",5,Alcohol & Substance Use; Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-078,D2,T08,"Treatment, therapy, and medication",1,Relationships and social connection,5,Alcohol & Substance Use; Anxiety & Fear; Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-079,D1,T05,Family and parenting,1,Emotions and feelings,5,Anxiety & Fear; Emotional Distress; Family & Parenting; Relationships & Isolation; Sleep & Physical Difficulties,0
+QDA-079,D2,T01,Emotions and feelings,1,Family and parenting,5,Anxiety & Fear; Emotional Distress; Family & Parenting; Relationships & Isolation; Sleep & Physical Difficulties,0
+QDA-080,D1,T01,Emotions and feelings,1,Self-harm and suicidality,5,"Anxiety & Fear; Family & Parenting; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-080,D2,T11,Self-harm and suicidality,1,Emotions and feelings,5,"Anxiety & Fear; Family & Parenting; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-081,D1,T08,"Treatment, therapy, and medication",1,"Work, study, and financial/livelihood pressures",5,"Anxiety & Fear; Help-Seeking, Coping & Support; Recovery & Resilience; Treatment & Medication; Work, Study & Financial Stress",0
+QDA-081,D2,T06,"Work, study, and financial/livelihood pressures",1,"Treatment, therapy, and medication",5,"Anxiety & Fear; Help-Seeking, Coping & Support; Recovery & Resilience; Treatment & Medication; Work, Study & Financial Stress",0
+QDA-082,D1,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,Public Discussion of Depression,1
+QDA-082,D2,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,Public Discussion of Depression,1
+QDA-083,D2,T07,"Daily functioning, sleep, and physical/vegetative state",1,Emotions and feelings,4,Anxiety & Fear; Family & Parenting; Relationships & Isolation; Sleep & Physical Difficulties,0
+QDA-084,D1,T05,Family and parenting,1,Emotions and feelings,1,Public Discussion of Depression,0
+QDA-084,D2,T05,Family and parenting,1,Emotions and feelings,1,Public Discussion of Depression,0
+QDA-085,D2,T05,Family and parenting,1,Emotions and feelings,4,Anxiety & Fear; Emotional Distress; Family & Parenting; Relationships & Isolation,0
+QDA-086,D1,T11,Self-harm and suicidality,1,Self-perception and cognitive patterns,5,"Emotional Distress; Negative Self-Perception; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-087,D1,T04,Relationships and social connection,1,Self-perception and cognitive patterns,1,Relationships & Isolation,0
+QDA-088,D1,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,3,"Anxiety & Fear; Sleep & Physical Difficulties; Work, Study & Financial Stress",0
+QDA-089,D2,T09,"Help-seeking, coping, social support, and recovery",1,"Motivation, hope/hopelessness, and purpose",4,"Emotional Distress; Help-Seeking, Coping & Support; Negative Self-Perception; Work, Study & Financial Stress",0
+QDA-091,D2,T01,Emotions and feelings,1,"Work, study, and financial/livelihood pressures",1,Public Discussion of Depression,0
+QDA-092,D2,T11,Self-harm and suicidality,1,"Motivation, hope/hopelessness, and purpose",1,Self-Harm & Suicidal Thoughts,0
+QDA-093,D1,T06,"Work, study, and financial/livelihood pressures",0,Emotions and feelings,2,"Anxiety & Fear; Help-Seeking, Coping & Support",0
+QDA-094,D2,T11,Self-harm and suicidality,1,Family and parenting,4,Anxiety & Fear; Emotional Distress; Family & Parenting; Self-Harm & Suicidal Thoughts,0
+QDA-095,D2,T11,Self-harm and suicidality,1,"Work, study, and financial/livelihood pressures",4,"Anxiety & Fear; Family & Parenting; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-096,D1,T02,Self-perception and cognitive patterns,1,"Work, study, and financial/livelihood pressures",3,"Anxiety & Fear; Negative Self-Perception; Work, Study & Financial Stress",0
+QDA-096,D2,T02,Self-perception and cognitive patterns,1,"Work, study, and financial/livelihood pressures",3,"Anxiety & Fear; Negative Self-Perception; Work, Study & Financial Stress",0
+QDA-097,D1,T11,Self-harm and suicidality,1,"Work, study, and financial/livelihood pressures",5,"Emotional Distress; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties; Work, Study & Financial Stress",0
+QDA-098,D1,T01,Emotions and feelings,1,"Work, study, and financial/livelihood pressures",3,"Anxiety & Fear; Family & Parenting; Work, Study & Financial Stress",0
+QDA-099,D2,T06,"Work, study, and financial/livelihood pressures",1,"Motivation, hope/hopelessness, and purpose",1,Public Discussion of Depression,1
+QDA-100,D2,T01,Emotions and feelings,1,"Work, study, and financial/livelihood pressures",2,"Anxiety & Fear; Work, Study & Financial Stress",0
+QDA-101,D1,T11,Self-harm and suicidality,1,"Work, study, and financial/livelihood pressures",5,"Anxiety & Fear; Emotional Distress; Family & Parenting; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-102,D1,T01,Emotions and feelings,1,"General conversation, community, and leisure",1,Casual or Figurative Depression Language,0
+QDA-103,D2,T01,Emotions and feelings,0,"General conversation, community, and leisure",1,Anxiety & Fear,0
+QDA-104,D1,T03,"Motivation, hope/hopelessness, and purpose",1,Alcohol and substance use,3,Alcohol & Substance Use; Emotional Distress; Family & Parenting,0
+QDA-104,D2,T03,"Motivation, hope/hopelessness, and purpose",1,Alcohol and substance use,3,Alcohol & Substance Use; Emotional Distress; Family & Parenting,0
+QDA-105,D1,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,"Work, Study & Financial Stress",0
+QDA-106,D2,T11,Self-harm and suicidality,1,"Motivation, hope/hopelessness, and purpose",4,"Anxiety & Fear; Emotional Distress; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-107,D1,T02,Self-perception and cognitive patterns,1,Emotions and feelings,1,Negative Self-Perception,0
+QDA-108,D2,T03,"Motivation, hope/hopelessness, and purpose",1,"Work, study, and financial/livelihood pressures",4,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Work, Study & Financial Stress",0
+QDA-109,D1,T12,"General conversation, community, and leisure",1,NONE,1,Casual or Figurative Depression Language,0
+QDA-109,D2,T12,"General conversation, community, and leisure",1,NONE,1,Casual or Figurative Depression Language,0
+QDA-110,D1,T01,Emotions and feelings,1,NONE,1,Public Discussion of Depression,0
+QDA-111,D2,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",2,Self-Harm & Suicidal Thoughts; Treatment & Medication,0
+QDA-116,D1,T11,Self-harm and suicidality,1,"Work, study, and financial/livelihood pressures",3,"Family & Parenting; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-117,D2,T04,Relationships and social connection,0,Emotions and feelings,1,Relationships & Isolation,0
+QDA-118,D1,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,Public Discussion of Depression,1
+QDA-118,D2,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,Public Discussion of Depression,1
+QDA-121,D2,T01,Emotions and feelings,0,"Work, study, and financial/livelihood pressures",1,Public Discussion of Depression,0
+QDA-125,D2,T12,"General conversation, community, and leisure",1,NONE,1,Public Discussion of Depression,0
+QDA-127,D2,T11,Self-harm and suicidality,1,Relationships and social connection,4,Anxiety & Fear; Negative Self-Perception; Relationships & Isolation; Self-Harm & Suicidal Thoughts,0
+QDA-128,D1,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",4,"Help-Seeking, Coping & Support; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Treatment & Medication",0
+QDA-129,D2,T01,Emotions and feelings,1,"Motivation, hope/hopelessness, and purpose",2,Anxiety & Fear; Recovery & Resilience,0
+QDA-130,D2,T08,"Treatment, therapy, and medication",0,"Help-seeking, coping, social support, and recovery",2,Anxiety & Fear; Treatment & Medication,0
+QDA-131,D1,T10,Alcohol and substance use,1,Emotions and feelings,1,Public Discussion of Depression,0
+QDA-132,D2,T07,"Daily functioning, sleep, and physical/vegetative state",0,Emotions and feelings,1,Anxiety & Fear,0
+QDA-133,D1,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,Public Discussion of Depression,1
+QDA-134,D2,T04,Relationships and social connection,1,"Help-seeking, coping, social support, and recovery",4,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Relationships & Isolation",0
+QDA-135,D1,T08,"Treatment, therapy, and medication",1,"Help-seeking, coping, social support, and recovery",2,Anxiety & Fear; Treatment & Medication,0
+QDA-137,D2,T09,"Help-seeking, coping, social support, and recovery",1,"Treatment, therapy, and medication",1,"Help-Seeking, Coping & Support",0
+QDA-138,D2,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,2,Anxiety & Fear; Sleep & Physical Difficulties,0
+QDA-140,D2,T01,Emotions and feelings,0,"Help-seeking, coping, social support, and recovery",2,"Anxiety & Fear; Help-Seeking, Coping & Support",0
+QDA-141,D1,T02,Self-perception and cognitive patterns,1,Emotions and feelings,1,Anxiety & Fear,0
+QDA-141,D2,T02,Self-perception and cognitive patterns,1,Emotions and feelings,1,Anxiety & Fear,0
+QDA-142,D1,T08,"Treatment, therapy, and medication",1,"Help-seeking, coping, social support, and recovery",1,Anxiety & Fear,0
+QDA-142,D2,T08,"Treatment, therapy, and medication",1,"Help-seeking, coping, social support, and recovery",1,Anxiety & Fear,0
+QDA-143,D1,T08,"Treatment, therapy, and medication",1,Emotions and feelings,3,Alcohol & Substance Use; Anxiety & Fear; Treatment & Medication,0
+QDA-144,D2,T08,"Treatment, therapy, and medication",1,Self-perception and cognitive patterns,2,Anxiety & Fear; Treatment & Medication,0
+QDA-145,D2,T08,"Treatment, therapy, and medication",1,Emotions and feelings,1,Treatment & Medication,0
+QDA-146,D1,T09,"Help-seeking, coping, social support, and recovery",1,Emotions and feelings,4,"Anxiety & Fear; Family & Parenting; Help-Seeking, Coping & Support; Recovery & Resilience",0
+QDA-147,D1,T12,"General conversation, community, and leisure",0,"Daily functioning, sleep, and physical/vegetative state",2,Family & Parenting; Sleep & Physical Difficulties,0
+QDA-148,D2,T01,Emotions and feelings,1,Family and parenting,2,Anxiety & Fear; Family & Parenting,0
+QDA-150,D1,T08,"Treatment, therapy, and medication",1,Self-perception and cognitive patterns,1,Public Discussion of Depression,0
+QDA-150,D2,T08,"Treatment, therapy, and medication",1,Self-perception and cognitive patterns,1,Public Discussion of Depression,0
+QDA-151,D2,T01,Emotions and feelings,1,"Treatment, therapy, and medication",1,Emotional Distress,0
+QDA-152,D1,T09,"Help-seeking, coping, social support, and recovery",1,Alcohol and substance use,3,Alcohol & Substance Use; Anxiety & Fear; Public Discussion of Depression,0
+QDA-152,D2,T09,"Help-seeking, coping, social support, and recovery",1,Alcohol and substance use,3,Alcohol & Substance Use; Anxiety & Fear; Public Discussion of Depression,0
+QDA-153,D2,T08,"Treatment, therapy, and medication",1,Alcohol and substance use,3,Alcohol & Substance Use; Anxiety & Fear; Treatment & Medication,0
+QDA-154,D1,T08,"Treatment, therapy, and medication",1,"Daily functioning, sleep, and physical/vegetative state",3,"Emotional Distress; Help-Seeking, Coping & Support; Treatment & Medication",0
+QDA-155,D2,T05,Family and parenting,1,"Treatment, therapy, and medication",1,Public Discussion of Depression,0
+QDA-156,D2,T08,"Treatment, therapy, and medication",0,"Work, study, and financial/livelihood pressures",2,"Treatment & Medication; Work, Study & Financial Stress",0
+QDA-158,D2,T08,"Treatment, therapy, and medication",1,"Daily functioning, sleep, and physical/vegetative state",1,Public Discussion of Depression,0
+QDA-159,D1,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",3,Family & Parenting; Self-Harm & Suicidal Thoughts; Treatment & Medication,0
+QDA-160,D2,T08,"Treatment, therapy, and medication",0,"Help-seeking, coping, social support, and recovery",3,"Family & Parenting; Help-Seeking, Coping & Support; Treatment & Medication",0
+QDA-161,D1,T01,Emotions and feelings,1,"Treatment, therapy, and medication",2,Anxiety & Fear; Treatment & Medication,0
+QDA-164,D2,T09,"Help-seeking, coping, social support, and recovery",0,Alcohol and substance use,2,"Alcohol & Substance Use; Help-Seeking, Coping & Support",0
+QDA-166,D1,T06,"Work, study, and financial/livelihood pressures",1,"Treatment, therapy, and medication",1,Treatment & Medication,0
+QDA-167,D1,T03,"Motivation, hope/hopelessness, and purpose",1,Emotions and feelings,1,Casual or Figurative Depression Language,0
+QDA-168,D2,T08,"Treatment, therapy, and medication",1,Self-harm and suicidality,1,Public Discussion of Depression,0
+QDA-169,D1,T12,"General conversation, community, and leisure",1,Emotions and feelings,3,"Emotional Distress; Help-Seeking, Coping & Support; Relationships & Isolation",0
+QDA-170,D1,T00,Other/unclear,1,NONE,1,Public Discussion of Depression,0
+QDA-171,D1,T01,Emotions and feelings,1,Relationships and social connection,1,Casual or Figurative Depression Language,0
+QDA-171,D2,T01,Emotions and feelings,1,Family and parenting,1,Casual or Figurative Depression Language,0
+QDA-172,D2,T09,"Help-seeking, coping, social support, and recovery",1,"General conversation, community, and leisure",1,Public Discussion of Depression,0
+QDA-173,D1,T08,"Treatment, therapy, and medication",1,Emotions and feelings,1,Treatment & Medication,0
+QDA-174,D2,T05,Family and parenting,1,Emotions and feelings,1,Casual or Figurative Depression Language,0
+QDA-175,D1,T00,Other/unclear,1,NONE,1,Casual or Figurative Depression Language,0
+QDA-176,D1,T01,Emotions and feelings,1,NONE,1,Casual or Figurative Depression Language,0
+QDA-177,D2,T12,"General conversation, community, and leisure",0,NONE,1,Casual or Figurative Depression Language,0
+QDA-178,D2,T05,Family and parenting,1,Emotions and feelings,2,Casual or Figurative Depression Language; Family & Parenting,0
+QDA-179,D1,T01,Emotions and feelings,1,"General conversation, community, and leisure",1,Casual or Figurative Depression Language,0
+QDA-193,D2,T05,Family and parenting,1,"Help-seeking, coping, social support, and recovery",1,Casual or Figurative Depression Language,0
+QDA-194,D1,T02,Self-perception and cognitive patterns,1,"General conversation, community, and leisure",1,Casual or Figurative Depression Language,0
+QDA-195,D1,T01,Emotions and feelings,1,"General conversation, community, and leisure",1,Casual or Figurative Depression Language,0
+QDA-196,D1,T05,Family and parenting,1,Emotions and feelings,2,Casual or Figurative Depression Language; Family & Parenting,0
+QDA-197,D1,T01,Emotions and feelings,1,"Help-seeking, coping, social support, and recovery",2,"Anxiety & Fear; Help-Seeking, Coping & Support",0
+QDA-198,D1,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",3,Family & Parenting; Self-Harm & Suicidal Thoughts; Treatment & Medication,0
+QDA-199,D2,T09,"Help-seeking, coping, social support, and recovery",1,Emotions and feelings,2,Anxiety & Fear; Recovery & Resilience,0
+QDA-200,D1,T01,Emotions and feelings,1,Self-perception and cognitive patterns,2,Anxiety & Fear; Treatment & Medication,0
+QDA-200,D2,T01,Emotions and feelings,1,Self-perception and cognitive patterns,2,Anxiety & Fear; Treatment & Medication,0
+QDA-201,D2,T06,"Work, study, and financial/livelihood pressures",1,Emotions and feelings,1,"Work, Study & Financial Stress",0
+QDA-202,D1,T09,"Help-seeking, coping, social support, and recovery",1,"General conversation, community, and leisure",1,"Help-Seeking, Coping & Support",0
+QDA-202,D2,T12,"General conversation, community, and leisure",1,"Help-seeking, coping, social support, and recovery",1,"Help-Seeking, Coping & Support",0
+QDA-203,D1,T08,"Treatment, therapy, and medication",1,Self-harm and suicidality,4,Anxiety & Fear; Family & Parenting; Hopelessness & Loss of Interest; Treatment & Medication,0
+QDA-203,D2,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",4,Anxiety & Fear; Family & Parenting; Hopelessness & Loss of Interest; Treatment & Medication,0
+QDA-204,D1,T02,Self-perception and cognitive patterns,1,"Help-seeking, coping, social support, and recovery",1,Recovery & Resilience,0
+QDA-204,D2,T09,"Help-seeking, coping, social support, and recovery",1,Self-perception and cognitive patterns,1,Recovery & Resilience,0
+QDA-205,D2,T01,Emotions and feelings,1,NONE,1,Public Discussion of Depression,0
+QDA-206,D1,T11,Self-harm and suicidality,1,Family and parenting,3,Family & Parenting; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,0
+QDA-206,D2,T11,Self-harm and suicidality,1,Family and parenting,3,Family & Parenting; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,0
+QDA-207,D2,T11,Self-harm and suicidality,1,Emotions and feelings,2,Emotional Distress; Self-Harm & Suicidal Thoughts,0
+QDA-208,D1,T02,Self-perception and cognitive patterns,1,Family and parenting,4,"Alcohol & Substance Use; Family & Parenting; Help-Seeking, Coping & Support; Relationships & Isolation",0
+QDA-209,D2,T01,Emotions and feelings,1,Self-perception and cognitive patterns,1,Anxiety & Fear,0
+QDA-210,D1,T11,Self-harm and suicidality,1,NONE,3,Relationships & Isolation; Self-Harm & Suicidal Thoughts; Treatment & Medication,0
+QDA-210,D2,T11,Self-harm and suicidality,1,"Treatment, therapy, and medication",3,Relationships & Isolation; Self-Harm & Suicidal Thoughts; Treatment & Medication,0
+QDA-211,D2,T11,Self-harm and suicidality,1,Self-perception and cognitive patterns,4,Emotional Distress; Hopelessness & Loss of Interest; Relationships & Isolation; Self-Harm & Suicidal Thoughts,0
+QDA-212,D2,T09,"Help-seeking, coping, social support, and recovery",1,"Motivation, hope/hopelessness, and purpose",1,"Help-Seeking, Coping & Support",0
+QDA-213,D2,T11,Self-harm and suicidality,1,"Help-seeking, coping, social support, and recovery",2,"Help-Seeking, Coping & Support; Self-Harm & Suicidal Thoughts",0
+QDA-214,D1,T11,Self-harm and suicidality,1,Emotions and feelings,3,"Emotional Distress; Self-Harm & Suicidal Thoughts; Work, Study & Financial Stress",0
+QDA-215,D1,T11,Self-harm and suicidality,1,Family and parenting,3,Family & Parenting; Negative Self-Perception; Self-Harm & Suicidal Thoughts,0
+QDA-217,D2,T11,Self-harm and suicidality,1,Emotions and feelings,4,Emotional Distress; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-218,D1,T03,"Motivation, hope/hopelessness, and purpose",1,"Daily functioning, sleep, and physical/vegetative state",3,Relationships & Isolation; Sleep & Physical Difficulties; Treatment & Medication,0
+QDA-219,D2,T11,Self-harm and suicidality,1,Emotions and feelings,1,Self-Harm & Suicidal Thoughts,0
+QDA-220,D2,T02,Self-perception and cognitive patterns,1,Emotions and feelings,3,Emotional Distress; Negative Self-Perception; Relationships & Isolation,0
+QDA-222,D2,T04,Relationships and social connection,0,"Daily functioning, sleep, and physical/vegetative state",1,Relationships & Isolation,0
+QDA-223,D1,T11,Self-harm and suicidality,1,Emotions and feelings,4,"Emotional Distress; Help-Seeking, Coping & Support; Relationships & Isolation; Self-Harm & Suicidal Thoughts",0
+QDA-224,D2,T11,Self-harm and suicidality,1,Self-perception and cognitive patterns,5,"Alcohol & Substance Use; Help-Seeking, Coping & Support; Negative Self-Perception; Self-Harm & Suicidal Thoughts; Treatment & Medication",0
+QDA-225,D1,T11,Self-harm and suicidality,1,Emotions and feelings,4,Emotional Distress; Family & Parenting; Hopelessness & Loss of Interest; Self-Harm & Suicidal Thoughts,0
+QDA-225,D2,T11,Self-harm and suicidality,1,"Motivation, hope/hopelessness, and purpose",4,Emotional Distress; Family & Parenting; Hopelessness & Loss of Interest; Self-Harm & Suicidal Thoughts,0
+QDA-226,D1,T11,Self-harm and suicidality,1,Emotions and feelings,3,Emotional Distress; Negative Self-Perception; Self-Harm & Suicidal Thoughts,0
+QDA-227,D2,T03,"Motivation, hope/hopelessness, and purpose",1,Emotions and feelings,1,Recovery & Resilience,0
+QDA-228,D1,T02,Self-perception and cognitive patterns,1,Emotions and feelings,1,Public Discussion of Depression,0
+QDA-229,D2,T11,Self-harm and suicidality,1,"Motivation, hope/hopelessness, and purpose",1,Hopelessness & Loss of Interest,0
+QDA-230,D2,T01,Emotions and feelings,1,Self-perception and cognitive patterns,3,Emotional Distress; Hopelessness & Loss of Interest; Relationships & Isolation,0
+QDA-231,D2,T11,Self-harm and suicidality,1,"Motivation, hope/hopelessness, and purpose",1,Self-Harm & Suicidal Thoughts,0
+QDA-232,D1,T11,Self-harm and suicidality,1,Self-perception and cognitive patterns,3,Anxiety & Fear; Emotional Distress; Negative Self-Perception,0
+QDA-233,D2,T01,Emotions and feelings,1,Self-perception and cognitive patterns,4,Anxiety & Fear; Family & Parenting; Negative Self-Perception; Relationships & Isolation,0
+QDA-234,D1,T01,Emotions and feelings,1,Self-perception and cognitive patterns,4,"Alcohol & Substance Use; Help-Seeking, Coping & Support; Sleep & Physical Difficulties; Treatment & Medication",0
+QDA-235,D1,T11,Self-harm and suicidality,1,"Help-seeking, coping, social support, and recovery",3,"Help-Seeking, Coping & Support; Hopelessness & Loss of Interest; Self-Harm & Suicidal Thoughts",0
+QDA-236,D1,T10,Alcohol and substance use,1,NONE,1,Casual or Figurative Depression Language,0
+QDA-237,D1,T02,Self-perception and cognitive patterns,1,"Help-seeking, coping, social support, and recovery",2,"Help-Seeking, Coping & Support; Negative Self-Perception",0
+QDA-238,D1,T11,Self-harm and suicidality,1,Relationships and social connection,5,Anxiety & Fear; Emotional Distress; Relationships & Isolation; Self-Harm & Suicidal Thoughts; Sleep & Physical Difficulties,0
+QDA-239,D1,T03,"Motivation, hope/hopelessness, and purpose",1,"Daily functioning, sleep, and physical/vegetative state",3,Hopelessness & Loss of Interest; Relationships & Isolation; Treatment & Medication,0
+QDA-240,D2,T11,Self-harm and suicidality,1,Relationships and social connection,2,Anxiety & Fear; Relationships & Isolation,0
+QDA-242,D1,T04,Relationships and social connection,1,Emotions and feelings,2,Emotional Distress; Relationships & Isolation,0
+QDA-243,D1,T11,Self-harm and suicidality,1,Self-perception and cognitive patterns,1,Self-Harm & Suicidal Thoughts,0
+QDA-244,D1,T03,"Motivation, hope/hopelessness, and purpose",1,Self-perception and cognitive patterns,2,Emotional Distress; Hopelessness & Loss of Interest,0
