@@ -1,0 +1,3 @@
+dataset,test_n,matched_pairs,matched_n,test_coverage,max_abs_log_char_diff,matched_log_char_smd,matched_label0_median_chars,matched_label1_median_chars
+D1,1187,410,820,0.6908171861836563,0.12945449043672852,-0.0041097112603030945,286.5,292.0
+D2,1469,133,266,0.18107556160653507,0.11701645838618813,0.021818413033714363,78.0,79.0

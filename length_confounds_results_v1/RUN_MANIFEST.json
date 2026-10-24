@@ -1,0 +1,112 @@
+{
+  "analysis": "length_only_baseline_and_length_matched_test_sensitivity",
+  "raw_input_sha256": {
+    "1": "b2ad99ebdcf3c34f040a2988fda1c482e9ff9b9cf42795bb64c792b3c7043d9e",
+    "2": "88161f9388194bbb9cede048223d8f7f6bc6ab68670c373eeffd13bbb45de842"
+  },
+  "split_protocol": "train_test_split(test_size=0.2,random_state=42,stratify=sentiment)",
+  "matching_caliper": "coarsened-exact fixed log1p(character) bins of width log(1.25)",
+  "matched_by": "raw character length and label only; equal-quantile positions within shared log-length bins; without replacement",
+  "length_features": "log1p(raw unicode-character count), log1p(whitespace token count)",
+  "no_phobert_large_predictions": "PhoBERT-large predictions are absent from supplied repository",
+  "tfidf_protocol_different": "TF-IDF legacy preprocessing yields a different outer test split",
+  "privacy": "No raw text is saved by this notebook; local row-level IDs can still be sensitive",
+  "key_outputs": {
+    "baseline": [
+      {
+        "dataset": "D1",
+        "model": "Majority class",
+        "accuracy": 0.637742,
+        "balanced_accuracy": 0.5,
+        "macro_f1": 0.389403
+      },
+      {
+        "dataset": "D1",
+        "model": "Length-LR (characters)",
+        "accuracy": 0.637742,
+        "balanced_accuracy": 0.5,
+        "macro_f1": 0.389403
+      },
+      {
+        "dataset": "D1",
+        "model": "Length-LR (tokens)",
+        "accuracy": 0.637742,
+        "balanced_accuracy": 0.5,
+        "macro_f1": 0.389403
+      },
+      {
+        "dataset": "D1",
+        "model": "Length-LR (both)",
+        "accuracy": 0.638585,
+        "balanced_accuracy": 0.501163,
+        "macro_f1": 0.391924
+      },
+      {
+        "dataset": "D1",
+        "model": "Length-tree (both)",
+        "accuracy": 0.645324,
+        "balanced_accuracy": 0.514986,
+        "macro_f1": 0.42958
+      },
+      {
+        "dataset": "D2",
+        "model": "Majority class",
+        "accuracy": 0.514636,
+        "balanced_accuracy": 0.5,
+        "macro_f1": 0.339775
+      },
+      {
+        "dataset": "D2",
+        "model": "Length-LR (characters)",
+        "accuracy": 0.911504,
+        "balanced_accuracy": 0.912226,
+        "macro_f1": 0.911504
+      },
+      {
+        "dataset": "D2",
+        "model": "Length-LR (tokens)",
+        "accuracy": 0.899932,
+        "balanced_accuracy": 0.900744,
+        "macro_f1": 0.899932
+      },
+      {
+        "dataset": "D2",
+        "model": "Length-LR (both)",
+        "accuracy": 0.927161,
+        "balanced_accuracy": 0.927677,
+        "macro_f1": 0.927155
+      },
+      {
+        "dataset": "D2",
+        "model": "Length-tree (both)",
+        "accuracy": 0.910143,
+        "balanced_accuracy": 0.91222,
+        "macro_f1": 0.909967
+      }
+    ],
+    "matching": [
+      {
+        "dataset": "D1",
+        "test_n": 1187,
+        "matched_pairs": 410,
+        "matched_n": 820,
+        "test_coverage": 0.690817,
+        "max_abs_log_char_diff": 0.129454,
+        "matched_log_char_smd": -0.00411,
+        "matched_label0_median_chars": 286.5,
+        "matched_label1_median_chars": 292.0
+      },
+      {
+        "dataset": "D2",
+        "test_n": 1469,
+        "matched_pairs": 133,
+        "matched_n": 266,
+        "test_coverage": 0.181076,
+        "max_abs_log_char_diff": 0.117016,
+        "matched_log_char_smd": 0.021818,
+        "matched_label0_median_chars": 78.0,
+        "matched_label1_median_chars": 79.0
+      }
+    ]
+  }
+}
