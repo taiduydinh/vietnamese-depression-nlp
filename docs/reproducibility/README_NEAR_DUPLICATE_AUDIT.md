@@ -17,13 +17,13 @@ Depression_Reproduction/
 ├── datasets/
 │   ├── dataset_1.csv
 │   └── dataset_2.csv
-├── reproduction_results_v1/
+├── reproduction_results/
 │   ├── preprocessed/
 │   │   ├── Dataset_depression_vi1.csv
 │   │   └── Dataset_depression_vi2.csv
 │   └── runs/.../predictions.csv     # optional; used for sensitivity analysis
-├── near_duplicate_leakage_audit.py
-└── Vietnamese_Depression_Near_Duplicate_Leakage_Audit_v1.ipynb
+├── src/near_duplicate_leakage_audit.py
+└── notebooks/robustness/Vietnamese_Depression_Near_Duplicate_Leakage_Audit_v1.ipynb
 ```
 
 The script enforces the known SHA-256 hashes of the raw datasets and reconstructs the historical split memberships exactly.
@@ -65,7 +65,7 @@ For every test record the audit saves its nearest training neighbor and similari
 
 ## Optional existing-prediction sensitivity
 
-If `reproduction_results_v1/runs/*/*/predictions.csv` files are present, the script recomputes each reproduced model's metrics after excluding test rows flagged at each threshold.
+If `reproduction_results/runs/*/*/predictions.csv` files are present, the script recomputes each reproduced model's metrics after excluding test rows flagged at each threshold.
 
 This is only a **post-hoc sensitivity diagnostic**. If meaningful leakage is found, the publication-grade remedy is a group-aware split followed by retraining—not merely deleting difficult/contaminated test rows.
 
@@ -76,19 +76,19 @@ Inside the existing `depression_repro` environment:
 ```bash
 cd /home/taidinh/Depression_Reproduction
 
-nohup python -u near_duplicate_leakage_audit.py \
+nohup python -u src/near_duplicate_leakage_audit.py \
   --project-root "$PWD" \
   --n-jobs 4 \
-  > logs/near_duplicate_audit_v1.log 2>&1 &
+  > logs/near_duplicate_audit.log 2>&1 &
 
-echo $! > logs/near_duplicate_audit_v1.pid
-cat logs/near_duplicate_audit_v1.pid
+echo $! > logs/near_duplicate_audit.pid
+cat logs/near_duplicate_audit.pid
 ```
 
 Monitor:
 
 ```bash
-tail -f logs/near_duplicate_audit_v1.log
+tail -f logs/near_duplicate_audit.log
 ```
 
 No GPU is required.
@@ -96,7 +96,7 @@ No GPU is required.
 ## Main outputs
 
 ```text
-near_duplicate_audit_v1/
+near_duplicate_audit/
 ├── FINAL_STATUS.json
 ├── AUDIT_REPORT.md
 ├── tables/
@@ -129,14 +129,14 @@ After completion, package the compact result files:
 
 ```bash
 tar -czf near_duplicate_audit_review.tar.gz \
-  near_duplicate_audit_v1/FINAL_STATUS.json \
-  near_duplicate_audit_v1/AUDIT_REPORT.md \
-  near_duplicate_audit_v1/tables/near_duplicate_leakage_summary.csv \
-  near_duplicate_audit_v1/tables/existing_prediction_clean_test_sensitivity.csv \
-  near_duplicate_audit_v1/tables/prediction_sensitivity_status.csv \
-  near_duplicate_audit_v1/tables/d1_d2_overlap_audit.csv \
-  near_duplicate_audit_v1/tables/historical_split_audit.csv \
-  near_duplicate_audit_v1/clusters/cluster_summary_*.csv
+  near_duplicate_audit/FINAL_STATUS.json \
+  near_duplicate_audit/AUDIT_REPORT.md \
+  near_duplicate_audit/tables/near_duplicate_leakage_summary.csv \
+  near_duplicate_audit/tables/existing_prediction_clean_test_sensitivity.csv \
+  near_duplicate_audit/tables/prediction_sensitivity_status.csv \
+  near_duplicate_audit/tables/d1_d2_overlap_audit.csv \
+  near_duplicate_audit/tables/historical_split_audit.csv \
+  near_duplicate_audit/clusters/cluster_summary_*.csv
 ```
 
 If we need to inspect individual examples, add the relevant `internal_review/*.csv.gz` files separately.

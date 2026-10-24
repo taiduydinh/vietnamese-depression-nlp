@@ -37,7 +37,7 @@ PY
 Then regenerate preprocessing:
 
 ```bash
-python -u reproduce_all_previous_models.py \
+python -u src/reproduce_all_previous_models.py \
   --project-root "$PWD" \
   --prepare-only \
   --force-preprocess

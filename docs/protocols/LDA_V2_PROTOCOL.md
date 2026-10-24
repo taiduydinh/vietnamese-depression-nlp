@@ -14,7 +14,7 @@ The v1 LDA run was useful diagnostically: it exposed repeated/template-like text
 ### 1. Input corpus
 
 - Verify the original D1/D2 raw-file SHA-256 hashes.
-- Verify audited preprocessing under `reproduction_results_v1/preprocessed/`.
+- Verify audited preprocessing under `reproduction_results/preprocessed/`.
 - Verify D1 and D2 contain the same 3,782 positive texts.
 - Use one canonical positive corpus in D1 row order.
 - Require the previously audited count of **3,778 non-empty positive `text_clean_tfidf` texts** before further topic-specific processing.

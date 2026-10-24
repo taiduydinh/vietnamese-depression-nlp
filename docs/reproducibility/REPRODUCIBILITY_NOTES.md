@@ -6,7 +6,7 @@
 - The current server reproduction produced 10/12 model–dataset results; PhoBERT-large reruns failed with GPU OOM under the shared-server memory situation. Archived/original PhoBERT-large metrics are retained separately in the comparison table.
 - The near-duplicate sensitivity analysis removes flagged held-out examples post hoc. It should not be described as equivalent to a new group-aware training/test evaluation.
 - LDA v2 model selection was frozen before the 60-run search and uses coherence one-SE eligibility followed by cross-seed stability. The quality gate is diagnostic only.
-- Public-facing files intentionally omit raw/normalized social-media text and third-party binary resources.
+- Raw benchmark files are omitted from the public snapshot, but qualitative project and quotation artifacts may embed text. Public release and prior Git history require a separate privacy/redistribution review; see `DATA_AND_PRIVACY.md`.
 
 ## GPT-5.6 Sol environment
 

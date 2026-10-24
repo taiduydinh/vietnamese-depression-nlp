@@ -226,7 +226,7 @@ class DSU:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--project-root", type=Path, default=Path.cwd())
-    parser.add_argument("--results-dir", type=str, default="near_duplicate_audit_v1")
+    parser.add_argument("--results-dir", type=str, default="near_duplicate_audit")
     parser.add_argument("--thresholds", type=float, nargs="+", default=[0.90, 0.95, 0.98])
     parser.add_argument("--min-chars", type=int, default=30)
     parser.add_argument("--char-ngram-min", type=int, default=3)
@@ -306,7 +306,7 @@ class AuditRunner:
         rows = []
         for d in [1, 2]:
             raw_path = self.root / "datasets" / f"dataset_{d}.csv"
-            pre_path = self.root / "reproduction_results_v1" / "preprocessed" / f"Dataset_depression_vi{d}.csv"
+            pre_path = self.root / "reproduction_results" / "preprocessed" / f"Dataset_depression_vi{d}.csv"
             if not raw_path.exists():
                 raise FileNotFoundError(raw_path)
             if not pre_path.exists():
@@ -777,7 +777,7 @@ class AuditRunner:
             log("Skipping prediction sensitivity analysis (--skip-prediction-sensitivity).")
             return pd.DataFrame()
 
-        run_root = self.root / "reproduction_results_v1" / "runs"
+        run_root = self.root / "reproduction_results" / "runs"
         pred_files = sorted(run_root.glob("*/*/predictions.csv")) if run_root.exists() else []
         if not pred_files:
             log("No reproduction predictions.csv files found; skipping post-hoc metric sensitivity analysis.")

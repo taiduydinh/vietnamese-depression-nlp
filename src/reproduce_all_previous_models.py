@@ -2187,7 +2187,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     p.add_argument(
         "--results-dir",
-        default="reproduction_results_v1",
+        default="reproduction_results",
         help="Output directory under the project root.",
     )
 

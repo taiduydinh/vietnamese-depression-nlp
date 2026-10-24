@@ -12,7 +12,7 @@ classes and later GPT-LDA analysis must be described as thematic correspondence,
 Primary v2 protocol (defaults are frozen for the paper run)
 -----------------------------------------------------------
 1. Verify the two raw datasets by known SHA-256 hashes and verify row-aligned audited
-   preprocessing from reproduction_results_v1/preprocessed/.
+   preprocessing from reproduction_results/preprocessed/.
 2. Verify that D1 and D2 share the same 3,782 positive texts.
 3. Build one canonical positive corpus using D1 row order.
 4. Recompute the SAME conservative duplicate-normalization and char_wb TF-IDF similarity
@@ -224,7 +224,7 @@ class DSU:
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--project-root", type=Path, default=Path.cwd())
-    p.add_argument("--results-dir", default="lda_results_v2")
+    p.add_argument("--results-dir", default="lda_results")
     p.add_argument("--n-jobs", type=int, default=min(4, os.cpu_count() or 1))
     p.add_argument("--prepare-only", action="store_true", help="Stop after corpus/family/dictionary audit.")
     p.add_argument("--force-search", action="store_true", help="Retrain LDA search models even if matching checkpoints exist.")
@@ -298,7 +298,7 @@ class LDAV2:
         rows = []
         for d in [1, 2]:
             raw_path = self.root / "datasets" / f"dataset_{d}.csv"
-            pre_path = self.root / "reproduction_results_v1" / "preprocessed" / f"Dataset_depression_vi{d}.csv"
+            pre_path = self.root / "reproduction_results" / "preprocessed" / f"Dataset_depression_vi{d}.csv"
             if not raw_path.exists():
                 raise FileNotFoundError(raw_path)
             if not pre_path.exists():
@@ -369,7 +369,7 @@ class LDAV2:
 
         log("RAW / SHARED-POSITIVE / PREPROCESSING AUDIT: PASS")
 
-        audit_cfg = self.root / "near_duplicate_audit_v1" / "provenance" / "audit_configuration.json"
+        audit_cfg = self.root / "near_duplicate_audit" / "provenance" / "audit_configuration.json"
         if audit_cfg.exists():
             try:
                 cfg = json.loads(audit_cfg.read_text(encoding="utf-8"))
@@ -382,7 +382,7 @@ class LDAV2:
                     "char_ngram_range": cfg.get("char_ngram_range"),
                     "max_features": cfg.get("max_features"),
                 }
-                log("Found near_duplicate_audit_v1 configuration; recorded it as provenance reference.")
+                log("Found near_duplicate_audit configuration; recorded it as provenance reference.")
             except Exception as exc:
                 log(f"WARNING: could not parse near-duplicate audit configuration: {exc}")
 
@@ -758,7 +758,7 @@ class LDAV2:
             "dictionary_sha256": dictionary_hash,
             "dedup_threshold": self.args.dedup_threshold,
             "min_chars": self.args.min_chars,
-            "duplicate_normalization": "same as near_duplicate_audit_v1",
+            "duplicate_normalization": "same as near_duplicate_audit",
             "duplicate_similarity": {"analyzer": "char_wb", "ngram_range": list(DEFAULT_CHAR_NGRAM_RANGE), "min_df": 2, "max_features": DEFAULT_MAX_FEATURES},
             "complete_link_refinement": True,
             "generic_token_cleanup": ["remove one-character tokens", "remove pure-number tokens", "remove http/https/www/com residues"],

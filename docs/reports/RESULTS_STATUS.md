@@ -19,7 +19,7 @@ Ten model–dataset runs completed and have per-run metrics/predictions. PhoBERT
 | Word2Vec + CNN | D1 | 1187 | 0.9789 | 0.9836 | 0.9771 |
 | Word2Vec + CNN | D2 | 1469 | 0.9796 | 0.9803 | 0.9796 |
 
-See `reproduction_results_v1/comparison_with_legacy.csv` for archived/original values and reproduction deltas.
+See `reproduction_results/comparison_with_legacy.csv` for archived/original values and reproduction deltas.
 
 ## 2. Near-duplicate leakage audit
 
@@ -59,3 +59,15 @@ The final GPT results are included in public-safe form under `gpt56_sol/`.
 | D2 (final merged) | 1469 | 0.9353 | 0.9839 | 0.8889 | 0.9340 | 0.9353 |
 
 The initial D2 batch had 139 quota-related failures and therefore only 1,330 valid outputs. Those exact requests were later recovered; `gpt56_sol/results/d2_final_metrics.json` and `d2_predictions_public.csv` are authoritative. The topic taxonomy is literature-guided LLM annotation, not ground-truth topic labels.
+
+## 5. Text-length confounding and matched-test sensitivity
+
+The saved text-length analysis found that the joint length-only logistic-regression baseline had approximately 63.9% accuracy (50.1% balanced accuracy) in D1 and 92.7% accuracy (92.8% balanced accuracy) in D2. The D2 matched-test subset contains 266 held-out texts, approximately 18.1% of its test set. Match-based results have reduced coverage and should not be presented as independent clinical validation.
+
+Outputs: `length_confounds_results/length_only_baselines.csv`, `matched_test_metrics.csv`, and `RUN_MANIFEST.json`. The available data do not support a PhoBERT-large length-matched evaluation.
+
+## 6. Researcher-reviewed qualitative analysis
+
+The MAXQDA-based component reports 245 initially selected reference-positive texts, 14 uncoded exclusions, 231 retained coded texts, 15 thematic categories, and 523 coded segments. The MAXQDA–LDA–GPT comparisons describe thematic correspondences and differences; they do not establish diagnoses or independent inter-rater agreement.
+
+Publication figures and comparison data reside in `MAXQDA_Triangulation/`. Text-bearing qualitative artifacts require a separate redistribution/privacy review.
